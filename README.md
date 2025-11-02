@@ -4,7 +4,7 @@
 
 This project implements an end-to-end pipeline for generating synthetic Statement of Work (SOW) documents and extracting structured topic information from them. The primary goal is to create a dashboard-ready dataset where each document's sections are labeled with hierarchical topic tags, enabling systematic analysis and reporting.
 
-**Problem Statement:** We need to onboard 1,200 clients, each with their own SOW document in varying formats. These documents lack standardized structure or terminology. Our task is to extract meaningful topics and create a unified reporting dashboard without prior knowledge of important keywords or headings.
+**Problem Statement:** We need to onboard 1,200 clients, each with their own SOW document in varying formats. These documents lack standardized structure or terminology, and often have inconsistent formatting (e.g., missing bold for headings, varying text sizes, inconsistent use of tables). Our task is to extract meaningful topics and create a unified reporting dashboard without prior knowledge of important keywords, headings, or formatting conventions.
 
 ---
 
@@ -58,6 +58,7 @@ CLAUSE_POOL = {
 - Repetitive and formulaic language
 - Lack of natural variation in phrasing
 - Documents felt "synthetic" and predictable
+- No formatting elements (bold headings, tables, varied text sizes)
 
 ### 1.2 Enhanced Approach: LLM-Augmented Generation
 
@@ -102,14 +103,15 @@ Despite improvements, the generated data still has issues:
 1. **Structural inconsistency:** Section headings sometimes missing or inconsistent
 2. **Content depth:** Some sections are too brief or lack detail
 3. **Domain realism:** Limited domain-specific terminology
-4. **Format variety:** All documents are plain text (no tables, bullet points, etc.)
+4. **Formatting inconsistency:** Lack of well-formatted data such as bold for headings, separate text sizes, tables, etc.
 
-**Improvement ideas:**
+**Scope of Improvement :**
 
 - Use more sophisticated prompts with examples
 - Incorporate real SOW templates as references
 - Add more domain-specific clause pools
 - Generate documents in varied formats (Markdown, structured JSON)
+- Add realistic formatting elements (bold headings, tables, varied text sizes, structured lists)
 
 ---
 
@@ -537,14 +539,16 @@ class SectionLabeler:
 - Documents still feel synthetic
 - Limited domain-specific terminology
 - Inconsistent section structure
+- Lack of well-formatted data (bold for headings, separate text sizes, tables, etc.)
 
 **Improvements:**
 
 1. **Use real SOW templates** as reference for generation
 2. **Incorporate industry-specific terms** (e.g., "force majeure", "indemnification", "SLA")
 3. **Add structured elements** (tables, bullet lists, numbered clauses)
-4. **Vary document formats** (some with clear headings, some inline)
-5. **Generate longer documents** with more realistic clause interactions
+4. **Add formatting elements** (bold headings, varied text sizes, properly formatted tables)
+5. **Vary document formats** (some with clear headings, some inline)
+6. **Generate longer documents** with more realistic clause interactions
 
 ### 7.2 Topic Extraction Accuracy
 
@@ -648,47 +652,15 @@ sow-data-extractor/
 
 - **LLM:** GPT-4.1-mini (topic extraction, canonical naming)
 - **Embeddings:**
-  - `all-MiniLM-L6-v2` (384 dim, faster but less accurate)
-  - `all-mpnet-base-v2` (768 dim, more accurate)
+  - `all-MiniLM-L6-v2` (384 dim, faster but less accurate, section labeling was about 50%)
+  - `all-mpnet-base-v2` (768 dim, more accurate, section labeling was about 75–80%)
 
 **LLM Router:**
 
 - Custom `SimpleLLMCaller` class with retry logic and caching
 - Supports OpenAI API with configurable concurrency
 
-### 8.3 Performance Metrics
-
-**Data Generation:**
-
-- Time: ~2 hours for 1,200 documents (with caching)
-- Cost: ~$15-20 in API calls
-- Cache hit rate: ~60% after first run
-
-**Topic Extraction:**
-
-- Time: ~30 minutes for 1,200 documents
-- Cost: ~$10 in API calls
-- Concurrency: 10 simultaneous requests
-
-**Topic Consolidation:**
-
-- Phase 1 (clustering): ~2 minutes
-- Phase 2 (LLM naming): ~5 minutes for 225 clusters
-- Total cost: ~$5 in API calls
-
-**Section Labeling:**
-
-- Time: ~10 minutes for 1,200 documents
-- Cost: $0 (embedding-based, no LLM calls!)
-- Throughput: ~120 documents/minute
-
-**Total Pipeline:**
-
-- End-to-end time: ~3 hours (including generation)
-- Total cost: ~$30-40 in API calls
-- Output: Dashboard-ready labeled dataset
-
-### 8.4 Configuration
+### 8.3 Configuration
 
 **Key Parameters:**
 
@@ -705,29 +677,37 @@ sow-data-extractor/
 
 ## 9. Running the Pipeline
 
-### 9.1 Prerequisites
+### 9.1 Setup
+
+This project uses [uv](https://github.com/astral-sh/uv) for dependency management.
+
+**Install dependencies:**
 
 ```bash
-pip install sentence-transformers scikit-learn tqdm faker aiohttp
+# Install uv if you don't have it
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Install project dependencies
+uv sync
 ```
+
+This will install all dependencies defined in `pyproject.toml` into a virtual environment.
 
 ### 9.2 Step-by-Step Execution
 
 **1. Generate SOW Documents**
 
 ```bash
-cd code/data-generation
-python datagen.py
+uv run code/data-generation/datagen.py
 # Output: generated_data/sow_*.txt (1200 files)
 ```
 
 **2. Extract Topics (LLM)**
 
 ```bash
-cd code/topic-extraction
-python extract_topics_from_files.py \
-    --input-dir ../../generated_data \
-    --output ../../extracted_topics/sow_topics.json \
+uv run code/topic-extraction/extract_topics_from_files.py \
+    --input-dir generated_data \
+    --output extracted_topics/sow_topics.json \
     --model gpt-4.1-mini \
     --concurrency 10
 # Output: sow_topics.json (479 unique topic variants)
@@ -736,7 +716,7 @@ python extract_topics_from_files.py \
 **3. Consolidate Topics**
 
 ```bash
-python consolidate_llm_topics.py
+uv run code/topic-extraction/consolidate_llm_topics.py
 # Output:
 #   - canonical_topics.json (225 subtopics, T001-T225)
 #   - hierarchical_topics.json (12 main topics, M01-M12)
@@ -746,13 +726,8 @@ python consolidate_llm_topics.py
 **4. Label Document Sections**
 
 ```bash
-cd ../labeling
-python label_sections.py \
-    --input-dir ../../generated_data \
-    --taxonomy ../../extracted_topics/hierarchical_topics_full.json \
-    --output ../../extracted_topics/labeled_sections.json
+uv run code/labeling/label_sections.py
 # Output:
-#   - labeled_sections.json (full format, 344MB)
 #   - labeled_sections_minimal.json (hierarchical format, 50-80MB)
 ```
 
@@ -803,22 +778,22 @@ The system can handle 1,200 documents in ~3 hours for ~$40, producing a structur
 
 ## Appendix A: Main Topic Taxonomy
 
-| ID      | Name                              | Description                            | Subtopics                          |
-| ------- | --------------------------------- | -------------------------------------- | ---------------------------------- |
-| **M01** | Contractual Terms and Conditions  | Legal, financial, compliance elements  | 25 subtopics (T001, T007, T012...) |
-| **M02** | Project Scope and Deliverables    | Work scope, deliverables, objectives   | 28 subtopics                       |
-| **M03** | Quality and Compliance Management | Quality standards, testing, compliance | 30 subtopics                       |
-| **M04** | Technical Specifications          | Technical requirements, architecture   | 22 subtopics                       |
-| **M05** | Timeline and Milestones           | Schedules, milestones, deadlines       | 18 subtopics                       |
-| **M06** | Resource Management               | Resources, staffing, allocation        | 15 subtopics                       |
-| **M07** | Risk and Issue Management         | Risks, issues, mitigation              | 12 subtopics                       |
-| **M08** | Communication and Reporting       | Communication plans, reporting         | 20 subtopics                       |
-| **M09** | Change Management                 | Change control, versioning             | 14 subtopics                       |
-| **M10** | Support and Maintenance           | Post-deployment support, maintenance   | 16 subtopics                       |
-| **M11** | Security and Privacy              | Security requirements, data privacy    | 13 subtopics                       |
-| **M12** | Integration and Deployment        | Integration, deployment processes      | 12 subtopics                       |
+| ID      | Name                                  | Description                                           | Subtopics    |
+| ------- | ------------------------------------- | ----------------------------------------------------- | ------------ |
+| **M01** | Contractual Terms and Conditions      | Legal, financial, compliance elements                 | 64 subtopics |
+| **M02** | Performance and Quality Management    | Quality standards, testing, reporting, requirements   | 50 subtopics |
+| **M03** | Deliverables and Execution            | Deliverables, timeline, deployment, support           | 44 subtopics |
+| **M04** | System Integration and Migration      | Integration requirements, data migration              | 20 subtopics |
+| **M05** | Documentation and Knowledge Transfer  | Documentation, training, knowledge transfer           | 18 subtopics |
+| **M06** | Project Scope and Management          | Scope definition, work activities, project management | 16 subtopics |
+| **M07** | Intellectual Property and Data Rights | IP ownership, usage rights, confidentiality           | 5 subtopics  |
+| **M08** | Parties Identification                | Party identification, roles, dates                    | 3 subtopics  |
+| **M09** | Operational Processes                 | Data management, communication protocols              | 3 subtopics  |
+| **M10** | Term and Commencement                 | Effective date, contract commencement                 | 1 subtopic   |
+| **M11** | Party Identification                  | Contact information, party details                    | 1 subtopic   |
+| **M12** | Deliverable Materials                 | Source code, build materials                          | 1 subtopic   |
 
-**Total:** 12 main topics, 225 subtopics
+**Total:** 12 main topics, 226 subtopics
 
 ---
 
@@ -828,42 +803,63 @@ The system can handle 1,200 documents in ~3 hours for ~$40, producing a structur
 
 ```json
 {
-  "sow_0042": {
+  "sow_0000": {
     "M01": {
-      "T001": [
-        {
-          "lines": "3-4",
-          "text": "Date of Agreement: 2023-06-15\nEffective Until: 2025-12-31"
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2024-08-08\nEffective Until: 2027-07-29"
+            }
+          ]
+        },
+        "T014": {
+          "name": "Compliance and Audit",
+          "sections": [
+            {
+              "lines": "13-14",
+              "text": "Deliverables\nParties mutually consent to the inclusion of compliance audit reports..."
+            }
+          ]
         }
-      ],
-      "T012": [
-        {
-          "lines": "45-48",
-          "text": "Acceptance criteria shall include successful completion of all test cases, performance benchmarks meeting specified thresholds, and approval by the client's technical review board."
-        }
-      ]
+      }
     },
     "M02": {
-      "T002": [
-        {
-          "lines": "8-14",
-          "text": "Scope of Work\n\nThe Vendor commits to developing a comprehensive data analytics platform including dashboard development, API integration, and user training. The platform shall support..."
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T017": {
+          "name": "Progress Reporting",
+          "sections": [
+            {
+              "lines": "11-11",
+              "text": "Project status and progress reports shall be delivered biweekly, providing a comprehensive update on milestones achieved, upcoming tasks, and risk assessments..."
+            }
+          ]
         }
-      ]
+      }
     },
     "M03": {
-      "T008": [
-        {
-          "lines": "30-35",
-          "text": "Testing and Validation\n\nAll deliverables will undergo comprehensive testing including unit tests, integration tests, and user acceptance testing. Test coverage must exceed 80%..."
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T036": {
+          "name": "Infrastructure Setup",
+          "sections": [
+            {
+              "lines": "15-15",
+              "text": "Setup of cloud infrastructure will include deployment, configuration, and optimization to support scalable and secure operations..."
+            }
+          ]
         }
-      ]
+      }
     },
     "Others": {
       "unlabeled": [
         {
-          "lines": "100-102",
-          "text": "Ref ID: 12345-ABC-789\n\n### END OF DOCUMENT ###"
+          "lines": "22-24",
+          "text": "Ref ID: 696d5281-911e-43b8-8dca-9b22c3478634\nSigned by: Michelle Smith, Moore-Jackson\nAddress: 3451 Pittman Street, Summermouth, IA 47672"
         }
       ]
     }
@@ -873,6 +869,6 @@ The system can handle 1,200 documents in ~3 hours for ~$40, producing a structur
 
 ---
 
-**Document Version:** 1.0  
+**Document Version:** 1.1  
 **Last Updated:** November 1, 2025  
-**Author:** SOW Data Extraction Team
+**Author:** Gunangad Pal Singh Narula
