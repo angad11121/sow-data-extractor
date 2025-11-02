@@ -1,0 +1,701 @@
+client,deliverables,deliverables_llm,doc_id,file,scope_of_work,scope_of_work_llm,tone
+"Williams, Guzman and Keith",1,1,SOW-0500,sow_0500.txt,,,corporate
+Copeland PLC,,,SOW-0501,sow_0501.txt,1,1,technical
+Chavez Inc,1,1,SOW-0502,sow_0502.txt,,,corporate
+Cannon-Lester,1,1,SOW-0503,sow_0503.txt,1,0,technical
+Warner-Jackson,1,1,SOW-0504,sow_0504.txt,1,0,conversational
+Jones-Bowman,1,0,SOW-0505,sow_0505.txt,,,technical
+Brown Inc,1,1,SOW-0506,sow_0506.txt,1,0,neutral
+Wilson LLC,,,SOW-0507,sow_0507.txt,1,1,neutral
+Soto and Sons,1,0,SOW-0508,sow_0508.txt,1,1,legal
+Washington LLC,1,1,SOW-0509,sow_0509.txt,1,0,neutral
+Rios and Sons,1,1,SOW-0510,sow_0510.txt,1,0,legal
+Page-Camacho,1,1,SOW-0511,sow_0511.txt,1,0,conversational
+Williams Ltd,1,0,SOW-0512,sow_0512.txt,1,1,legal
+"Hanson, Benton and King",1,1,SOW-0513,sow_0513.txt,,,technical
+"Escobar, Alvarado and Barnes",1,0,SOW-0514,sow_0514.txt,1,1,legal
+Aguilar Group,1,0,SOW-0515,sow_0515.txt,1,1,corporate
+Wilson Inc,1,0,SOW-0516,sow_0516.txt,1,1,neutral
+Archer-Fischer,1,1,SOW-0517,sow_0517.txt,1,0,explanatory
+Baker Group,,,SOW-0518,sow_0518.txt,1,1,neutral
+Whitaker LLC,1,0,SOW-0519,sow_0519.txt,1,1,conversational
+Vasquez Group,1,0,SOW-0520,sow_0520.txt,1,1,neutral
+Prince and Sons,1,1,SOW-0521,sow_0521.txt,1,0,corporate
+Nelson-Williams,,,SOW-0522,sow_0522.txt,1,1,neutral
+Meyer-Weeks,1,1,SOW-0523,sow_0523.txt,,,formal
+Alvarado Ltd,1,1,SOW-0524,sow_0524.txt,1,0,formal
+Ray LLC,,,SOW-0525,sow_0525.txt,1,1,neutral
+Brown LLC,1,0,SOW-0526,sow_0526.txt,1,1,conversational
+Cruz-Graham,1,1,SOW-0527,sow_0527.txt,1,0,formal
+Hardy-Mclaughlin,,,SOW-0528,sow_0528.txt,1,1,explanatory
+"Wade, Reyes and Lopez",1,1,SOW-0529,sow_0529.txt,,,corporate
+"Stephens, Diaz and Hogan",1,0,SOW-0530,sow_0530.txt,1,1,corporate
+Rios-Smith,1,0,SOW-0531,sow_0531.txt,1,1,technical
+"Martinez, Rivas and Walls",,,SOW-0532,sow_0532.txt,1,1,contractual
+"Mendez, Blair and Harris",1,1,SOW-0533,sow_0533.txt,1,0,explanatory
+Suarez Ltd,1,0,SOW-0534,sow_0534.txt,1,0,technical
+"Grant, Daugherty and Perez",1,1,SOW-0535,sow_0535.txt,1,0,corporate
+Murphy and Sons,1,0,SOW-0536,sow_0536.txt,1,1,neutral
+Navarro-Harrington,1,1,SOW-0537,sow_0537.txt,1,0,formal
+Choi Group,1,1,SOW-0538,sow_0538.txt,1,0,conversational
+"Johnston, Baxter and Williams",1,1,SOW-0539,sow_0539.txt,1,0,formal
+Bowen-Martinez,1,0,SOW-0540,sow_0540.txt,1,1,corporate
+Mendez Ltd,,,SOW-0541,sow_0541.txt,1,1,legal
+Munoz PLC,1,0,SOW-0542,sow_0542.txt,1,0,technical
+Roberts LLC,1,1,SOW-0543,sow_0543.txt,1,0,neutral
+"Jones, Adams and Mcdonald",,,SOW-0544,sow_0544.txt,1,1,corporate
+Brown PLC,,,SOW-0545,sow_0545.txt,1,1,legal
+Benton Inc,,,SOW-0546,sow_0546.txt,1,1,corporate
+"Henson, Fernandez and Day",1,0,SOW-0547,sow_0547.txt,1,1,formal
+Gibbs-Bennett,1,1,SOW-0548,sow_0548.txt,,,explanatory
+"Dean, Thomas and Robinson",1,0,SOW-0549,sow_0549.txt,1,1,legal
+Huynh Group,1,0,SOW-0550,sow_0550.txt,1,1,legal
+Adams-Bush,,,SOW-0551,sow_0551.txt,1,1,formal
+Fitzpatrick-Little,1,1,SOW-0552,sow_0552.txt,1,0,corporate
+"Watts, Williams and Williams",1,1,SOW-0553,sow_0553.txt,1,0,corporate
+"Martinez, Franco and Mclaughlin",1,0,SOW-0554,sow_0554.txt,,,explanatory
+Henry Group,1,1,SOW-0555,sow_0555.txt,1,0,formal
+"Johnson, Klein and Hensley",1,0,SOW-0556,sow_0556.txt,1,1,neutral
+Clark Inc,1,1,SOW-0557,sow_0557.txt,1,0,conversational
+"Smith, Brown and Bates",1,0,SOW-0558,sow_0558.txt,1,1,neutral
+"Blair, Li and Ward",1,0,SOW-0559,sow_0559.txt,1,1,technical
+Jacobs and Sons,1,1,SOW-0560,sow_0560.txt,,,technical
+Hernandez-May,1,1,SOW-0561,sow_0561.txt,1,0,technical
+"Walker, Gonzalez and Tate",1,0,SOW-0562,sow_0562.txt,1,0,formal
+Foster-Mullins,1,0,SOW-0563,sow_0563.txt,1,1,contractual
+"Logan, Johnson and Hall",1,0,SOW-0564,sow_0564.txt,1,1,legal
+"Oneill, Robertson and Herrera",1,0,SOW-0565,sow_0565.txt,1,1,explanatory
+"Anderson, Hayes and King",,,SOW-0566,sow_0566.txt,1,1,technical
+Bailey Group,1,1,SOW-0567,sow_0567.txt,1,0,corporate
+Sanchez-Mejia,1,1,SOW-0568,sow_0568.txt,,,contractual
+"Allen, Chapman and Griffin",1,1,SOW-0569,sow_0569.txt,1,0,contractual
+Diaz LLC,1,0,SOW-0570,sow_0570.txt,1,0,contractual
+"Pruitt, Cohen and Johnson",,,SOW-0571,sow_0571.txt,1,1,explanatory
+"Allen, Wright and Andersen",1,1,SOW-0572,sow_0572.txt,,,formal
+Diaz-Cline,1,1,SOW-0573,sow_0573.txt,1,0,explanatory
+Sanders Inc,1,1,SOW-0574,sow_0574.txt,1,0,corporate
+Wallace-Klein,1,0,SOW-0575,sow_0575.txt,1,1,corporate
+Gray PLC,,,SOW-0576,sow_0576.txt,1,1,conversational
+"Campbell, Erickson and Baker",,,SOW-0577,sow_0577.txt,1,1,neutral
+Newman-Huff,1,0,SOW-0578,sow_0578.txt,1,1,technical
+Zavala-Johnson,,,SOW-0579,sow_0579.txt,1,1,conversational
+"Collins, Horton and Morgan",1,0,SOW-0580,sow_0580.txt,1,1,neutral
+"Hunt, Peterson and Pruitt",1,0,SOW-0581,sow_0581.txt,1,1,conversational
+Stephens and Sons,1,0,SOW-0582,sow_0582.txt,1,0,legal
+Gonzalez-Fowler,1,0,SOW-0583,sow_0583.txt,1,0,conversational
+Morrow Ltd,1,1,SOW-0584,sow_0584.txt,1,0,neutral
+"Beck, Davenport and Russell",1,0,SOW-0585,sow_0585.txt,1,1,contractual
+"Mcdaniel, Thompson and Alvarez",1,1,SOW-0586,sow_0586.txt,,,formal
+"Thompson, Ryan and Howard",1,1,SOW-0587,sow_0587.txt,1,0,neutral
+Morales-Burnett,1,0,SOW-0588,sow_0588.txt,1,1,legal
+Greene Inc,1,1,SOW-0589,sow_0589.txt,,,neutral
+"Delgado, Sutton and Wilson",,,SOW-0590,sow_0590.txt,1,1,legal
+Williams PLC,1,1,SOW-0591,sow_0591.txt,,,contractual
+Black Inc,1,1,SOW-0592,sow_0592.txt,,,legal
+Mclaughlin and Sons,1,1,SOW-0593,sow_0593.txt,1,0,formal
+Bowen-Owen,1,0,SOW-0594,sow_0594.txt,1,1,technical
+Zimmerman-Martin,1,1,SOW-0595,sow_0595.txt,,,neutral
+"Duncan, Meyer and Perkins",1,1,SOW-0596,sow_0596.txt,1,0,formal
+Bailey LLC,1,1,SOW-0597,sow_0597.txt,1,0,explanatory
+Rowland-Roach,,,SOW-0598,sow_0598.txt,1,1,contractual
+"Guerra, Manning and Cole",1,1,SOW-0599,sow_0599.txt,1,0,corporate
+"Campbell, Jones and Rosales",1,0,SOW-0600,sow_0600.txt,1,0,corporate
+"Haynes, Spencer and Watson",,,SOW-0601,sow_0601.txt,1,1,corporate
+"Wright, Williams and Martinez",1,1,SOW-0602,sow_0602.txt,1,0,neutral
+Williams-Cruz,1,1,SOW-0603,sow_0603.txt,1,0,conversational
+"Spears, Sanders and Bruce",,,SOW-0604,sow_0604.txt,1,1,contractual
+Thompson LLC,1,0,SOW-0605,sow_0605.txt,1,1,explanatory
+Vasquez-Kelly,1,1,SOW-0606,sow_0606.txt,1,0,neutral
+Watts PLC,1,1,SOW-0607,sow_0607.txt,1,0,formal
+"Phillips, Graves and Hardin",1,0,SOW-0608,sow_0608.txt,,,corporate
+Houston-Neal,1,0,SOW-0609,sow_0609.txt,1,1,explanatory
+Reeves-Gutierrez,1,0,SOW-0610,sow_0610.txt,1,1,explanatory
+Jackson Ltd,,,SOW-0611,sow_0611.txt,1,1,formal
+"Fuller, Griffin and Bennett",1,1,SOW-0612,sow_0612.txt,1,0,conversational
+"Evans, Richardson and Davidson",1,1,SOW-0613,sow_0613.txt,1,0,conversational
+"Spears, Cox and Snyder",1,0,SOW-0614,sow_0614.txt,1,0,formal
+"Bell, Cortez and Johnson",1,0,SOW-0615,sow_0615.txt,,,neutral
+Cannon Group,,,SOW-0616,sow_0616.txt,1,0,corporate
+Wilkinson-Nunez,1,1,SOW-0617,sow_0617.txt,1,0,technical
+"Hobbs, Moreno and Mitchell",,,SOW-0618,sow_0618.txt,1,1,technical
+Klein LLC,,,SOW-0619,sow_0619.txt,1,1,contractual
+Lee-Bell,,,SOW-0620,sow_0620.txt,1,1,formal
+"Chavez, Duran and Graham",1,1,SOW-0621,sow_0621.txt,1,0,conversational
+Davis-French,1,1,SOW-0622,sow_0622.txt,,,neutral
+Fischer Group,,,SOW-0623,sow_0623.txt,1,1,technical
+Thomas PLC,1,1,SOW-0624,sow_0624.txt,1,0,corporate
+"Cummings, Yates and Golden",1,1,SOW-0625,sow_0625.txt,1,0,formal
+Dixon Group,1,1,SOW-0626,sow_0626.txt,,,formal
+Alexander-Stone,,,SOW-0627,sow_0627.txt,1,1,legal
+King LLC,,,SOW-0628,sow_0628.txt,1,1,neutral
+Anderson LLC,1,1,SOW-0629,sow_0629.txt,,,neutral
+Baker PLC,,,SOW-0630,sow_0630.txt,1,1,formal
+Valencia-Woods,1,1,SOW-0631,sow_0631.txt,1,0,conversational
+Foster-Harris,,,SOW-0632,sow_0632.txt,1,1,legal
+Rowland Inc,1,0,SOW-0633,sow_0633.txt,1,1,neutral
+Carr-Lawson,1,0,SOW-0634,sow_0634.txt,,,neutral
+Merritt-Santiago,1,1,SOW-0635,sow_0635.txt,,,neutral
+"Ward, Irwin and Dunn",1,1,SOW-0636,sow_0636.txt,,,formal
+"Hudson, Stone and Atkins",1,0,SOW-0637,sow_0637.txt,1,1,conversational
+Cain-Ellison,1,1,SOW-0638,sow_0638.txt,,,legal
+Payne PLC,1,1,SOW-0639,sow_0639.txt,1,0,formal
+Romero-Barron,1,1,SOW-0640,sow_0640.txt,1,0,corporate
+Ellison-Williams,1,1,SOW-0641,sow_0641.txt,1,0,technical
+"Miller, Morris and Herrera",1,0,SOW-0642,sow_0642.txt,1,1,formal
+"Contreras, Nash and Adkins",,,SOW-0643,sow_0643.txt,1,0,explanatory
+Henry PLC,1,1,SOW-0644,sow_0644.txt,1,0,legal
+Nunez and Sons,,,SOW-0645,sow_0645.txt,1,1,conversational
+Fitzgerald-Patton,1,0,SOW-0646,sow_0646.txt,1,1,neutral
+Osborne PLC,1,1,SOW-0647,sow_0647.txt,1,0,neutral
+Burke and Sons,1,0,SOW-0648,sow_0648.txt,1,1,corporate
+Johnson Group,1,1,SOW-0649,sow_0649.txt,,,corporate
+Fox Group,1,1,SOW-0650,sow_0650.txt,1,0,contractual
+"Ponce, Sosa and Ochoa",,,SOW-0651,sow_0651.txt,1,0,corporate
+"Park, Oneill and Morgan",1,1,SOW-0652,sow_0652.txt,,,explanatory
+Thomas Group,1,1,SOW-0653,sow_0653.txt,,,neutral
+"Bridges, Rogers and Anderson",,,SOW-0654,sow_0654.txt,1,1,legal
+Weiss-Rios,1,0,SOW-0655,sow_0655.txt,1,1,neutral
+"Lambert, Robinson and Garcia",1,1,SOW-0656,sow_0656.txt,1,0,conversational
+Frazier Inc,,,SOW-0657,sow_0657.txt,1,1,contractual
+"Alvarado, Copeland and Moore",1,0,SOW-0658,sow_0658.txt,1,1,formal
+Berry-Juarez,1,0,SOW-0659,sow_0659.txt,1,1,conversational
+King PLC,,,SOW-0660,sow_0660.txt,1,0,formal
+"Buckley, Mcmahon and Ross",1,1,SOW-0661,sow_0661.txt,1,0,explanatory
+Butler-Fletcher,1,0,SOW-0662,sow_0662.txt,1,1,explanatory
+"Tyler, Estrada and Walker",,,SOW-0663,sow_0663.txt,1,1,formal
+"Hopkins, Hernandez and Hart",1,0,SOW-0664,sow_0664.txt,1,1,contractual
+Williams Group,,,SOW-0665,sow_0665.txt,1,0,formal
+"Rivera, Lowe and Thompson",1,0,SOW-0666,sow_0666.txt,1,1,technical
+"Perry, Wilkins and Martin",1,0,SOW-0667,sow_0667.txt,1,1,corporate
+"George, Smith and Bishop",1,1,SOW-0668,sow_0668.txt,1,0,formal
+"Olson, Garcia and Keller",1,0,SOW-0669,sow_0669.txt,1,0,technical
+Scott LLC,1,0,SOW-0670,sow_0670.txt,1,1,corporate
+Crawford LLC,1,0,SOW-0671,sow_0671.txt,1,1,technical
+"Patel, Smith and Davidson",,,SOW-0672,sow_0672.txt,1,1,explanatory
+"Robertson, Cunningham and Davidson",1,0,SOW-0673,sow_0673.txt,1,1,contractual
+Thompson Inc,,,SOW-0674,sow_0674.txt,1,1,neutral
+Padilla and Sons,,,SOW-0675,sow_0675.txt,1,1,corporate
+"Pitts, Stephens and Wilson",1,1,SOW-0676,sow_0676.txt,1,0,contractual
+"Mullins, Nielsen and Myers",1,1,SOW-0677,sow_0677.txt,1,0,formal
+Garcia-Hartman,1,1,SOW-0678,sow_0678.txt,,,legal
+Cooper PLC,1,1,SOW-0679,sow_0679.txt,,,neutral
+Thomas-Mccarty,1,0,SOW-0680,sow_0680.txt,1,0,neutral
+Cook-Hall,1,1,SOW-0681,sow_0681.txt,,,explanatory
+"Stein, Pearson and King",1,1,SOW-0682,sow_0682.txt,1,0,corporate
+Hicks-Adams,,,SOW-0683,sow_0683.txt,1,1,technical
+"Elliott, Guzman and Barnes",,,SOW-0684,sow_0684.txt,1,1,formal
+Weaver-Wilson,1,1,SOW-0685,sow_0685.txt,1,0,technical
+"Wood, Rodgers and Young",1,1,SOW-0686,sow_0686.txt,1,0,neutral
+Meyer-Adkins,1,0,SOW-0687,sow_0687.txt,1,1,neutral
+"Roberts, Hammond and Anderson",,,SOW-0688,sow_0688.txt,1,1,neutral
+Miller-Johnston,1,1,SOW-0689,sow_0689.txt,1,0,conversational
+"Williams, Drake and Wiggins",,,SOW-0690,sow_0690.txt,1,1,formal
+"Davis, Collins and Martinez",1,1,SOW-0691,sow_0691.txt,,,neutral
+Barron Ltd,1,1,SOW-0692,sow_0692.txt,,,contractual
+Chapman PLC,1,0,SOW-0693,sow_0693.txt,1,1,technical
+Cline Inc,,,SOW-0694,sow_0694.txt,1,1,legal
+"Sanders, Reynolds and Park",1,0,SOW-0695,sow_0695.txt,1,0,technical
+"Terry, White and Smith",1,0,SOW-0696,sow_0696.txt,1,1,technical
+Murray Ltd,1,1,SOW-0697,sow_0697.txt,1,0,conversational
+Foster-Ortiz,1,0,SOW-0698,sow_0698.txt,1,0,formal
+"Davis, Dunn and Kelly",1,0,SOW-0699,sow_0699.txt,1,0,corporate
+Brandt-Smith,1,1,SOW-0700,sow_0700.txt,1,0,neutral
+"Shepard, Cross and Reese",1,1,SOW-0701,sow_0701.txt,1,0,legal
+"Castillo, Jones and Young",1,1,SOW-0702,sow_0702.txt,1,0,neutral
+Bridges Group,,,SOW-0703,sow_0703.txt,1,1,explanatory
+Contreras-Hess,1,1,SOW-0704,sow_0704.txt,1,0,neutral
+"Gardner, Cole and Sanchez",1,1,SOW-0705,sow_0705.txt,1,0,technical
+Decker-Mcdaniel,1,0,SOW-0706,sow_0706.txt,1,1,conversational
+Wiley-Ramos,1,0,SOW-0707,sow_0707.txt,,,conversational
+"Gardner, Morris and Mccarthy",1,1,SOW-0708,sow_0708.txt,,,corporate
+"Phillips, Hernandez and Adams",1,0,SOW-0709,sow_0709.txt,1,0,conversational
+King-Miller,1,1,SOW-0710,sow_0710.txt,1,0,corporate
+Hayes-Ramirez,,,SOW-0711,sow_0711.txt,1,1,conversational
+Combs PLC,1,1,SOW-0712,sow_0712.txt,1,0,technical
+Henry PLC,,,SOW-0713,sow_0713.txt,1,1,explanatory
+Harris-Harrison,,,SOW-0714,sow_0714.txt,1,1,conversational
+Davis-Merritt,1,0,SOW-0715,sow_0715.txt,1,1,legal
+"Sawyer, Martinez and Sutton",1,0,SOW-0716,sow_0716.txt,1,1,corporate
+"Robbins, Brown and Chambers",1,1,SOW-0717,sow_0717.txt,,,technical
+Wright PLC,1,0,SOW-0718,sow_0718.txt,1,1,formal
+Jones-Reynolds,,,SOW-0719,sow_0719.txt,1,1,technical
+Mason-Ferrell,1,0,SOW-0720,sow_0720.txt,,,formal
+Terry-Greene,,,SOW-0721,sow_0721.txt,1,1,formal
+"Clark, Hoover and Castro",,,SOW-0722,sow_0722.txt,1,1,legal
+"Cox, Reilly and Cruz",1,1,SOW-0723,sow_0723.txt,,,formal
+Lopez LLC,1,1,SOW-0724,sow_0724.txt,,,neutral
+"Mcknight, Morrison and Weaver",1,0,SOW-0725,sow_0725.txt,1,1,corporate
+"Walsh, Brown and Anderson",1,0,SOW-0726,sow_0726.txt,1,1,neutral
+"Livingston, Mendez and Mcfarland",1,1,SOW-0727,sow_0727.txt,,,formal
+Shea-Lee,1,0,SOW-0728,sow_0728.txt,1,1,conversational
+Meyer-Daniels,,,SOW-0729,sow_0729.txt,1,1,technical
+Boyd-Shaffer,1,1,SOW-0730,sow_0730.txt,1,0,corporate
+"Benson, Boyd and Clark",1,1,SOW-0731,sow_0731.txt,,,contractual
+"Mccullough, Martinez and Perkins",1,0,SOW-0732,sow_0732.txt,1,1,contractual
+Moss Ltd,1,1,SOW-0733,sow_0733.txt,1,0,corporate
+Fleming Ltd,,,SOW-0734,sow_0734.txt,1,1,neutral
+"Adkins, Hernandez and Willis",1,0,SOW-0735,sow_0735.txt,1,1,technical
+Oconnell PLC,1,0,SOW-0736,sow_0736.txt,1,0,formal
+Taylor-Chase,1,1,SOW-0737,sow_0737.txt,1,0,contractual
+"Gillespie, York and Gordon",1,0,SOW-0738,sow_0738.txt,1,1,neutral
+Anderson-Peterson,1,1,SOW-0739,sow_0739.txt,1,0,formal
+Mitchell LLC,1,1,SOW-0740,sow_0740.txt,,,conversational
+Collins and Sons,1,1,SOW-0741,sow_0741.txt,,,technical
+Lee-Martinez,,,SOW-0742,sow_0742.txt,1,1,contractual
+"Smith, Price and Vasquez",1,1,SOW-0743,sow_0743.txt,1,0,explanatory
+Taylor Ltd,1,1,SOW-0744,sow_0744.txt,,,legal
+Sharp and Sons,1,1,SOW-0745,sow_0745.txt,1,0,explanatory
+Brooks-Torres,1,1,SOW-0746,sow_0746.txt,,,corporate
+Maynard PLC,1,1,SOW-0747,sow_0747.txt,1,0,explanatory
+Ray-Smith,1,1,SOW-0748,sow_0748.txt,1,0,formal
+Lane-Scott,1,1,SOW-0749,sow_0749.txt,1,0,explanatory
+Davis Inc,,,SOW-0750,sow_0750.txt,1,1,legal
+Pham Group,1,0,SOW-0751,sow_0751.txt,1,0,explanatory
+Miller-Donovan,1,1,SOW-0752,sow_0752.txt,1,0,contractual
+"Riley, Anderson and Turner",,,SOW-0753,sow_0753.txt,1,1,formal
+"Cruz, Hernandez and West",1,1,SOW-0754,sow_0754.txt,1,0,technical
+"Gallagher, Lee and Harvey",1,1,SOW-0755,sow_0755.txt,1,0,legal
+"Davis, Montgomery and Savage",1,1,SOW-0756,sow_0756.txt,,,corporate
+"Blair, Padilla and Knapp",1,1,SOW-0757,sow_0757.txt,,,legal
+"Brown, Myers and Arnold",1,1,SOW-0758,sow_0758.txt,,,contractual
+White-Mccullough,1,1,SOW-0759,sow_0759.txt,,,neutral
+"Stewart, Spencer and Clay",1,0,SOW-0760,sow_0760.txt,1,0,legal
+Powers-Ward,1,1,SOW-0761,sow_0761.txt,,,corporate
+"Maldonado, Phillips and Rios",1,1,SOW-0762,sow_0762.txt,1,0,explanatory
+"Pearson, Hunter and Randolph",,,SOW-0763,sow_0763.txt,1,1,explanatory
+Greene-Davis,1,1,SOW-0764,sow_0764.txt,1,0,formal
+Arroyo LLC,1,1,SOW-0765,sow_0765.txt,,,neutral
+Morgan-Hughes,1,0,SOW-0766,sow_0766.txt,1,1,corporate
+Mcdaniel Inc,1,1,SOW-0767,sow_0767.txt,1,0,technical
+Freeman-Wilson,1,0,SOW-0768,sow_0768.txt,1,0,technical
+Peterson Inc,,,SOW-0769,sow_0769.txt,1,1,contractual
+"Patterson, Lewis and Hicks",1,0,SOW-0770,sow_0770.txt,1,1,formal
+Pena-Young,,,SOW-0771,sow_0771.txt,1,1,conversational
+Watts PLC,1,1,SOW-0772,sow_0772.txt,1,0,legal
+Johnson-Miller,,,SOW-0773,sow_0773.txt,1,1,explanatory
+Wolfe-Harris,1,0,SOW-0774,sow_0774.txt,1,1,corporate
+Cunningham-Thompson,,,SOW-0775,sow_0775.txt,1,0,formal
+Tanner-Martinez,1,0,SOW-0776,sow_0776.txt,1,1,contractual
+"Robinson, Wilson and Arias",1,1,SOW-0777,sow_0777.txt,,,legal
+Anderson and Sons,,,SOW-0778,sow_0778.txt,1,1,neutral
+Dixon PLC,1,1,SOW-0779,sow_0779.txt,1,0,neutral
+"Vazquez, Bean and Frost",1,1,SOW-0780,sow_0780.txt,1,0,conversational
+Stanton-Williams,,,SOW-0781,sow_0781.txt,1,1,conversational
+Sullivan-Ramirez,1,1,SOW-0782,sow_0782.txt,,,conversational
+"Villegas, Maldonado and Williamson",1,0,SOW-0783,sow_0783.txt,1,1,contractual
+Chandler Group,,,SOW-0784,sow_0784.txt,1,1,conversational
+"Sims, Floyd and Houston",1,1,SOW-0785,sow_0785.txt,,,explanatory
+Marquez LLC,1,1,SOW-0786,sow_0786.txt,1,0,explanatory
+Mitchell-Tate,1,0,SOW-0787,sow_0787.txt,1,1,formal
+Hawkins Group,1,0,SOW-0788,sow_0788.txt,,,legal
+"Nicholson, Mccoy and Adams",,,SOW-0789,sow_0789.txt,1,1,technical
+"Stewart, Clements and Drake",1,0,SOW-0790,sow_0790.txt,1,1,neutral
+Miller-Grant,1,0,SOW-0791,sow_0791.txt,1,1,contractual
+Moore Inc,1,1,SOW-0792,sow_0792.txt,1,0,explanatory
+"Glenn, Schroeder and Smith",,,SOW-0793,sow_0793.txt,1,1,corporate
+"Willis, Thomas and Collins",,,SOW-0794,sow_0794.txt,1,1,technical
+"Hernandez, Aguilar and Burgess",1,1,SOW-0795,sow_0795.txt,1,0,legal
+"Lynch, Ortiz and Simpson",1,1,SOW-0796,sow_0796.txt,,,formal
+Martin-Adams,1,1,SOW-0797,sow_0797.txt,,,formal
+Benitez-Giles,1,1,SOW-0798,sow_0798.txt,,,formal
+Fischer-Bates,1,0,SOW-0799,sow_0799.txt,1,1,contractual
+"Shannon, Craig and Kim",1,1,SOW-0800,sow_0800.txt,1,0,legal
+Watkins-Green,,,SOW-0801,sow_0801.txt,1,1,corporate
+"King, Mendoza and Stanley",,,SOW-0802,sow_0802.txt,1,1,contractual
+"Johnson, King and Chandler",,,SOW-0803,sow_0803.txt,1,1,technical
+"Flynn, Ho and Smith",,,SOW-0804,sow_0804.txt,1,1,technical
+Hill-Romero,,,SOW-0805,sow_0805.txt,1,1,technical
+Brown-Pham,1,1,SOW-0806,sow_0806.txt,1,0,explanatory
+Burke-Morris,1,1,SOW-0807,sow_0807.txt,1,0,formal
+Cline Group,,,SOW-0808,sow_0808.txt,1,1,corporate
+Adams-Sherman,1,1,SOW-0809,sow_0809.txt,1,0,conversational
+Mcdonald LLC,1,0,SOW-0810,sow_0810.txt,1,1,explanatory
+Huang Ltd,,,SOW-0811,sow_0811.txt,1,1,legal
+Garcia-Suarez,1,0,SOW-0812,sow_0812.txt,1,0,corporate
+Buckley-Dixon,1,1,SOW-0813,sow_0813.txt,1,0,formal
+King LLC,,,SOW-0814,sow_0814.txt,1,1,neutral
+Jefferson-Green,1,1,SOW-0815,sow_0815.txt,1,0,explanatory
+Russell LLC,,,SOW-0816,sow_0816.txt,1,1,technical
+Dominguez LLC,,,SOW-0817,sow_0817.txt,1,1,technical
+Evans-Camacho,1,0,SOW-0818,sow_0818.txt,1,1,contractual
+Villarreal LLC,1,0,SOW-0819,sow_0819.txt,1,1,explanatory
+Smith LLC,1,1,SOW-0820,sow_0820.txt,,,explanatory
+"Wilson, Watson and Cameron",1,1,SOW-0821,sow_0821.txt,1,0,technical
+Martinez-Johnson,1,0,SOW-0822,sow_0822.txt,1,1,contractual
+"Carney, West and Rogers",1,0,SOW-0823,sow_0823.txt,1,1,corporate
+Russell PLC,1,1,SOW-0824,sow_0824.txt,,,formal
+Jackson Ltd,1,0,SOW-0825,sow_0825.txt,1,1,neutral
+Knight PLC,1,1,SOW-0826,sow_0826.txt,,,technical
+Brown-Meyer,1,1,SOW-0827,sow_0827.txt,1,0,contractual
+Gray Inc,1,1,SOW-0828,sow_0828.txt,,,neutral
+Clark-Thomas,1,0,SOW-0829,sow_0829.txt,1,0,corporate
+"Estrada, Reynolds and Collins",1,1,SOW-0830,sow_0830.txt,1,0,legal
+Peterson Inc,1,0,SOW-0831,sow_0831.txt,1,1,conversational
+Greene LLC,1,1,SOW-0832,sow_0832.txt,1,0,legal
+Hernandez-Adams,1,1,SOW-0833,sow_0833.txt,1,0,formal
+"Wilson, Evans and Diaz",1,0,SOW-0834,sow_0834.txt,1,0,neutral
+Ward Ltd,,,SOW-0835,sow_0835.txt,1,1,contractual
+Ponce LLC,,,SOW-0836,sow_0836.txt,1,0,corporate
+Bennett-Golden,,,SOW-0837,sow_0837.txt,1,1,corporate
+Kaufman Group,1,1,SOW-0838,sow_0838.txt,1,0,formal
+Guerra Inc,1,1,SOW-0839,sow_0839.txt,1,0,contractual
+Key Group,1,1,SOW-0840,sow_0840.txt,1,0,formal
+Johnston PLC,1,1,SOW-0841,sow_0841.txt,1,0,explanatory
+Roberts and Sons,,,SOW-0842,sow_0842.txt,1,0,conversational
+Roberson Ltd,1,1,SOW-0843,sow_0843.txt,,,explanatory
+Atkins-White,1,1,SOW-0844,sow_0844.txt,,,technical
+Austin-Snyder,1,1,SOW-0845,sow_0845.txt,,,contractual
+"Willis, Rodriguez and Mcclain",1,1,SOW-0846,sow_0846.txt,,,legal
+George Ltd,1,0,SOW-0847,sow_0847.txt,1,1,legal
+"Fischer, Berg and Cross",,,SOW-0848,sow_0848.txt,1,1,technical
+Lane Group,1,0,SOW-0849,sow_0849.txt,1,1,formal
+Pratt Ltd,1,0,SOW-0850,sow_0850.txt,,,technical
+Harding-Harris,1,0,SOW-0851,sow_0851.txt,1,1,contractual
+"Bolton, Roberts and Allison",,,SOW-0852,sow_0852.txt,1,1,corporate
+Mcmillan PLC,1,0,SOW-0853,sow_0853.txt,1,0,corporate
+Brown and Sons,,,SOW-0854,sow_0854.txt,1,1,technical
+Weber-Jones,1,0,SOW-0855,sow_0855.txt,1,1,formal
+Watkins-Perez,1,0,SOW-0856,sow_0856.txt,1,0,technical
+Johnson and Sons,1,1,SOW-0857,sow_0857.txt,1,0,conversational
+"Martinez, Hill and Cook",1,1,SOW-0858,sow_0858.txt,,,legal
+"Callahan, Tapia and Alvarez",1,0,SOW-0859,sow_0859.txt,1,1,technical
+Woodward Ltd,1,1,SOW-0860,sow_0860.txt,1,0,contractual
+Jackson-Stout,1,0,SOW-0861,sow_0861.txt,1,1,corporate
+"Kim, Murphy and Williams",1,1,SOW-0862,sow_0862.txt,,,explanatory
+"Barber, Underwood and Bailey",1,0,SOW-0863,sow_0863.txt,1,1,legal
+Miller Group,1,1,SOW-0864,sow_0864.txt,,,contractual
+English Group,,,SOW-0865,sow_0865.txt,1,1,technical
+Burns PLC,,,SOW-0866,sow_0866.txt,1,1,technical
+Rivera-Phillips,1,1,SOW-0867,sow_0867.txt,1,0,conversational
+Arnold-Tucker,1,1,SOW-0868,sow_0868.txt,1,0,corporate
+Gomez Ltd,1,1,SOW-0869,sow_0869.txt,,,legal
+"Miller, Diaz and Davis",1,0,SOW-0870,sow_0870.txt,1,1,technical
+Dean-Wilkinson,1,1,SOW-0871,sow_0871.txt,1,0,explanatory
+"Chambers, Johnson and Monroe",1,1,SOW-0872,sow_0872.txt,,,conversational
+White-Bradford,1,1,SOW-0873,sow_0873.txt,,,explanatory
+"Shannon, Conrad and Walker",1,1,SOW-0874,sow_0874.txt,1,0,technical
+Fuller-Gilbert,1,0,SOW-0875,sow_0875.txt,1,1,formal
+Roberts-Le,1,1,SOW-0876,sow_0876.txt,1,0,technical
+Taylor-Alexander,,,SOW-0877,sow_0877.txt,1,1,corporate
+Johnson-Avery,1,1,SOW-0878,sow_0878.txt,1,0,explanatory
+Potter PLC,,,SOW-0879,sow_0879.txt,1,1,formal
+Cuevas-Travis,1,0,SOW-0880,sow_0880.txt,,,technical
+Hall-Wolf,1,0,SOW-0881,sow_0881.txt,1,1,formal
+Finley Inc,1,0,SOW-0882,sow_0882.txt,1,1,conversational
+Brown-Brown,1,1,SOW-0883,sow_0883.txt,1,0,conversational
+"Johnston, Hawkins and Conrad",,,SOW-0884,sow_0884.txt,1,0,neutral
+Mejia-Allen,1,1,SOW-0885,sow_0885.txt,1,0,corporate
+"Jones, Johnson and Miller",,,SOW-0886,sow_0886.txt,1,1,explanatory
+Delacruz-Brown,1,1,SOW-0887,sow_0887.txt,1,0,explanatory
+"Summers, Payne and Adams",1,0,SOW-0888,sow_0888.txt,1,0,formal
+"Newton, Spencer and Serrano",,,SOW-0889,sow_0889.txt,1,1,contractual
+Murphy and Sons,1,1,SOW-0890,sow_0890.txt,1,0,explanatory
+Hall-Webb,1,0,SOW-0891,sow_0891.txt,1,1,explanatory
+"Crane, Wallace and Baxter",,,SOW-0892,sow_0892.txt,1,0,formal
+"Hinton, Johnson and Bell",1,0,SOW-0893,sow_0893.txt,1,1,formal
+"Cantu, Adams and Pham",1,1,SOW-0894,sow_0894.txt,1,0,neutral
+Miller Inc,1,0,SOW-0895,sow_0895.txt,1,1,legal
+Davidson-Roberts,1,1,SOW-0896,sow_0896.txt,,,formal
+Atkinson-Fox,1,1,SOW-0897,sow_0897.txt,1,0,neutral
+Estrada-Lopez,,,SOW-0898,sow_0898.txt,1,0,technical
+Gonzalez Group,1,1,SOW-0899,sow_0899.txt,1,0,conversational
+White-Campbell,1,1,SOW-0900,sow_0900.txt,,,corporate
+Dennis Ltd,1,1,SOW-0901,sow_0901.txt,,,neutral
+Jones-Walker,1,0,SOW-0902,sow_0902.txt,1,0,formal
+Mcdonald-Wright,1,1,SOW-0903,sow_0903.txt,1,0,corporate
+"Wilson, Brown and Blanchard",1,1,SOW-0904,sow_0904.txt,,,legal
+"Davis, Hampton and Brown",1,1,SOW-0905,sow_0905.txt,,,corporate
+Caldwell-Erickson,1,0,SOW-0906,sow_0906.txt,1,1,legal
+Walton LLC,1,0,SOW-0907,sow_0907.txt,1,1,legal
+Scott Ltd,1,0,SOW-0908,sow_0908.txt,1,1,technical
+"Williams, Murray and Lopez",1,0,SOW-0909,sow_0909.txt,1,1,explanatory
+Phillips Ltd,1,0,SOW-0910,sow_0910.txt,1,1,explanatory
+"Williams, Quinn and Murphy",1,1,SOW-0911,sow_0911.txt,,,conversational
+Rose Inc,1,0,SOW-0912,sow_0912.txt,1,1,corporate
+Turner Group,1,0,SOW-0913,sow_0913.txt,1,0,explanatory
+Stevenson PLC,1,0,SOW-0914,sow_0914.txt,1,1,technical
+Mccullough and Sons,1,1,SOW-0915,sow_0915.txt,1,0,legal
+Young Inc,1,1,SOW-0916,sow_0916.txt,1,0,corporate
+Barber Group,1,1,SOW-0917,sow_0917.txt,,,explanatory
+"Anderson, Lawrence and Gray",1,1,SOW-0918,sow_0918.txt,1,0,neutral
+Proctor PLC,1,0,SOW-0919,sow_0919.txt,1,1,contractual
+Black-Smith,1,1,SOW-0920,sow_0920.txt,,,formal
+Brady Inc,1,1,SOW-0921,sow_0921.txt,1,0,corporate
+"Guerra, Monroe and Navarro",1,1,SOW-0922,sow_0922.txt,1,0,explanatory
+Hill LLC,1,1,SOW-0923,sow_0923.txt,1,0,conversational
+Watts-Rogers,1,1,SOW-0924,sow_0924.txt,,,explanatory
+"Harmon, Gonzales and Gill",1,1,SOW-0925,sow_0925.txt,1,0,contractual
+Cochran-Koch,1,0,SOW-0926,sow_0926.txt,1,1,conversational
+Rivera Inc,,,SOW-0927,sow_0927.txt,1,1,neutral
+Turner-Howe,1,1,SOW-0928,sow_0928.txt,1,0,neutral
+Rodriguez and Sons,1,0,SOW-0929,sow_0929.txt,1,0,legal
+Garcia and Sons,1,0,SOW-0930,sow_0930.txt,1,1,corporate
+"Lucas, Romero and Miller",,,SOW-0931,sow_0931.txt,1,1,corporate
+"Powell, Zimmerman and Barnes",1,1,SOW-0932,sow_0932.txt,1,0,technical
+Ford-Simon,1,1,SOW-0933,sow_0933.txt,1,0,contractual
+Duncan-Rivera,,,SOW-0934,sow_0934.txt,1,1,legal
+Riddle LLC,1,1,SOW-0935,sow_0935.txt,,,contractual
+Snyder and Sons,1,0,SOW-0936,sow_0936.txt,1,1,neutral
+Robinson Ltd,1,1,SOW-0937,sow_0937.txt,,,contractual
+Payne-Garcia,1,1,SOW-0938,sow_0938.txt,,,explanatory
+"Jones, Mcguire and Merritt",1,0,SOW-0939,sow_0939.txt,1,0,contractual
+Davis-Thomas,1,0,SOW-0940,sow_0940.txt,1,1,corporate
+"Campbell, Torres and Macdonald",1,1,SOW-0941,sow_0941.txt,,,explanatory
+Harris-Bray,1,1,SOW-0942,sow_0942.txt,,,contractual
+Riddle LLC,1,1,SOW-0943,sow_0943.txt,,,neutral
+Bennett-Humphrey,1,1,SOW-0944,sow_0944.txt,1,0,contractual
+"Hernandez, Roberts and Smith",1,1,SOW-0945,sow_0945.txt,,,neutral
+"Sanders, Walker and Todd",1,0,SOW-0946,sow_0946.txt,1,1,corporate
+Perry LLC,1,0,SOW-0947,sow_0947.txt,1,1,formal
+Singh Inc,1,1,SOW-0948,sow_0948.txt,,,corporate
+Brooks Inc,1,0,SOW-0949,sow_0949.txt,1,1,legal
+"Hughes, Clark and Villa",1,0,SOW-0950,sow_0950.txt,1,1,explanatory
+"Diaz, Snyder and King",1,0,SOW-0951,sow_0951.txt,1,0,formal
+Duke-Ross,1,0,SOW-0952,sow_0952.txt,1,1,formal
+Sparks-Moreno,1,0,SOW-0953,sow_0953.txt,1,1,contractual
+Schneider Ltd,,,SOW-0954,sow_0954.txt,1,0,neutral
+Paul-Reynolds,1,0,SOW-0955,sow_0955.txt,,,legal
+Davis-Chang,1,1,SOW-0956,sow_0956.txt,1,0,formal
+Williams Group,1,0,SOW-0957,sow_0957.txt,1,0,corporate
+"Lee, Lane and Hammond",1,1,SOW-0958,sow_0958.txt,1,0,formal
+Johnson and Sons,1,1,SOW-0959,sow_0959.txt,1,0,legal
+Cruz Group,1,1,SOW-0960,sow_0960.txt,,,technical
+Moyer-Alvarez,,,SOW-0961,sow_0961.txt,1,1,contractual
+Edwards Inc,1,1,SOW-0962,sow_0962.txt,,,corporate
+"Mitchell, Molina and Robinson",1,1,SOW-0963,sow_0963.txt,1,0,corporate
+Hood Ltd,1,1,SOW-0964,sow_0964.txt,1,0,neutral
+"Hampton, Daniel and Cox",1,0,SOW-0965,sow_0965.txt,1,1,legal
+Mccormick Inc,1,1,SOW-0966,sow_0966.txt,,,contractual
+"Greer, Lowe and Brown",,,SOW-0967,sow_0967.txt,1,0,conversational
+"Jones, Becker and Hall",1,0,SOW-0968,sow_0968.txt,1,1,conversational
+Charles-Davis,,,SOW-0969,sow_0969.txt,1,1,corporate
+Nicholson Inc,1,0,SOW-0970,sow_0970.txt,1,1,conversational
+"Rodriguez, Briggs and Morris",1,0,SOW-0971,sow_0971.txt,1,1,contractual
+"Campbell, Roberts and Sullivan",1,0,SOW-0972,sow_0972.txt,1,1,explanatory
+Sanchez-Myers,1,0,SOW-0973,sow_0973.txt,,,contractual
+"Guzman, Warner and Harris",,,SOW-0974,sow_0974.txt,1,1,neutral
+King LLC,1,1,SOW-0975,sow_0975.txt,1,0,technical
+Rowland-Norris,1,1,SOW-0976,sow_0976.txt,,,corporate
+Walker-Jones,1,0,SOW-0977,sow_0977.txt,1,1,neutral
+Garrison-Yang,1,0,SOW-0978,sow_0978.txt,1,0,neutral
+Herrera Ltd,1,1,SOW-0979,sow_0979.txt,1,0,legal
+Cole PLC,1,0,SOW-0980,sow_0980.txt,,,technical
+Caldwell LLC,,,SOW-0981,sow_0981.txt,1,1,corporate
+Thomas PLC,,,SOW-0982,sow_0982.txt,1,1,corporate
+"Crawford, Lee and Jackson",1,0,SOW-0983,sow_0983.txt,1,1,explanatory
+Bright and Sons,1,1,SOW-0984,sow_0984.txt,,,technical
+Wilson LLC,,,SOW-0985,sow_0985.txt,1,1,explanatory
+Barr Inc,1,1,SOW-0986,sow_0986.txt,,,conversational
+Blackwell-Bryan,1,0,SOW-0987,sow_0987.txt,1,1,neutral
+Clark Group,1,1,SOW-0988,sow_0988.txt,1,0,contractual
+"Perez, Beltran and Ray",1,1,SOW-0989,sow_0989.txt,,,formal
+Moore PLC,1,0,SOW-0990,sow_0990.txt,1,0,formal
+Diaz-Murray,,,SOW-0991,sow_0991.txt,1,1,technical
+Mack LLC,1,1,SOW-0992,sow_0992.txt,1,0,explanatory
+Jones LLC,1,1,SOW-0993,sow_0993.txt,,,neutral
+Harris LLC,1,1,SOW-0994,sow_0994.txt,1,0,conversational
+"Byrd, Brooks and Vasquez",1,1,SOW-0995,sow_0995.txt,1,0,technical
+Davidson LLC,1,0,SOW-0996,sow_0996.txt,1,1,legal
+Gonzalez and Sons,1,0,SOW-0997,sow_0997.txt,1,1,legal
+Wise PLC,1,1,SOW-0998,sow_0998.txt,1,0,technical
+Johnson-Bray,1,1,SOW-0999,sow_0999.txt,1,0,legal
+"Bernard, Park and Kelly",1,1,SOW-1000,sow_1000.txt,,,formal
+Harris Group,1,1,SOW-1001,sow_1001.txt,1,0,corporate
+"Moore, Payne and Spencer",1,1,SOW-1002,sow_1002.txt,,,corporate
+Rodriguez-Pratt,1,0,SOW-1003,sow_1003.txt,1,1,explanatory
+"Bowers, Pollard and Marsh",1,1,SOW-1004,sow_1004.txt,1,0,legal
+"Steele, Sims and Ramirez",,,SOW-1005,sow_1005.txt,1,1,explanatory
+Clay-Horne,1,1,SOW-1006,sow_1006.txt,,,conversational
+Brown Group,1,1,SOW-1007,sow_1007.txt,1,0,formal
+"Hull, Davidson and Parrish",1,1,SOW-1008,sow_1008.txt,1,0,corporate
+Johnson-Sharp,,,SOW-1009,sow_1009.txt,1,1,contractual
+"Martin, Cantu and Bennett",1,1,SOW-1010,sow_1010.txt,,,neutral
+Harper-Jimenez,1,1,SOW-1011,sow_1011.txt,1,0,neutral
+"Moore, Campbell and Wilson",1,1,SOW-1012,sow_1012.txt,,,formal
+"Gonzales, Anderson and Walton",1,1,SOW-1013,sow_1013.txt,1,0,contractual
+Young-Roy,,,SOW-1014,sow_1014.txt,1,1,neutral
+"Barrett, Harding and Bradley",1,0,SOW-1015,sow_1015.txt,1,1,technical
+Lindsey PLC,1,1,SOW-1016,sow_1016.txt,,,contractual
+Mcgee Group,1,0,SOW-1017,sow_1017.txt,1,1,explanatory
+Myers-Doyle,1,1,SOW-1018,sow_1018.txt,1,0,technical
+Gonzalez and Sons,1,0,SOW-1019,sow_1019.txt,1,1,explanatory
+Rangel Group,1,1,SOW-1020,sow_1020.txt,,,contractual
+"Sanchez, Anderson and Fields",1,1,SOW-1021,sow_1021.txt,1,0,explanatory
+Wheeler-Diaz,1,0,SOW-1022,sow_1022.txt,1,1,technical
+Jones-Gibson,1,0,SOW-1023,sow_1023.txt,1,0,neutral
+James-Weaver,,,SOW-1024,sow_1024.txt,1,1,corporate
+Wilson PLC,1,1,SOW-1025,sow_1025.txt,1,0,corporate
+Williams-Price,1,0,SOW-1026,sow_1026.txt,1,1,legal
+Beck Ltd,1,0,SOW-1027,sow_1027.txt,1,1,explanatory
+"Williams, Ortega and Ramirez",1,1,SOW-1028,sow_1028.txt,1,0,conversational
+Williams PLC,1,1,SOW-1029,sow_1029.txt,,,conversational
+Sutton Inc,,,SOW-1030,sow_1030.txt,1,1,legal
+Valencia Group,1,0,SOW-1031,sow_1031.txt,1,1,conversational
+"Butler, Jones and Cooper",1,0,SOW-1032,sow_1032.txt,1,1,neutral
+Morrow Inc,1,0,SOW-1033,sow_1033.txt,1,0,technical
+Roberts-Long,,,SOW-1034,sow_1034.txt,1,1,technical
+Hernandez LLC,1,0,SOW-1035,sow_1035.txt,1,1,neutral
+"Harris, Kent and Hernandez",,,SOW-1036,sow_1036.txt,1,1,technical
+Lee-Snyder,1,0,SOW-1037,sow_1037.txt,1,1,neutral
+Hayden-Martin,1,0,SOW-1038,sow_1038.txt,1,1,legal
+"Harris, Anderson and Bright",1,1,SOW-1039,sow_1039.txt,,,contractual
+Martin-Sutton,,,SOW-1040,sow_1040.txt,1,1,formal
+Wallace-Garcia,1,0,SOW-1041,sow_1041.txt,1,1,conversational
+Webb-Reilly,1,1,SOW-1042,sow_1042.txt,1,0,contractual
+Welch Group,1,0,SOW-1043,sow_1043.txt,1,0,contractual
+Rodriguez-Fischer,,,SOW-1044,sow_1044.txt,1,1,technical
+Rocha-Chambers,,,SOW-1045,sow_1045.txt,1,1,neutral
+Mcfarland Inc,1,1,SOW-1046,sow_1046.txt,1,0,technical
+"Gonzalez, Jackson and Delgado",,,SOW-1047,sow_1047.txt,1,1,explanatory
+Ford Group,,,SOW-1048,sow_1048.txt,1,1,formal
+"Adams, Haynes and Murray",1,1,SOW-1049,sow_1049.txt,1,0,formal
+"Irwin, Bennett and Sims",1,1,SOW-1050,sow_1050.txt,1,0,corporate
+"Simmons, White and Ortiz",1,0,SOW-1051,sow_1051.txt,1,1,corporate
+Massey-Hicks,,,SOW-1052,sow_1052.txt,1,1,explanatory
+"Mcknight, Cross and Bowman",1,1,SOW-1053,sow_1053.txt,1,0,neutral
+Smith-Shaffer,1,1,SOW-1054,sow_1054.txt,,,corporate
+Martin-Olson,1,1,SOW-1055,sow_1055.txt,1,0,explanatory
+Harris-Torres,1,1,SOW-1056,sow_1056.txt,,,corporate
+"Lopez, Finley and Harvey",1,1,SOW-1057,sow_1057.txt,,,technical
+Rice LLC,1,0,SOW-1058,sow_1058.txt,1,1,contractual
+Aguilar Group,,,SOW-1059,sow_1059.txt,1,0,legal
+"Hansen, Thomas and Rogers",1,0,SOW-1060,sow_1060.txt,1,1,conversational
+Whitehead LLC,1,0,SOW-1061,sow_1061.txt,1,1,technical
+"Johnson, Perez and Chaney",1,1,SOW-1062,sow_1062.txt,1,0,legal
+"Nelson, Cox and Collins",1,1,SOW-1063,sow_1063.txt,1,0,conversational
+Fitzgerald-Lane,,,SOW-1064,sow_1064.txt,1,1,legal
+Kelly Ltd,1,1,SOW-1065,sow_1065.txt,1,0,formal
+Herrera-Johnson,1,0,SOW-1066,sow_1066.txt,1,1,corporate
+Weber-Smith,,,SOW-1067,sow_1067.txt,1,1,formal
+"Gordon, Perez and Lee",1,1,SOW-1068,sow_1068.txt,,,formal
+Ortega LLC,1,0,SOW-1069,sow_1069.txt,1,1,technical
+Flowers-Hicks,1,1,SOW-1070,sow_1070.txt,,,legal
+Martinez-Mills,,,SOW-1071,sow_1071.txt,1,1,formal
+Powers PLC,1,0,SOW-1072,sow_1072.txt,1,0,neutral
+Davis Group,,,SOW-1073,sow_1073.txt,1,0,explanatory
+"Scott, Reeves and Ferguson",1,1,SOW-1074,sow_1074.txt,,,legal
+"Gill, Davis and Moore",1,1,SOW-1075,sow_1075.txt,,,legal
+Wright PLC,1,1,SOW-1076,sow_1076.txt,1,0,technical
+Carter-Chaney,1,0,SOW-1077,sow_1077.txt,,,conversational
+Cooper-Chan,1,1,SOW-1078,sow_1078.txt,,,explanatory
+Weaver-Fowler,1,0,SOW-1079,sow_1079.txt,1,1,neutral
+"Bryant, Schwartz and Patrick",1,0,SOW-1080,sow_1080.txt,1,1,technical
+King-Munoz,1,0,SOW-1081,sow_1081.txt,1,1,formal
+Wilson Group,,,SOW-1082,sow_1082.txt,1,1,corporate
+Ray-Williams,1,1,SOW-1083,sow_1083.txt,1,0,neutral
+"Perez, Simmons and Levy",1,0,SOW-1084,sow_1084.txt,1,1,explanatory
+"Martinez, Jennings and King",1,0,SOW-1085,sow_1085.txt,,,corporate
+Sheppard Group,1,0,SOW-1086,sow_1086.txt,1,1,conversational
+Taylor-Ramos,1,1,SOW-1087,sow_1087.txt,,,corporate
+"Rubio, Chavez and Mejia",,,SOW-1088,sow_1088.txt,1,0,explanatory
+"Martin, Melton and Green",1,1,SOW-1089,sow_1089.txt,1,0,contractual
+"Miles, Robinson and Martinez",1,0,SOW-1090,sow_1090.txt,1,1,explanatory
+Sosa-Miller,,,SOW-1091,sow_1091.txt,1,1,legal
+Nguyen-Banks,1,0,SOW-1092,sow_1092.txt,1,1,formal
+"Carpenter, Cruz and Bowman",1,1,SOW-1093,sow_1093.txt,1,0,neutral
+Neal Ltd,,,SOW-1094,sow_1094.txt,1,1,formal
+"Davis, Esparza and King",1,0,SOW-1095,sow_1095.txt,1,1,neutral
+Mitchell-Jacobs,,,SOW-1096,sow_1096.txt,1,1,neutral
+Davis-Brown,1,0,SOW-1097,sow_1097.txt,1,1,technical
+"Holder, Berry and Mcmahon",1,1,SOW-1098,sow_1098.txt,,,explanatory
+Duncan-Stone,1,0,SOW-1099,sow_1099.txt,1,1,neutral
+Hays-Fry,1,0,SOW-1100,sow_1100.txt,1,1,neutral
+Smith-Brock,,,SOW-1101,sow_1101.txt,1,1,contractual
+Richardson Ltd,1,1,SOW-1102,sow_1102.txt,1,0,explanatory
+"Brown, Johnson and Black",1,1,SOW-1103,sow_1103.txt,,,contractual
+Davidson and Sons,1,0,SOW-1104,sow_1104.txt,1,1,contractual
+Lynch Group,1,1,SOW-1105,sow_1105.txt,,,technical
+Morales-Harmon,1,1,SOW-1106,sow_1106.txt,,,explanatory
+Santos Ltd,1,1,SOW-1107,sow_1107.txt,1,0,conversational
+Berg LLC,1,0,SOW-1108,sow_1108.txt,1,1,contractual
+"Smith, Frey and Banks",1,1,SOW-1109,sow_1109.txt,1,0,formal
+"Scott, Petty and Moore",,,SOW-1110,sow_1110.txt,1,1,contractual
+"Bowen, Gill and Jones",1,1,SOW-1111,sow_1111.txt,1,0,explanatory
+"Hicks, Craig and Perry",,,SOW-1112,sow_1112.txt,1,1,technical
+Melton Inc,,,SOW-1113,sow_1113.txt,1,1,legal
+Alvarado-Ramirez,1,0,SOW-1114,sow_1114.txt,1,1,legal
+Russell Group,1,0,SOW-1115,sow_1115.txt,1,1,conversational
+"Gray, Gordon and Williams",,,SOW-1116,sow_1116.txt,1,0,explanatory
+Burch-Underwood,,,SOW-1117,sow_1117.txt,1,1,neutral
+"Moore, Church and Wright",1,0,SOW-1118,sow_1118.txt,1,1,explanatory
+Wood Group,1,0,SOW-1119,sow_1119.txt,1,1,corporate
+"Barr, Bowman and Lindsey",,,SOW-1120,sow_1120.txt,1,1,technical
+Murphy-Garcia,1,0,SOW-1121,sow_1121.txt,1,0,technical
+Sullivan PLC,,,SOW-1122,sow_1122.txt,1,0,corporate
+Horne Ltd,1,1,SOW-1123,sow_1123.txt,1,0,conversational
+Downs-Martin,1,1,SOW-1124,sow_1124.txt,,,neutral
+Goodwin-Castillo,1,1,SOW-1125,sow_1125.txt,,,corporate
+"Weaver, Perry and Gardner",1,1,SOW-1126,sow_1126.txt,,,conversational
+Gardner-Cohen,1,1,SOW-1127,sow_1127.txt,1,0,neutral
+Mcclure PLC,1,0,SOW-1128,sow_1128.txt,1,1,technical
+Weaver PLC,1,0,SOW-1129,sow_1129.txt,1,1,technical
+Wilkinson-Barajas,,,SOW-1130,sow_1130.txt,1,1,formal
+Johnson-Snyder,1,0,SOW-1131,sow_1131.txt,1,1,contractual
+"Rosales, Lee and Wright",1,1,SOW-1132,sow_1132.txt,,,technical
+Taylor-Kim,1,1,SOW-1133,sow_1133.txt,,,explanatory
+Frey Group,1,1,SOW-1134,sow_1134.txt,,,explanatory
+"Woods, Franklin and Hughes",,,SOW-1135,sow_1135.txt,1,1,legal
+Arnold-Kidd,,,SOW-1136,sow_1136.txt,1,1,formal
+"Thompson, White and Barrett",1,1,SOW-1137,sow_1137.txt,1,0,legal
+Jones LLC,1,0,SOW-1138,sow_1138.txt,1,1,conversational
+Morris-Schultz,1,0,SOW-1139,sow_1139.txt,1,0,legal
+"Moore, White and Brown",,,SOW-1140,sow_1140.txt,1,1,conversational
+Petty-Martin,1,0,SOW-1141,sow_1141.txt,1,1,conversational
+Rollins-Garcia,1,1,SOW-1142,sow_1142.txt,1,0,legal
+Hawkins LLC,1,1,SOW-1143,sow_1143.txt,1,0,explanatory
+"Hudson, Thomas and Jordan",1,1,SOW-1144,sow_1144.txt,,,explanatory
+West-Wells,1,1,SOW-1145,sow_1145.txt,1,0,conversational
+Smith PLC,1,0,SOW-1146,sow_1146.txt,1,1,neutral
+Alvarado-Davis,1,0,SOW-1147,sow_1147.txt,,,contractual
+Jenkins LLC,1,0,SOW-1148,sow_1148.txt,1,0,contractual
+Newton-Brown,,,SOW-1149,sow_1149.txt,1,1,legal
+Stephens-Klein,1,1,SOW-1150,sow_1150.txt,1,0,conversational
+Barker Group,1,0,SOW-1151,sow_1151.txt,1,1,legal
+Williams-Mullins,,,SOW-1152,sow_1152.txt,1,0,explanatory
+Richardson and Sons,,,SOW-1153,sow_1153.txt,1,1,corporate
+"Bowen, Parker and Morgan",1,0,SOW-1154,sow_1154.txt,1,1,neutral
+"Hughes, Soto and Clark",1,1,SOW-1155,sow_1155.txt,,,conversational
+"Mitchell, Rogers and Rogers",,,SOW-1156,sow_1156.txt,1,1,technical
+Moreno Inc,1,0,SOW-1157,sow_1157.txt,1,1,explanatory
+Mckee Group,1,1,SOW-1158,sow_1158.txt,1,0,corporate
+Smith-Harris,1,0,SOW-1159,sow_1159.txt,1,1,contractual
+Thomas LLC,,,SOW-1160,sow_1160.txt,1,0,technical
+"Stone, Hill and Hall",1,1,SOW-1161,sow_1161.txt,,,formal
+Perez-Foley,1,1,SOW-1162,sow_1162.txt,1,0,legal
+Rasmussen-Lozano,1,1,SOW-1163,sow_1163.txt,,,neutral
+Hunt and Sons,1,1,SOW-1164,sow_1164.txt,1,0,technical
+Parker PLC,1,0,SOW-1165,sow_1165.txt,1,1,technical
+Martin-Cole,1,0,SOW-1166,sow_1166.txt,1,0,technical
+Murphy Ltd,,,SOW-1167,sow_1167.txt,1,1,legal
+Eaton Ltd,1,0,SOW-1168,sow_1168.txt,1,0,legal
+"Chen, Brown and Dudley",1,0,SOW-1169,sow_1169.txt,1,1,corporate
+Williams Inc,,,SOW-1170,sow_1170.txt,1,1,contractual
+Fox LLC,,,SOW-1171,sow_1171.txt,1,1,technical
+Lee-Hayes,,,SOW-1172,sow_1172.txt,1,1,contractual
+Wilson LLC,1,0,SOW-1173,sow_1173.txt,1,0,conversational
+Kelly-Lozano,1,0,SOW-1174,sow_1174.txt,1,1,contractual
+Gillespie-Morse,1,1,SOW-1175,sow_1175.txt,,,explanatory
+Davis Ltd,1,0,SOW-1176,sow_1176.txt,1,1,neutral
+"Cummings, Love and Osborne",1,1,SOW-1177,sow_1177.txt,1,0,contractual
+"Rodriguez, Contreras and Swanson",,,SOW-1178,sow_1178.txt,1,1,neutral
+Wilson-Wong,,,SOW-1179,sow_1179.txt,1,1,neutral
+Brock Inc,1,1,SOW-1180,sow_1180.txt,,,corporate
+Knight Inc,1,0,SOW-1181,sow_1181.txt,1,0,explanatory
+"Rose, Fields and Guerrero",1,0,SOW-1182,sow_1182.txt,1,0,legal
+Martin and Sons,,,SOW-1183,sow_1183.txt,1,1,formal
+Lester-Tran,1,1,SOW-1184,sow_1184.txt,,,corporate
+"Price, Gregory and Hernandez",1,1,SOW-1185,sow_1185.txt,1,0,neutral
+Perez-Nguyen,1,1,SOW-1186,sow_1186.txt,,,contractual
+"Rice, Watkins and Richardson",1,1,SOW-1187,sow_1187.txt,1,0,technical
+"Guerrero, Cherry and Massey",,,SOW-1188,sow_1188.txt,1,1,technical
+"Zavala, Sharp and Wagner",1,1,SOW-1189,sow_1189.txt,1,0,formal
+"Shelton, Mathews and King",1,0,SOW-1190,sow_1190.txt,1,0,neutral
+"Carlson, Torres and Washington",1,0,SOW-1191,sow_1191.txt,1,1,legal
+Lawrence Group,1,1,SOW-1192,sow_1192.txt,,,explanatory
+Williams Inc,1,1,SOW-1193,sow_1193.txt,1,0,corporate
+Delgado and Sons,1,1,SOW-1194,sow_1194.txt,1,0,contractual
+"Miller, Garcia and Wilson",1,0,SOW-1195,sow_1195.txt,1,1,explanatory
+Gomez-Graham,,,SOW-1196,sow_1196.txt,1,1,formal
+"Lawson, Bailey and Smith",1,1,SOW-1197,sow_1197.txt,,,neutral
+Martinez Ltd,1,1,SOW-1198,sow_1198.txt,1,0,legal
+Pugh PLC,1,1,SOW-1199,sow_1199.txt,1,0,formal
