@@ -285,7 +285,7 @@ from sklearn.cluster import AgglomerativeClustering
 unique_topics = list(set(all_topic_names))
 
 # Embed using sentence transformers
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('all-mpnet-base-v2')
 embeddings = model.encode(unique_topics)
 
 # Cluster with distance threshold
@@ -424,7 +424,7 @@ class SectionLabeler:
     def __init__(self, taxonomy_file):
         # Load taxonomy with embeddings
         self.taxonomy = load_taxonomy(taxonomy_file)
-        self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+        self.embedding_model = SentenceTransformer('all-mpnet-base-v2')
 
         # Build subtopic embedding index
         self.subtopic_ids = [...]  # T001, T002, ...
@@ -458,16 +458,16 @@ class SectionLabeler:
 ### 5.2 Process
 
 1. **Split** each document into sections (paragraphs separated by double newlines)
-2. **Embed** each section using `all-MiniLM-L6-v2`
+2. **Embed** each section using `all-mpnet-base-v2`
 3. **Match** to closest subtopic via cosine similarity
 4. **Assign** both T (subtopic) and M (main topic) labels
 5. Sections below threshold go to "Others" (unlabeled)
 
 ### 5.3 Accuracy Improvements
 
-**Initial accuracy issue:** Using `all-MiniLM-L6-v2` (384 dimensions) gave ~70% labeling coverage.
+**Initial accuracy issue:** Using smaller embedding models gave ~70% labeling coverage.
 
-**Solution:** Upgraded to larger embedding model (e.g., `all-mpnet-base-v2`, 768 dimensions)
+**Solution:** Upgraded to larger embedding model (`all-mpnet-base-v2`, 768 dimensions)
 
 **Result:** Improved to **85-90% labeling coverage** across documents.
 
@@ -638,7 +638,11 @@ sow-data-extractor/
 └── llm_cache.json                  # LLM response cache (9.7MB)
 ```
 
-### 8.2 Technology Stack
+### 8.2 Architecture Diagram
+
+![SOW Data Extraction Pipeline Architecture](./static/ArchitectureDiagram.png)
+
+### 8.3 Technology Stack
 
 **Core Libraries:**
 
@@ -652,26 +656,26 @@ sow-data-extractor/
 
 - **LLM:** GPT-4.1-mini (topic extraction, canonical naming)
 - **Embeddings:**
-  - `all-MiniLM-L6-v2` (384 dim, faster but less accurate, section labeling was about 50%)
-  - `all-mpnet-base-v2` (768 dim, more accurate, section labeling was about 75–80%)
+  - `all-MiniLM-L6-v2` (384 dim, used for BERTopic exploration)
+  - `all-mpnet-base-v2` (768 dim, used for topic consolidation and section labeling)
 
 **LLM Router:**
 
 - Custom `SimpleLLMCaller` class with retry logic and caching
 - Supports OpenAI API with configurable concurrency
 
-### 8.3 Configuration
+### 8.4 Configuration
 
 **Key Parameters:**
 
-| Parameter                 | Value              | Purpose                                 |
-| ------------------------- | ------------------ | --------------------------------------- |
-| `USE_LLM_PROB`            | 0.8                | Probability of using LLM in generation  |
-| `MODEL_NAME`              | `gpt-4.1-mini`     | LLM model for generation                |
-| `SIMILARITY_THRESHOLD`    | 0.75               | Clustering threshold for Phase 1        |
-| `TARGET_MAIN_TOPICS`      | 12                 | Number of main topics in Phase 2        |
-| `SECTION_MATCH_THRESHOLD` | 0.55               | Minimum similarity for section labeling |
-| `EMBEDDING_MODEL`         | `all-MiniLM-L6-v2` | Sentence transformer model              |
+| Parameter                 | Value               | Purpose                                 |
+| ------------------------- | ------------------- | --------------------------------------- |
+| `USE_LLM_PROB`            | 0.8                 | Probability of using LLM in generation  |
+| `MODEL_NAME`              | `gpt-4.1-mini`      | LLM model for generation                |
+| `SIMILARITY_THRESHOLD`    | 0.75                | Clustering threshold for Phase 1        |
+| `TARGET_MAIN_TOPICS`      | 12                  | Number of main topics in Phase 2        |
+| `SECTION_MATCH_THRESHOLD` | 0.38                | Minimum similarity for section labeling |
+| `EMBEDDING_MODEL`         | `all-mpnet-base-v2` | Sentence transformer model              |
 
 ---
 
@@ -869,6 +873,6 @@ The system can handle 1,200 documents in ~3 hours for ~$40, producing a structur
 
 ---
 
-**Document Version:** 1.1  
-**Last Updated:** November 1, 2025  
+**Document Version:** 1.2  
+**Last Updated:** November 3, 2025  
 **Author:** Gunangad Pal Singh Narula
