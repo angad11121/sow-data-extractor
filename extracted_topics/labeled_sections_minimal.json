@@ -1,0 +1,1352 @@
+{
+  "sow_0000": {
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T021": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Moore-Jackson and Sprinklr Pvt. Ltd."
+            }
+          ]
+        }
+      }
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2024-08-08\nEffective Until: 2027-07-29"
+            }
+          ]
+        },
+        "T014": {
+          "name": "Compliance and Audit",
+          "sections": [
+            {
+              "lines": "13-14",
+              "text": "Deliverables\nParties mutually consent to the inclusion of compliance audit reports. A confidentiality breach does not constitute material breach under this agreement."
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T079": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "5-6",
+              "text": "Scope of Work\nUnder this section, the Vendor commits to data pipeline development and API integration and documentation."
+            }
+          ]
+        },
+        "T017": {
+          "name": "Progress Reporting",
+          "sections": [
+            {
+              "lines": "11-11",
+              "text": "Project status and progress reports shall be delivered biweekly, providing a comprehensive update on milestones achieved, upcoming tasks, and risk assessments. Additionally, performance metrics measur..."
+            },
+            {
+              "lines": "18-18",
+              "text": "Project status and progress reports shall be delivered bi-weekly throughout the engagement, detailing milestones achieved, upcoming tasks, and any identified risks or issues. To ensure transparency, a..."
+            }
+          ]
+        },
+        "T144": {
+          "name": "User Experience",
+          "sections": [
+            {
+              "lines": "17-17",
+              "text": "UI/UX design services shall include development of intuitive interfaces aligned with Moore-Jackson’s brand guidelines, ensuring enhanced user engagement. Usability testing will be conducted with a min..."
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T161": {
+          "name": "Scope of Services",
+          "sections": [
+            {
+              "lines": "7-10",
+              "text": "Scope of Work\nIN ESSENCE, BACKEND MICROSERVICE ARCHITECTURE AND CUSTOM PLUGIN AND EXTENSION DEVELOPMENT AND MOBILE APP DESIGN AND DELIVERY SHALL BE UNDERTAKEN AS PART OF THE PROJECT SCOPE. A confident..."
+            }
+          ]
+        },
+        "T103": {
+          "name": "Deployment Responsibilities",
+          "sections": [
+            {
+              "lines": "12-12",
+              "text": "DevOps automation and CI/CD pipelines will be designed and implemented to enhance deployment efficiency and reliability for Moore-Jackson’s development environment. Additionally, comprehensive API int..."
+            }
+          ]
+        },
+        "T036": {
+          "name": "Infrastructure Setup",
+          "sections": [
+            {
+              "lines": "15-15",
+              "text": "Setup of cloud infrastructure will include deployment, configuration, and optimization to support scalable and secure operations in accordance with Moore-Jackson’s performance requirements. Developmen..."
+            },
+            {
+              "lines": "16-16",
+              "text": "Cloud infrastructure setup will encompass the configuration of scalable and secure environments tailored to Moore-Jackson’s operational requirements. Backend microservice architecture will be designed..."
+            }
+          ]
+        },
+        "T203": {
+          "name": "Project Deliverables",
+          "sections": [
+            {
+              "lines": "19-19",
+              "text": "Deliverables shall include comprehensive test cases and detailed quality assurance reports submitted bi-weekly throughout the engagement. Additionally, compliance audit reports verifying adherence to ..."
+            }
+          ]
+        },
+        "T028": {
+          "name": "Deployment and Configuration",
+          "sections": [
+            {
+              "lines": "21-21",
+              "text": "Deployment scripts and environment configuration files shall be provided to enable consistent and repeatable setup across all designated platforms. Additionally, a comprehensive API reference document..."
+            }
+          ]
+        }
+      }
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T115": {
+          "name": "Third-Party Integration",
+          "sections": [
+            {
+              "lines": "20-20",
+              "text": "Conduct a comprehensive evaluation of selected third-party APIs to determine compatibility, performance, and security alignment with Moore-Jackson’s technical requirements. Following approval, integra..."
+            }
+          ]
+        }
+      }
+    },
+    "Others": {
+      "unlabeled": [
+        {
+          "lines": "22-24",
+          "text": "Ref ID: 696d5281-911e-43b8-8dca-9b22c3478634\nSigned by: Michelle Smith, Moore-Jackson\nAddress: 3451 Pittman Street, Summermouth, IA 47672"
+        }
+      ]
+    }
+  },
+  "sow_0001": {
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T021": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Munoz-Monroe and Sprinklr Pvt. Ltd."
+            }
+          ]
+        },
+        "T003": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "9-9",
+              "text": "Scope of Work includes This clause covers UI/UX design and usability testing and data pipeline development and backend microservice architecture in detail. FOR THE AVOIDANCE OF DOUBT, THIS INCLUDES UI..."
+            }
+          ]
+        }
+      }
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2025-04-14\nEffective Until: 2026-04-22"
+            }
+          ]
+        },
+        "T014": {
+          "name": "Compliance and Audit",
+          "sections": [
+            {
+              "lines": "11-11",
+              "text": "Compliance audit reports shall be delivered quarterly, detailing findings related to Munoz-Monroe’s adherence to applicable regulations and internal policies. Each report will include risk assessments..."
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "14-15",
+              "text": "Signed by: Ryan Stafford, Munoz-Monroe\nAddress: PSC 5819, Box 7473, APO AP 34179"
+            }
+          ]
+        }
+      }
+    },
+    "M05": {
+      "name": "Documentation and Knowledge Transfer",
+      "subtopics": {
+        "T090": {
+          "name": "Final Deliverables",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Final project documentation shall comprehensively capture all technical specifications, design elements, and operational procedures developed throughout the engagement. To ensure clarity and ease of f..."
+            }
+          ]
+        },
+        "T034": {
+          "name": "Project Documentation",
+          "sections": [
+            {
+              "lines": "6-7",
+              "text": "Deliverables\nIn essence, user manuals and admin guides shall be undertaken as part of the project scope. Effective date: 2023-06-20."
+            }
+          ]
+        },
+        "T062": {
+          "name": "Compliance Documentation",
+          "sections": [
+            {
+              "lines": "8-8",
+              "text": "Compliance audit reports will be delivered at the conclusion of each audit phase, detailing findings, recommendations, and any identified gaps against Munoz-Monroe’s requirements. Final project docume..."
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T072": {
+          "name": "Performance Reporting",
+          "sections": [
+            {
+              "lines": "10-10",
+              "text": "Development and delivery of customized data analytics dashboards tailored to Munoz-Monroe’s specified metrics and business objectives. Integration with existing data sources will be completed by the e..."
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T006": {
+          "name": "Maintenance and Support",
+          "sections": [
+            {
+              "lines": "12-12",
+              "text": "Maintenance and bug fixes will be performed to ensure the continued functionality and performance of the delivered software throughout the agreed contract term ending December 31, 2025. Identified iss..."
+            }
+          ]
+        }
+      }
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T119": {
+          "name": "System Integration and Documentation",
+          "sections": [
+            {
+              "lines": "13-13",
+              "text": "Comprehensive API reference documentation shall be delivered, detailing all endpoints, parameters, and expected responses to facilitate seamless integration. Accompanying test cases will demonstrate c..."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sow_0002": {
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T021": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Taylor and Sons and Sprinklr Pvt. Ltd."
+            }
+          ]
+        }
+      }
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2024-03-31\nEffective Until: 2025-11-18"
+            }
+          ]
+        },
+        "T081": {
+          "name": "Vendor Obligations",
+          "sections": [
+            {
+              "lines": "7-8",
+              "text": "Scope of Work\nWHEREAS, It is hereby agreed that backend microservice architecture. Client agrees to bear all costs arising out of vendor’s tax obligations."
+            }
+          ]
+        },
+        "T014": {
+          "name": "Compliance and Audit",
+          "sections": [
+            {
+              "lines": "14-14",
+              "text": "Comprehensive compliance audit reports shall be delivered to Taylor and Sons within ten (10) business days following each audit cycle. Each report will include findings, risk assessments, and recommen..."
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "18-19",
+              "text": "Signed by: Nicole Armstrong, Taylor and Sons\nAddress: 2095 Blankenship Radial Apt. 491, Gonzaleschester, FM 26795"
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T042": {
+          "name": "Technical Requirements",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Comprehensive user manuals and administrative guides shall be provided to Taylor and Sons, detailing all functionalities and system configurations. Additionally, final project documentation encompassi..."
+            }
+          ]
+        },
+        "T015": {
+          "name": "Performance Metrics",
+          "sections": [
+            {
+              "lines": "6-6",
+              "text": "Post-deployment performance metrics shall include system uptime of no less than 99.5% measured monthly for a period of six months following deployment. Additionally, response times must not exceed 2 s..."
+            }
+          ]
+        },
+        "T079": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "9-10",
+              "text": "Scope of Work\nWHEREAS, In essence, development of web applications and UI/UX design and usability testing shall be undertaken as part of the project scope."
+            }
+          ]
+        }
+      }
+    },
+    "Others": {
+      "unlabeled": [
+        {
+          "lines": "11-12",
+          "text": "Scope of Work\nWHEREAS, This clause covers AI-based chatbot implementation and API integration and documentation and data migration and ETL operations in detail."
+        }
+      ]
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T002": {
+          "name": "Deliverable Specifications",
+          "sections": [
+            {
+              "lines": "13-13",
+              "text": "Deliverables shall include comprehensive test cases and quality assurance reports documenting all testing activities and results, submitted to Taylor and Sons upon completion of each testing cycle. So..."
+            }
+          ]
+        },
+        "T225": {
+          "name": "Project Timeline",
+          "sections": [
+            {
+              "lines": "15-15",
+              "text": "Maintenance and bug fixes will be performed promptly to ensure continuous optimal functionality of the mobile application, with critical issues addressed within 24 hours of notification. Mobile app de..."
+            }
+          ]
+        }
+      }
+    },
+    "M05": {
+      "name": "Documentation and Knowledge Transfer",
+      "subtopics": {
+        "T091": {
+          "name": "Deliverables and Documentation",
+          "sections": [
+            {
+              "lines": "16-17",
+              "text": "Deliverables\nWHEREAS, It is hereby agreed that trained AI models and data artifacts and project status and progress reports and test cases and QA reports. Vendor is entitled to use client data for int..."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sow_0003": {
+    "Others": {
+      "unlabeled": [
+        {
+          "lines": "1-2",
+          "text": "Statement of Work (SOW)\nBetween Thomas, Osborne and Mueller and Sprinklr Pvt. Ltd."
+        }
+      ]
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2023-07-04\nEffective Until: 2026-10-03"
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "20-21",
+              "text": "Signed by: Christopher Hughes, Thomas, Osborne and Mueller\nAddress: 31184 Stephanie Stravenue Suite 259, Jefferyshire, VI 72097"
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T069": {
+          "name": "Deployment Schedule",
+          "sections": [
+            {
+              "lines": "5-8",
+              "text": "Deliverables\nIt is hereby agreed that UAT deployment and demo video and trained AI models and data artifacts. Effective date: 2023-05-18.\nParties mutually consent to the inclusion of UAT deployment an..."
+            }
+          ]
+        },
+        "T098": {
+          "name": "Post-Deployment Monitoring",
+          "sections": [
+            {
+              "lines": "11-11",
+              "text": "Post-deployment performance metrics will be collected and reported monthly for a period of three months to ensure system stability and adherence to agreed service levels. Additionally, a comprehensive..."
+            }
+          ]
+        },
+        "T063": {
+          "name": "Deployment and Testing",
+          "sections": [
+            {
+              "lines": "17-17",
+              "text": "Comprehensive test cases covering all specified functional requirements will be delivered to facilitate thorough validation processes. Detailed QA reports documenting test outcomes, defect resolutions..."
+            }
+          ]
+        },
+        "T225": {
+          "name": "Project Timeline",
+          "sections": [
+            {
+              "lines": "18-18",
+              "text": "UAT deployment will be completed by May 15, 2024, enabling Thomas, Osborne and Mueller to conduct thorough testing in the production-simulated environment. Additionally, a comprehensive demo video ill..."
+            },
+            {
+              "lines": "19-19",
+              "text": "Design and delivery of a mobile application tailored to the specifications provided by Thomas, Osborne and Mueller will be completed within a 14-week timeline commencing upon project initiation. Initi..."
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T172": {
+          "name": "Design and Implementation",
+          "sections": [
+            {
+              "lines": "9-9",
+              "text": "Source code for all developed components will be delivered in a clean, well-documented format compatible with the agreed-upon technology stack. Build scripts necessary to compile, package, and deploy ..."
+            }
+          ]
+        },
+        "T017": {
+          "name": "Progress Reporting",
+          "sections": [
+            {
+              "lines": "10-10",
+              "text": "Regular project status updates shall be provided bi-weekly, detailing progress against milestones, identified risks, and any corrective actions taken. To ensure transparency, a comprehensive progress ..."
+            }
+          ]
+        }
+      }
+    },
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T003": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "12-12",
+              "text": "Scope of Work includes In essence, performance optimization and scalability improvements shall be undertaken as part of the project scope. Under this section, the Vendor commits to performance optimiz..."
+            }
+          ]
+        }
+      }
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T169": {
+          "name": "System Integration and Automation",
+          "sections": [
+            {
+              "lines": "13-16",
+              "text": "Scope of Work\nUnder this section, the Vendor commits to AI-based chatbot implementation and DevOps automation and CI/CD setup.\nFor the avoidance of doubt, this includes AI-based chatbot implementation..."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sow_0004": {
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T096": {
+          "name": "Contractual Terms",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Carroll Ltd and Sprinklr Pvt. Ltd."
+            }
+          ]
+        },
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2024-09-07\nEffective Until: 2026-04-20"
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "18-19",
+              "text": "Signed by: Angel Sanders, Carroll Ltd\nAddress: 1925 Hansen Brook Apt. 609, North Neilfort, MI 96664"
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T002": {
+          "name": "Deliverable Specifications",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Deliverables shall include comprehensive API reference documentation detailing all endpoints, parameters, and expected responses, provided in both digital and printable formats. Additionally, trained ..."
+            },
+            {
+              "lines": "15-15",
+              "text": "Deliverables includes WHEREAS, Parties mutually consent to the inclusion of project status and progress reports and post-deployment performance metrics and design mockups and prototypes. WHEREAS, PART..."
+            },
+            {
+              "lines": "17-17",
+              "text": "Deliverables includes WHEREAS, For the avoidance of doubt, this includes test cases and QA reports and project status and progress reports. A confidentiality breach does not constitute material breach..."
+            }
+          ]
+        },
+        "T203": {
+          "name": "Project Deliverables",
+          "sections": [
+            {
+              "lines": "6-6",
+              "text": "Deliverables includes WHEREAS, PARTIES MUTUALLY CONSENT TO THE INCLUSION OF PROJECT STATUS AND PROGRESS REPORTS AND TRAINED AI MODELS AND DATA ARTIFACTS. WHEREAS, In essence, project status and progre..."
+            }
+          ]
+        },
+        "T225": {
+          "name": "Project Timeline",
+          "sections": [
+            {
+              "lines": "8-8",
+              "text": "All source code and associated build scripts developed under this agreement shall be delivered to Carroll Ltd in a complete, documented, and operable state upon project completion. To ensure reproduci..."
+            }
+          ]
+        },
+        "T103": {
+          "name": "Deployment Responsibilities",
+          "sections": [
+            {
+              "lines": "16-16",
+              "text": "Scope of Work includes WHEREAS, Under this section, the Vendor commits to DevOps automation and CI/CD setup and custom plugin and extension development. Effective date: 2024-10-11."
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T017": {
+          "name": "Progress Reporting",
+          "sections": [
+            {
+              "lines": "7-7",
+              "text": "Status and progress reports shall be provided to Carroll Ltd on a biweekly basis, detailing milestones achieved, current activities, and any identified risks or issues. To ensure transparency, an inte..."
+            }
+          ]
+        }
+      }
+    },
+    "M05": {
+      "name": "Documentation and Knowledge Transfer",
+      "subtopics": {
+        "T091": {
+          "name": "Deliverables and Documentation",
+          "sections": [
+            {
+              "lines": "9-12",
+              "text": "Deliverables\nWHEREAS, For the avoidance of doubt, this includes user manuals and admin guides.\nWHEREAS, This clause covers user manuals and admin guides in detail\nWHEREAS, IT IS HEREBY AGREED THAT USE..."
+            }
+          ]
+        },
+        "T034": {
+          "name": "Project Documentation",
+          "sections": [
+            {
+              "lines": "13-13",
+              "text": "Comprehensive API reference documentation shall be delivered to Carroll Ltd no later than 30 days following the completion of the development phase. This documentation will detail all endpoints, reque..."
+            }
+          ]
+        }
+      }
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T143": {
+          "name": "System Integration Services",
+          "sections": [
+            {
+              "lines": "14-14",
+              "text": "This engagement encompasses the comprehensive evaluation of specified third-party APIs to determine compatibility and performance against Carroll Ltd’s technical requirements. Upon successful assessme..."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sow_0005": {
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T096": {
+          "name": "Contractual Terms",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Ramirez Inc and Sprinklr Pvt. Ltd."
+            }
+          ]
+        },
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2024-04-06\nEffective Until: 2027-09-05"
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "26-27",
+              "text": "Signed by: Terri Weaver, Ramirez Inc\nAddress: Unit 9106 Box 0786, DPO AP 96680"
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T172": {
+          "name": "Design and Implementation",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Development of a scalable data pipeline tailored to Ramirez Inc’s specifications will be executed to enable seamless data ingestion, transformation, and storage. Mobile application design and delivery..."
+            },
+            {
+              "lines": "7-7",
+              "text": "Complete, well-documented source code for the agreed-upon software components will be delivered to Ramirez Inc. Alongside the source code, automated build scripts enabling reproducible compilation and..."
+            }
+          ]
+        },
+        "T102": {
+          "name": "Design and Development",
+          "sections": [
+            {
+              "lines": "22-22",
+              "text": "UI/UX design services will encompass the creation of intuitive interfaces aligned with Ramirez Inc’s branding guidelines, incorporating iterative prototyping and feedback cycles. Usability testing wil..."
+            }
+          ]
+        },
+        "T024": {
+          "name": "Performance Requirements",
+          "sections": [
+            {
+              "lines": "23-23",
+              "text": "Performance optimization and scalability improvements will focus on enhancing system throughput to support a 50% increase in concurrent users without degradation. Maintenance and bug fixes include tim..."
+            }
+          ]
+        }
+      }
+    },
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T155": {
+          "name": "Project Overview",
+          "sections": [
+            {
+              "lines": "6-6",
+              "text": "Final project documentation shall include detailed system architecture, configuration settings, and user manuals delivered in both digital and printable formats by the project completion date. Trained..."
+            }
+          ]
+        }
+      }
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T169": {
+          "name": "System Integration and Automation",
+          "sections": [
+            {
+              "lines": "8-8",
+              "text": "Custom plugin and extension development for Ramirez Inc will encompass design, coding, testing, and deployment tailored to specified requirements. Maintenance activities will include timely bug identi..."
+            }
+          ]
+        },
+        "T056": {
+          "name": "Data Migration",
+          "sections": [
+            {
+              "lines": "14-17",
+              "text": "Scope of Work\nFor the avoidance of doubt, this includes data migration and ETL operations. Technical details will be documented later.\nIT IS HEREBY AGREED THAT DATA MIGRATION AND ETL OPERATIONS. TECHN..."
+            }
+          ]
+        }
+      }
+    },
+    "M05": {
+      "name": "Documentation and Knowledge Transfer",
+      "subtopics": {
+        "T091": {
+          "name": "Deliverables and Documentation",
+          "sections": [
+            {
+              "lines": "9-10",
+              "text": "Deliverables\nIn essence, user manuals and admin guides and test cases and QA reports shall be undertaken as part of the project scope. Technical details will be documented later. Vendor may subcontrac..."
+            },
+            {
+              "lines": "18-21",
+              "text": "Deliverables\nIn essence, deployment scripts and environment configs shall be undertaken as part of the project scope. Technical details will be documented later.\nThis clause covers deployment scripts ..."
+            },
+            {
+              "lines": "25-25",
+              "text": "Deliverables includes THIS CLAUSE COVERS FINAL PROJECT DOCUMENTATION IN DETAIL. TECHNICAL DETAILS WILL BE DOCUMENTED LATER. For the avoidance of doubt, this includes final project documentation. Techn..."
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T125": {
+          "name": "Milestones and Deliverables",
+          "sections": [
+            {
+              "lines": "11-13",
+              "text": "Scope of Work\nPARTIES MUTUALLY CONSENT TO THE INCLUSION OF DATA ANALYTICS DASHBOARDS AND DEVOPS AUTOMATION AND CI/CD SETUP AND THIRD-PARTY API EVALUATION AND INTEGRATION. TECHNICAL DETAILS WILL BE DOC..."
+            }
+          ]
+        },
+        "T028": {
+          "name": "Deployment and Configuration",
+          "sections": [
+            {
+              "lines": "24-24",
+              "text": "Deployment scripts and environment configuration files will be delivered to enable automated setup and consistent replication of the production environment. Design mockups and interactive prototypes w..."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sow_0006": {
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T021": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Powell, Elliott and Gonzales and Sprinklr Pvt. Ltd."
+            }
+          ]
+        }
+      }
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2024-02-04\nEffective Until: 2027-09-15"
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "17-18",
+              "text": "Signed by: Andrew Smith, Powell, Elliott and Gonzales\nAddress: 5930 Knox Ferry Suite 910, Lake Kennethstad, KS 24550"
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T098": {
+          "name": "Post-Deployment Monitoring",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Compliance audit reports detailing findings and remediation recommendations shall be delivered upon completion of each quarterly audit cycle throughout the contract term. Deployment scripts and enviro..."
+            }
+          ]
+        },
+        "T002": {
+          "name": "Deliverable Specifications",
+          "sections": [
+            {
+              "lines": "6-7",
+              "text": "Deliverables\nIt is hereby agreed that deployment scripts and environment configs and design mockups and prototypes Technical details will be documented later Payment delays beyond 90 days will not att..."
+            }
+          ]
+        },
+        "T031": {
+          "name": "Deployment and Integration",
+          "sections": [
+            {
+              "lines": "13-13",
+              "text": "Design and implement a fully automated DevOps pipeline tailored for Powell, Elliott and Gonzales, incorporating infrastructure as code and configuration management to streamline deployment processes. ..."
+            }
+          ]
+        },
+        "T036": {
+          "name": "Infrastructure Setup",
+          "sections": [
+            {
+              "lines": "14-14",
+              "text": "Design and implement a scalable backend microservice architecture to support high availability and modular feature deployment for Powell, Elliott and Gonzales. Develop intuitive UI/UX designs followed..."
+            }
+          ]
+        },
+        "T203": {
+          "name": "Project Deliverables",
+          "sections": [
+            {
+              "lines": "16-16",
+              "text": "Deliverables includes In essence, test cases and QA reports and project status and progress reports and post-deployment performance metrics shall be undertaken as part of the project scope. Technical ..."
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T079": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "8-9",
+              "text": "Scope of Work\nThis clause covers development of web applications in detail. Technical details will be documented later."
+            }
+          ]
+        }
+      }
+    },
+    "Others": {
+      "unlabeled": [
+        {
+          "lines": "10-10",
+          "text": "Implementation of an AI-based chatbot tailored to Powell, Elliott and Gonzales’ specifications will be executed, including natural language processing capabilities and user intent recognition. Additio..."
+        }
+      ]
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T056": {
+          "name": "Data Migration",
+          "sections": [
+            {
+              "lines": "11-11",
+              "text": "Design and implement scalable data pipelines to facilitate reliable ingestion, processing, and storage of client data in accordance with Powell, Elliott and Gonzales’s specifications. Execute comprehe..."
+            },
+            {
+              "lines": "15-15",
+              "text": "Data migration will involve extracting, transforming, and loading (ETL) all relevant legacy data sets into the new system environment while ensuring data integrity and minimal downtime. During this ph..."
+            }
+          ]
+        }
+      }
+    },
+    "M05": {
+      "name": "Documentation and Knowledge Transfer",
+      "subtopics": {
+        "T129": {
+          "name": "Project Documentation",
+          "sections": [
+            {
+              "lines": "12-12",
+              "text": "Regular project status and progress reports shall be delivered biweekly, detailing completed milestones, pending tasks, and identified risks. Additionally, comprehensive API reference documentation mu..."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sow_0007": {
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T021": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Walter, Freeman and Bennett and Sprinklr Pvt. Ltd."
+            }
+          ]
+        },
+        "T003": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "6-6",
+              "text": "Scope of Work includes WHEREAS, In essence, cloud infrastructure setup and UI/UX design and usability testing shall be undertaken as part of the project scope. WHEREAS, Parties mutually consent to the..."
+            }
+          ]
+        }
+      }
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2023-09-19\nEffective Until: 2027-06-21"
+            }
+          ]
+        },
+        "T074": {
+          "name": "Compliance and Testing",
+          "sections": [
+            {
+              "lines": "7-7",
+              "text": "Compliance audit reports assessing adherence to applicable standards shall be delivered to Walter, Freeman and Bennett within 30 days following each audit cycle. Trained AI models, accompanied by all ..."
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "11-12",
+              "text": "Signed by: Sarah Jacobs, Walter, Freeman and Bennett\nAddress: 3919 Michael Burg, South Melissaborough, WY 26143"
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T203": {
+          "name": "Project Deliverables",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Deliverables includes WHEREAS, In essence, compliance audit reports and test cases and QA reports shall be undertaken as part of the project scope."
+            }
+          ]
+        },
+        "T006": {
+          "name": "Maintenance and Support",
+          "sections": [
+            {
+              "lines": "8-8",
+              "text": "Maintenance shall include timely resolution of identified bugs to ensure uninterrupted functionality throughout the contract term. Performance optimization and scalability enhancements will be impleme..."
+            }
+          ]
+        }
+      }
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T143": {
+          "name": "System Integration Services",
+          "sections": [
+            {
+              "lines": "9-9",
+              "text": "This engagement encompasses the design and deployment of the cloud infrastructure necessary to support Walter, Freeman and Bennett’s operational requirements. Additionally, a thorough evaluation of th..."
+            }
+          ]
+        }
+      }
+    },
+    "M05": {
+      "name": "Documentation and Knowledge Transfer",
+      "subtopics": {
+        "T091": {
+          "name": "Deliverables and Documentation",
+          "sections": [
+            {
+              "lines": "10-10",
+              "text": "Deliverables includes WHEREAS, It is hereby agreed that design mockups and prototypes and user manuals and admin guides and final project documentation. WHEREAS, IN ESSENCE, DESIGN MOCKUPS AND PROTOTY..."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sow_0008": {
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T021": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Arellano, Sanders and Valdez and Sprinklr Pvt. Ltd."
+            }
+          ]
+        },
+        "T013": {
+          "name": "Project Scope",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Scope of Work includes FOR THE AVOIDANCE OF DOUBT, THIS INCLUDES THIRD-PARTY API EVALUATION AND INTEGRATION AND DATA PIPELINE DEVELOPMENT. In essence, third-party API evaluation and integration and da..."
+            }
+          ]
+        }
+      }
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2025-04-01\nEffective Until: 2027-01-01"
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T048": {
+          "name": "Reporting and Monitoring",
+          "sections": [
+            {
+              "lines": "6-6",
+              "text": "Project status and progress reports will be provided bi-weekly to keep Arellano, Sanders and Valdez informed of key milestones and any potential risks. Detailed user manuals and administrator guides w..."
+            }
+          ]
+        },
+        "T079": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "10-13",
+              "text": "Scope of Work\nPARTIES MUTUALLY CONSENT TO THE INCLUSION OF CUSTOM PLUGIN AND EXTENSION DEVELOPMENT AND MAINTENANCE AND BUG FIXES AND UI/UX DESIGN AND USABILITY TESTING. All disputes to be resolved sol..."
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T002": {
+          "name": "Deliverable Specifications",
+          "sections": [
+            {
+              "lines": "7-7",
+              "text": "Deliverables include comprehensive API reference documentation detailing endpoint specifications, request/response formats, and authentication methods. Source code will be provided along with build an..."
+            },
+            {
+              "lines": "18-20",
+              "text": "Deliverables\nFOR THE AVOIDANCE OF DOUBT, THIS INCLUDES TRAINED AI MODELS AND DATA ARTIFACTS AND TEST CASES AND QA REPORTS AND COMPLIANCE AUDIT REPORTS.\nThis clause covers trained AI models and data ar..."
+            }
+          ]
+        },
+        "T203": {
+          "name": "Project Deliverables",
+          "sections": [
+            {
+              "lines": "8-9",
+              "text": "Deliverables\nIn essence, project status and progress reports and deployment scripts and environment configs and trained AI models and data artifacts shall be undertaken as part of the project scope."
+            }
+          ]
+        },
+        "T098": {
+          "name": "Post-Deployment Monitoring",
+          "sections": [
+            {
+              "lines": "14-14",
+              "text": "Post-deployment performance metrics will be collected and analyzed for a period of 90 days to evaluate system stability, response times, and error rates against agreed benchmarks. Regular reports summ..."
+            }
+          ]
+        },
+        "T125": {
+          "name": "Milestones and Deliverables",
+          "sections": [
+            {
+              "lines": "15-15",
+              "text": "Deliverables include detailed design mockups and interactive prototypes that reflect the agreed-upon specifications for Arellano, Sanders and Valdez, provided within the first 30 days of the project t..."
+            }
+          ]
+        },
+        "T028": {
+          "name": "Deployment and Configuration",
+          "sections": [
+            {
+              "lines": "16-16",
+              "text": "Delivery includes deployment scripts and environment configurations tailored to the agreed specifications, enabling seamless setup and scaling. Comprehensive user manuals and administrative guides wil..."
+            }
+          ]
+        },
+        "T031": {
+          "name": "Deployment and Integration",
+          "sections": [
+            {
+              "lines": "17-17",
+              "text": "A User Acceptance Testing (UAT) deployment will be completed by May 15, 2024, providing a fully functional environment for Arellano, Sanders and Valdez to validate system performance and features. To ..."
+            }
+          ]
+        }
+      }
+    },
+    "M05": {
+      "name": "Documentation and Knowledge Transfer",
+      "subtopics": {
+        "T091": {
+          "name": "Deliverables and Documentation",
+          "sections": [
+            {
+              "lines": "21-21",
+              "text": "Deliverables includes It is hereby agreed that deployment scripts and environment configs and final project documentation."
+            }
+          ]
+        }
+      }
+    },
+    "Others": {
+      "unlabeled": [
+        {
+          "lines": "22-24",
+          "text": "For Internal Review Only\nSigned by: Scott Buck, Arellano, Sanders and Valdez\nAddress: 122 Bell Parkway, East Anna, FL 51001"
+        }
+      ]
+    }
+  },
+  "sow_0009": {
+    "M06": {
+      "name": "Project Scope and Management",
+      "subtopics": {
+        "T021": {
+          "name": "Scope of Work",
+          "sections": [
+            {
+              "lines": "1-2",
+              "text": "Statement of Work (SOW)\nBetween Espinoza-Smith and Sprinklr Pvt. Ltd."
+            }
+          ]
+        },
+        "T155": {
+          "name": "Project Overview",
+          "sections": [
+            {
+              "lines": "5-5",
+              "text": "Design, develop, and implement a scalable data pipeline to process and integrate data from multiple sources as outlined in the project specifications. During this phase, ensure data accuracy, integrit..."
+            }
+          ]
+        }
+      }
+    },
+    "M01": {
+      "name": "Contractual Terms and Conditions",
+      "subtopics": {
+        "T001": {
+          "name": "Agreement Dates",
+          "sections": [
+            {
+              "lines": "3-4",
+              "text": "Date of Agreement: 2023-05-21\nEffective Until: 2027-10-27"
+            }
+          ]
+        },
+        "T007": {
+          "name": "Signatory Information",
+          "sections": [
+            {
+              "lines": "13-14",
+              "text": "Signed by: Mary Villanueva, Espinoza-Smith\nAddress: 605 Karen Squares Suite 843, East Joshuaburgh, PW 98743"
+            }
+          ]
+        }
+      }
+    },
+    "M03": {
+      "name": "Deliverables and Execution",
+      "subtopics": {
+        "T162": {
+          "name": "Deployment Documentation",
+          "sections": [
+            {
+              "lines": "6-6",
+              "text": "Final project documentation encompassing system architecture, user manuals, and maintenance guidelines shall be delivered upon completion. Deployment scripts and environment configuration files necess..."
+            },
+            {
+              "lines": "10-10",
+              "text": "Final project documentation, including design specifications, user manuals, and deployment records, shall be delivered to Espinoza-Smith within ten business days following project completion. To ensur..."
+            }
+          ]
+        },
+        "T069": {
+          "name": "Deployment Schedule",
+          "sections": [
+            {
+              "lines": "7-7",
+              "text": "Source code, build scripts, deployment scripts, and environment configuration files shall be delivered to Espinoza-Smith within 30 days of contract commencement. Additionally, documentation enabling s..."
+            }
+          ]
+        },
+        "T036": {
+          "name": "Infrastructure Setup",
+          "sections": [
+            {
+              "lines": "8-8",
+              "text": "Design and deploy a scalable cloud infrastructure tailored to Espinoza-Smith’s operational requirements, ensuring high availability and security compliance. During this phase, configuration of virtual..."
+            }
+          ]
+        }
+      }
+    },
+    "M02": {
+      "name": "Performance and Quality Management",
+      "subtopics": {
+        "T107": {
+          "name": "Design and Testing",
+          "sections": [
+            {
+              "lines": "9-9",
+              "text": "Design mockups and interactive prototypes shall be delivered for review and approval by Espinoza-Smith within 30 days of project commencement. To ensure quality and functionality, comprehensive test c..."
+            }
+          ]
+        },
+        "T196": {
+          "name": "Development Requirements",
+          "sections": [
+            {
+              "lines": "11-11",
+              "text": "Development of web applications will include design, coding, testing, and deployment of responsive and scalable solutions tailored to Espinoza-Smith’s specifications. During this phase, adherence to p..."
+            }
+          ]
+        }
+      }
+    },
+    "M04": {
+      "name": "System Integration and Migration",
+      "subtopics": {
+        "T115": {
+          "name": "Third-Party Integration",
+          "sections": [
+            {
+              "lines": "12-12",
+              "text": "This engagement includes the integration of Espinoza-Smith’s systems with designated third-party APIs to enable seamless data exchange and functionality enhancement. Comprehensive documentation detail..."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -71,7 +71,5 @@ htmlcov/
 dmypy.json
 
 # Project specific
-generated_data/*.txt
-extracted_topics/*.json
-extracted_topics/*.txt
+generated_data/sow*.txt
 

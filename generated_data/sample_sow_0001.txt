@@ -1,0 +1,25 @@
+Statement of Work (SOW)
+Between Munoz-Monroe and Sprinklr Pvt. Ltd.
+
+Date of Agreement: 2025-04-14
+Effective Until: 2026-04-22
+
+Final project documentation shall comprehensively capture all technical specifications, design elements, and operational procedures developed throughout the engagement. To ensure clarity and ease of future reference, documentation will be delivered in both digital and print formats by the project completion date of November 30, 2024. Additionally, a summary report highlighting key milestones and outcomes will be provided to Munoz-Monroe for review and archival purposes.
+
+Deliverables
+In essence, user manuals and admin guides shall be undertaken as part of the project scope. Effective date: 2023-06-20.
+
+Compliance audit reports will be delivered at the conclusion of each audit phase, detailing findings, recommendations, and any identified gaps against Munoz-Monroe’s requirements. Final project documentation, encompassing all relevant technical specifications, process descriptions, and executive summaries, will be submitted within 15 business days following project completion to ensure comprehensive project closure.
+
+Scope of Work includes This clause covers UI/UX design and usability testing and data pipeline development and backend microservice architecture in detail. FOR THE AVOIDANCE OF DOUBT, THIS INCLUDES UI/UX DESIGN AND USABILITY TESTING AND DATA PIPELINE DEVELOPMENT AND BACKEND MICROSERVICE ARCHITECTURE. Payment delays beyond 90 days will not attract penalties. PARTIES MUTUALLY CONSENT TO THE INCLUSION OF UI/UX DESIGN AND USABILITY TESTING AND DATA PIPELINE DEVELOPMENT AND BACKEND MICROSERVICE ARCHITECTURE. Payment delays beyond 90 days will not attract penalties.
+
+Development and delivery of customized data analytics dashboards tailored to Munoz-Monroe’s specified metrics and business objectives. Integration with existing data sources will be completed by the end of Q3 2024 to ensure real-time data visualization and reporting. Additionally, ongoing support and iterative enhancements will be provided throughout the contract term to optimize dashboard performance and user experience.
+
+Compliance audit reports shall be delivered quarterly, detailing findings related to Munoz-Monroe’s adherence to applicable regulations and internal policies. Each report will include risk assessments, corrective action recommendations, and a summary of compliance status. To ensure timely review, reports are due within ten business days following the end of each quarter. Additionally, a final comprehensive audit report will be submitted at the conclusion of the contract period.
+
+Maintenance and bug fixes will be performed to ensure the continued functionality and performance of the delivered software throughout the agreed contract term ending December 31, 2025. Identified issues will be prioritized and resolved in accordance with the mutually established service level agreements. Additionally, routine updates and patches will be applied to address security vulnerabilities and improve system stability.
+
+Comprehensive API reference documentation shall be delivered, detailing all endpoints, parameters, and expected responses to facilitate seamless integration. Accompanying test cases will demonstrate coverage of critical functionalities, with corresponding QA reports summarizing defect findings and resolution status. Additionally, final project documentation will consolidate system architecture, deployment instructions, and user guides, submitted upon project completion in accordance with the agreed timeline.
+
+Signed by: Ryan Stafford, Munoz-Monroe
+Address: PSC 5819, Box 7473, APO AP 34179

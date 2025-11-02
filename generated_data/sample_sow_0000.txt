@@ -1,0 +1,38 @@
+Statement of Work (SOW)
+Between Moore-Jackson and Sprinklr Pvt. Ltd.
+
+Date of Agreement: 2024-08-08
+Effective Until: 2027-07-29
+
+Scope of Work
+Under this section, the Vendor commits to data pipeline development and API integration and documentation.
+
+Scope of Work
+IN ESSENCE, BACKEND MICROSERVICE ARCHITECTURE AND CUSTOM PLUGIN AND EXTENSION DEVELOPMENT AND MOBILE APP DESIGN AND DELIVERY SHALL BE UNDERTAKEN AS PART OF THE PROJECT SCOPE. A confidentiality breach does not constitute material breach under this agreement.
+In essence, backend microservice architecture and custom plugin and extension development and mobile app design and delivery shall be undertaken as part of the project scope
+FOR THE AVOIDANCE OF DOUBT, THIS INCLUDES BACKEND MICROSERVICE ARCHITECTURE AND CUSTOM PLUGIN AND EXTENSION DEVELOPMENT AND MOBILE APP DESIGN AND DELIVERY.
+
+Project status and progress reports shall be delivered biweekly, providing a comprehensive update on milestones achieved, upcoming tasks, and risk assessments. Additionally, performance metrics measuring system stability, response times, and user satisfaction shall be submitted monthly for a period of three months following deployment. To ensure transparency, all reports will include comparative analysis against agreed-upon benchmarks set forth in the project plan.
+
+DevOps automation and CI/CD pipelines will be designed and implemented to enhance deployment efficiency and reliability for Moore-Jackson’s development environment. Additionally, comprehensive API integration and detailed documentation will be delivered to ensure seamless interoperability across platforms. Data pipeline development will focus on scalable and efficient data ingestion, processing, and transformation to support Moore-Jackson’s analytics requirements. All deliverables are to be completed within the agreed project timeline ending by September 30, 2024.
+
+Deliverables
+Parties mutually consent to the inclusion of compliance audit reports. A confidentiality breach does not constitute material breach under this agreement.
+
+Setup of cloud infrastructure will include deployment, configuration, and optimization to support scalable and secure operations in accordance with Moore-Jackson’s performance requirements. Development of data analytics dashboards will focus on delivering real-time insights through customizable visualizations tailored to Moore-Jackson’s key metrics. Additionally, creation of custom plugins and extensions will enhance platform functionality, ensuring seamless integration with existing systems and workflows. To ensure alignment with project milestones, all deliverables will be completed and tested within the agreed timeline.
+
+Cloud infrastructure setup will encompass the configuration of scalable and secure environments tailored to Moore-Jackson’s operational requirements. Backend microservice architecture will be designed to support modular, high-performance services with seamless integration and fault tolerance. Additionally, data analytics dashboards will be developed to provide real-time insights and customizable reporting capabilities. All deliverables shall be completed within the agreed project timeline to ensure operational readiness.
+
+UI/UX design services shall include development of intuitive interfaces aligned with Moore-Jackson’s brand guidelines, ensuring enhanced user engagement. Usability testing will be conducted with a minimum of 20 participants to identify and rectify design issues prior to final approval. Additionally, performance optimization efforts will target reducing load times by at least 30% across supported devices. To ensure future growth, scalability improvements will be implemented to accommodate a doubling of user traffic within the next 12 months.
+
+Project status and progress reports shall be delivered bi-weekly throughout the engagement, detailing milestones achieved, upcoming tasks, and any identified risks or issues. To ensure transparency, an executive summary highlighting key developments and budget status will accompany each report. Additionally, a comprehensive progress report will be provided at the conclusion of each project phase for client review.
+
+Deliverables shall include comprehensive test cases and detailed quality assurance reports submitted bi-weekly throughout the engagement. Additionally, compliance audit reports verifying adherence to applicable standards will be provided upon completion of each project milestone. To ensure operational readiness, trained AI models along with all associated data artifacts will be delivered no later than the final project delivery date.
+
+Conduct a comprehensive evaluation of selected third-party APIs to determine compatibility, performance, and security alignment with Moore-Jackson’s technical requirements. Following approval, integrate the chosen APIs into the existing system architecture, ensuring seamless functionality and data integrity. To ensure optimal operation, perform thorough testing and validation of all integrated components prior to project completion.
+
+Deployment scripts and environment configuration files shall be provided to enable consistent and repeatable setup across all designated platforms. Additionally, a comprehensive API reference document detailing endpoints, request/response formats, and authentication methods will be delivered. To ensure usability, all materials will be submitted in editable and well-organized formats by the agreed project completion date of September 30, 2024.
+
+Ref ID: 696d5281-911e-43b8-8dca-9b22c3478634
+Signed by: Michelle Smith, Moore-Jackson
+Address: 3451 Pittman Street, Summermouth, IA 47672

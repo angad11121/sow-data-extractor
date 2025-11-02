@@ -1,0 +1,1918 @@
+{
+  "agreement dates": {
+    "canonical_id": "T001",
+    "canonical_name": "Agreement Dates"
+  },
+  "agreement timeline": {
+    "canonical_id": "T001",
+    "canonical_name": "Agreement Dates"
+  },
+  "agreement duration": {
+    "canonical_id": "T001",
+    "canonical_name": "Agreement Dates"
+  },
+  "deliverables description": {
+    "canonical_id": "T002",
+    "canonical_name": "Deliverable Specifications"
+  },
+  "deliverable specifications": {
+    "canonical_id": "T002",
+    "canonical_name": "Deliverable Specifications"
+  },
+  "deliverables specification": {
+    "canonical_id": "T002",
+    "canonical_name": "Deliverable Specifications"
+  },
+  "deliverable descriptions": {
+    "canonical_id": "T002",
+    "canonical_name": "Deliverable Specifications"
+  },
+  "deliverable requirements": {
+    "canonical_id": "T002",
+    "canonical_name": "Deliverable Specifications"
+  },
+  "work scope": {
+    "canonical_id": "T003",
+    "canonical_name": "Scope of Work"
+  },
+  "scope of work": {
+    "canonical_id": "T003",
+    "canonical_name": "Scope of Work"
+  },
+  "work scope and activities": {
+    "canonical_id": "T003",
+    "canonical_name": "Scope of Work"
+  },
+  "work scope and schedule": {
+    "canonical_id": "T003",
+    "canonical_name": "Scope of Work"
+  },
+  "documentation requirements": {
+    "canonical_id": "T004",
+    "canonical_name": "Documentation Requirements"
+  },
+  "documentation obligations": {
+    "canonical_id": "T004",
+    "canonical_name": "Documentation Requirements"
+  },
+  "documentation standards": {
+    "canonical_id": "T004",
+    "canonical_name": "Documentation Requirements"
+  },
+  "documentation provisions": {
+    "canonical_id": "T004",
+    "canonical_name": "Documentation Requirements"
+  },
+  "deliverables": {
+    "canonical_id": "T005",
+    "canonical_name": "Project Deliverables"
+  },
+  "deliverables definition": {
+    "canonical_id": "T005",
+    "canonical_name": "Project Deliverables"
+  },
+  "maintenance and support": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "maintenance obligations": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "support and maintenance": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "maintenance terms": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "maintenance services": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "maintenance responsibilities": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "maintenance commitments": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "maintenance and development": {
+    "canonical_id": "T006",
+    "canonical_name": "Maintenance and Support"
+  },
+  "signatory information": {
+    "canonical_id": "T007",
+    "canonical_name": "Signatory Information"
+  },
+  "signatory details": {
+    "canonical_id": "T007",
+    "canonical_name": "Signatory Information"
+  },
+  "signatories and contact information": {
+    "canonical_id": "T007",
+    "canonical_name": "Signatory Information"
+  },
+  "signatories": {
+    "canonical_id": "T007",
+    "canonical_name": "Signatory Information"
+  },
+  "legal signatories": {
+    "canonical_id": "T007",
+    "canonical_name": "Signatory Information"
+  },
+  "signatories and addresses": {
+    "canonical_id": "T007",
+    "canonical_name": "Signatory Information"
+  },
+  "scope definition": {
+    "canonical_id": "T008",
+    "canonical_name": "Scope Definition"
+  },
+  "scope description": {
+    "canonical_id": "T008",
+    "canonical_name": "Scope Definition"
+  },
+  "quality assurance": {
+    "canonical_id": "T009",
+    "canonical_name": "Quality Assurance"
+  },
+  "testing and quality assurance": {
+    "canonical_id": "T009",
+    "canonical_name": "Quality Assurance"
+  },
+  "testing and quality": {
+    "canonical_id": "T009",
+    "canonical_name": "Quality Assurance"
+  },
+  "performance and quality assurance": {
+    "canonical_id": "T009",
+    "canonical_name": "Quality Assurance"
+  },
+  "testing and validation": {
+    "canonical_id": "T010",
+    "canonical_name": "Testing and Validation"
+  },
+  "validation and testing": {
+    "canonical_id": "T010",
+    "canonical_name": "Testing and Validation"
+  },
+  "reporting requirements": {
+    "canonical_id": "T011",
+    "canonical_name": "Reporting Requirements"
+  },
+  "reporting obligations": {
+    "canonical_id": "T011",
+    "canonical_name": "Reporting Requirements"
+  },
+  "acceptance criteria": {
+    "canonical_id": "T012",
+    "canonical_name": "Acceptance Criteria"
+  },
+  "acceptance conditions": {
+    "canonical_id": "T012",
+    "canonical_name": "Acceptance Criteria"
+  },
+  "project scope": {
+    "canonical_id": "T013",
+    "canonical_name": "Project Scope"
+  },
+  "project objectives": {
+    "canonical_id": "T013",
+    "canonical_name": "Project Scope"
+  },
+  "compliance and audit": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "compliance and audits": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "compliance reporting": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "compliance and reporting": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "reporting and compliance": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "compliance and auditing": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "compliance and governance": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "compliance and audit obligations": {
+    "canonical_id": "T014",
+    "canonical_name": "Compliance and Audit"
+  },
+  "performance criteria": {
+    "canonical_id": "T015",
+    "canonical_name": "Performance Metrics"
+  },
+  "performance metrics": {
+    "canonical_id": "T015",
+    "canonical_name": "Performance Metrics"
+  },
+  "performance evaluation": {
+    "canonical_id": "T015",
+    "canonical_name": "Performance Metrics"
+  },
+  "performance and quality metrics": {
+    "canonical_id": "T015",
+    "canonical_name": "Performance Metrics"
+  },
+  "performance monitoring": {
+    "canonical_id": "T016",
+    "canonical_name": "Performance Monitoring"
+  },
+  "performance and monitoring": {
+    "canonical_id": "T016",
+    "canonical_name": "Performance Monitoring"
+  },
+  "progress reporting": {
+    "canonical_id": "T017",
+    "canonical_name": "Progress Reporting"
+  },
+  "reporting and progress updates": {
+    "canonical_id": "T017",
+    "canonical_name": "Progress Reporting"
+  },
+  "progress and reporting": {
+    "canonical_id": "T017",
+    "canonical_name": "Progress Reporting"
+  },
+  "reporting and communication": {
+    "canonical_id": "T018",
+    "canonical_name": "Reporting and Communication"
+  },
+  "documentation and reporting": {
+    "canonical_id": "T018",
+    "canonical_name": "Reporting and Communication"
+  },
+  "reporting and documentation": {
+    "canonical_id": "T018",
+    "canonical_name": "Reporting and Communication"
+  },
+  "communication and reporting": {
+    "canonical_id": "T018",
+    "canonical_name": "Reporting and Communication"
+  },
+  "timelines and milestones": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "project milestones": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "timeline and milestones": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "schedule and milestones": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "milestones and deadlines": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "project timeline and milestones": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "project schedule and milestones": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "project milestones and timeline": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "project timelines and milestones": {
+    "canonical_id": "T019",
+    "canonical_name": "Project Milestones and Timeline"
+  },
+  "project timeline": {
+    "canonical_id": "T020",
+    "canonical_name": "Project Timeline"
+  },
+  "project timelines": {
+    "canonical_id": "T020",
+    "canonical_name": "Project Timeline"
+  },
+  "work description": {
+    "canonical_id": "T021",
+    "canonical_name": "Scope of Work"
+  },
+  "intellectual property rights": {
+    "canonical_id": "T022",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "intellectual property": {
+    "canonical_id": "T022",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "intellectual property terms": {
+    "canonical_id": "T022",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "intellectual property usage": {
+    "canonical_id": "T022",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "intellectual property and legal terms": {
+    "canonical_id": "T022",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "intellectual property use": {
+    "canonical_id": "T022",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "intellectual property and usage rights": {
+    "canonical_id": "T022",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "compliance requirements": {
+    "canonical_id": "T023",
+    "canonical_name": "Compliance Requirements"
+  },
+  "compliance obligations": {
+    "canonical_id": "T023",
+    "canonical_name": "Compliance Requirements"
+  },
+  "compliance and standards": {
+    "canonical_id": "T023",
+    "canonical_name": "Compliance Requirements"
+  },
+  "compliance standards": {
+    "canonical_id": "T023",
+    "canonical_name": "Compliance Requirements"
+  },
+  "compliance terms": {
+    "canonical_id": "T023",
+    "canonical_name": "Compliance Requirements"
+  },
+  "compliance": {
+    "canonical_id": "T023",
+    "canonical_name": "Compliance Requirements"
+  },
+  "compliance provisions": {
+    "canonical_id": "T023",
+    "canonical_name": "Compliance Requirements"
+  },
+  "performance requirements": {
+    "canonical_id": "T024",
+    "canonical_name": "Performance Requirements"
+  },
+  "performance and support": {
+    "canonical_id": "T024",
+    "canonical_name": "Performance Requirements"
+  },
+  "documentation and training": {
+    "canonical_id": "T025",
+    "canonical_name": "Documentation and Training"
+  },
+  "training and documentation": {
+    "canonical_id": "T025",
+    "canonical_name": "Documentation and Training"
+  },
+  "documentation and training materials": {
+    "canonical_id": "T025",
+    "canonical_name": "Documentation and Training"
+  },
+  "agreement details": {
+    "canonical_id": "T026",
+    "canonical_name": "Parties and Agreement Details"
+  },
+  "parties and agreement dates": {
+    "canonical_id": "T026",
+    "canonical_name": "Parties and Agreement Details"
+  },
+  "parties and agreement details": {
+    "canonical_id": "T026",
+    "canonical_name": "Parties and Agreement Details"
+  },
+  "parties and agreements": {
+    "canonical_id": "T026",
+    "canonical_name": "Parties and Agreement Details"
+  },
+  "parties and agreement terms": {
+    "canonical_id": "T026",
+    "canonical_name": "Parties and Agreement Details"
+  },
+  "work activities": {
+    "canonical_id": "T027",
+    "canonical_name": "Work Activities"
+  },
+  "work activities and processes": {
+    "canonical_id": "T027",
+    "canonical_name": "Work Activities"
+  },
+  "deployment and configuration": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment and support": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment provisions": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment requirements": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment details": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment procedures": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment and installation": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment and environment setup": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment and operations": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment and maintenance": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment processes": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment instructions": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "deployment support": {
+    "canonical_id": "T028",
+    "canonical_name": "Deployment and Configuration"
+  },
+  "payment terms": {
+    "canonical_id": "T029",
+    "canonical_name": "Payment Terms"
+  },
+  "payment conditions": {
+    "canonical_id": "T029",
+    "canonical_name": "Payment Terms"
+  },
+  "payment and financial terms": {
+    "canonical_id": "T029",
+    "canonical_name": "Payment Terms"
+  },
+  "legal and payment terms": {
+    "canonical_id": "T029",
+    "canonical_name": "Payment Terms"
+  },
+  "development activities": {
+    "canonical_id": "T030",
+    "canonical_name": "Development Activities"
+  },
+  "design and development activities": {
+    "canonical_id": "T030",
+    "canonical_name": "Development Activities"
+  },
+  "deployment and integration": {
+    "canonical_id": "T031",
+    "canonical_name": "Deployment and Integration"
+  },
+  "integration and deployment": {
+    "canonical_id": "T031",
+    "canonical_name": "Deployment and Integration"
+  },
+  "deployment and implementation": {
+    "canonical_id": "T031",
+    "canonical_name": "Deployment and Integration"
+  },
+  "deployment and acceptance": {
+    "canonical_id": "T031",
+    "canonical_name": "Deployment and Integration"
+  },
+  "acceptance and deployment": {
+    "canonical_id": "T031",
+    "canonical_name": "Deployment and Integration"
+  },
+  "deployment and compliance": {
+    "canonical_id": "T031",
+    "canonical_name": "Deployment and Integration"
+  },
+  "signatures and authorization": {
+    "canonical_id": "T032",
+    "canonical_name": "Signatures and Authorization"
+  },
+  "signatories and authorization": {
+    "canonical_id": "T032",
+    "canonical_name": "Signatures and Authorization"
+  },
+  "signatory authorization": {
+    "canonical_id": "T032",
+    "canonical_name": "Signatures and Authorization"
+  },
+  "authorization and signatures": {
+    "canonical_id": "T032",
+    "canonical_name": "Signatures and Authorization"
+  },
+  "signature and authorization": {
+    "canonical_id": "T032",
+    "canonical_name": "Signatures and Authorization"
+  },
+  "signatures and authorizations": {
+    "canonical_id": "T032",
+    "canonical_name": "Signatures and Authorization"
+  },
+  "termination conditions": {
+    "canonical_id": "T033",
+    "canonical_name": "Termination Conditions"
+  },
+  "documentation": {
+    "canonical_id": "T034",
+    "canonical_name": "Project Documentation"
+  },
+  "technical documentation": {
+    "canonical_id": "T034",
+    "canonical_name": "Project Documentation"
+  },
+  "documentation and support": {
+    "canonical_id": "T034",
+    "canonical_name": "Project Documentation"
+  },
+  "documentation and manuals": {
+    "canonical_id": "T034",
+    "canonical_name": "Project Documentation"
+  },
+  "liability limitations": {
+    "canonical_id": "T035",
+    "canonical_name": "Limitation of Liability"
+  },
+  "liability and limitations": {
+    "canonical_id": "T035",
+    "canonical_name": "Limitation of Liability"
+  },
+  "liability limits": {
+    "canonical_id": "T035",
+    "canonical_name": "Limitation of Liability"
+  },
+  "infrastructure setup": {
+    "canonical_id": "T036",
+    "canonical_name": "Infrastructure Setup"
+  },
+  "infrastructure and deployment": {
+    "canonical_id": "T036",
+    "canonical_name": "Infrastructure Setup"
+  },
+  "infrastructure and integration": {
+    "canonical_id": "T036",
+    "canonical_name": "Infrastructure Setup"
+  },
+  "deployment and infrastructure": {
+    "canonical_id": "T036",
+    "canonical_name": "Infrastructure Setup"
+  },
+  "infrastructure deployment": {
+    "canonical_id": "T036",
+    "canonical_name": "Infrastructure Setup"
+  },
+  "integration requirements": {
+    "canonical_id": "T037",
+    "canonical_name": "Integration Requirements"
+  },
+  "integration specifications": {
+    "canonical_id": "T037",
+    "canonical_name": "Integration Requirements"
+  },
+  "financial terms": {
+    "canonical_id": "T038",
+    "canonical_name": "Financial Terms"
+  },
+  "financial and legal terms": {
+    "canonical_id": "T038",
+    "canonical_name": "Financial Terms"
+  },
+  "post-deployment support": {
+    "canonical_id": "T039",
+    "canonical_name": "Post-Deployment Support"
+  },
+  "post-deployment obligations": {
+    "canonical_id": "T039",
+    "canonical_name": "Post-Deployment Support"
+  },
+  "parties involved": {
+    "canonical_id": "T040",
+    "canonical_name": "Project Parties"
+  },
+  "project management": {
+    "canonical_id": "T041",
+    "canonical_name": "Project Management"
+  },
+  "project management and communication": {
+    "canonical_id": "T041",
+    "canonical_name": "Project Management"
+  },
+  "project administration": {
+    "canonical_id": "T041",
+    "canonical_name": "Project Management"
+  },
+  "technical requirements": {
+    "canonical_id": "T042",
+    "canonical_name": "Technical Requirements"
+  },
+  "technical specifications": {
+    "canonical_id": "T042",
+    "canonical_name": "Technical Requirements"
+  },
+  "technical requirements overview": {
+    "canonical_id": "T042",
+    "canonical_name": "Technical Requirements"
+  },
+  "acceptance and approval": {
+    "canonical_id": "T043",
+    "canonical_name": "Acceptance and Approval"
+  },
+  "acceptance and review": {
+    "canonical_id": "T043",
+    "canonical_name": "Acceptance and Approval"
+  },
+  "acceptance and approval criteria": {
+    "canonical_id": "T043",
+    "canonical_name": "Acceptance and Approval"
+  },
+  "acceptance and review processes": {
+    "canonical_id": "T043",
+    "canonical_name": "Acceptance and Approval"
+  },
+  "acceptance and approvals": {
+    "canonical_id": "T043",
+    "canonical_name": "Acceptance and Approval"
+  },
+  "review and acceptance": {
+    "canonical_id": "T043",
+    "canonical_name": "Acceptance and Approval"
+  },
+  "liability terms": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "liability and payment terms": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "liability and financial terms": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "liability and costs": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "financial and liability terms": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "legal and liability terms": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "liability and commitments": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "financial terms and liabilities": {
+    "canonical_id": "T044",
+    "canonical_name": "Liability Terms"
+  },
+  "performance standards": {
+    "canonical_id": "T045",
+    "canonical_name": "Performance and Quality Standards"
+  },
+  "quality standards": {
+    "canonical_id": "T045",
+    "canonical_name": "Performance and Quality Standards"
+  },
+  "quality and standards": {
+    "canonical_id": "T045",
+    "canonical_name": "Performance and Quality Standards"
+  },
+  "performance and quality standards": {
+    "canonical_id": "T045",
+    "canonical_name": "Performance and Quality Standards"
+  },
+  "quality and performance standards": {
+    "canonical_id": "T045",
+    "canonical_name": "Performance and Quality Standards"
+  },
+  "testing and acceptance": {
+    "canonical_id": "T046",
+    "canonical_name": "Acceptance and Testing"
+  },
+  "acceptance and validation": {
+    "canonical_id": "T046",
+    "canonical_name": "Acceptance and Testing"
+  },
+  "acceptance and testing": {
+    "canonical_id": "T046",
+    "canonical_name": "Acceptance and Testing"
+  },
+  "acceptance and verification": {
+    "canonical_id": "T046",
+    "canonical_name": "Acceptance and Testing"
+  },
+  "dispute resolution": {
+    "canonical_id": "T047",
+    "canonical_name": "Dispute Resolution"
+  },
+  "reporting and monitoring": {
+    "canonical_id": "T048",
+    "canonical_name": "Reporting and Monitoring"
+  },
+  "reporting and updates": {
+    "canonical_id": "T048",
+    "canonical_name": "Reporting and Monitoring"
+  },
+  "monitoring and reporting": {
+    "canonical_id": "T048",
+    "canonical_name": "Reporting and Monitoring"
+  },
+  "acceptance and sign-off": {
+    "canonical_id": "T049",
+    "canonical_name": "Acceptance and Sign-Off"
+  },
+  "acceptance and signatures": {
+    "canonical_id": "T049",
+    "canonical_name": "Acceptance and Sign-Off"
+  },
+  "legal terms": {
+    "canonical_id": "T050",
+    "canonical_name": "Legal Terms and Conditions"
+  },
+  "data management": {
+    "canonical_id": "T051",
+    "canonical_name": "Data Management"
+  },
+  "data handling": {
+    "canonical_id": "T051",
+    "canonical_name": "Data Management"
+  },
+  "data handling procedures": {
+    "canonical_id": "T051",
+    "canonical_name": "Data Management"
+  },
+  "compliance and quality": {
+    "canonical_id": "T052",
+    "canonical_name": "Quality and Compliance"
+  },
+  "quality and compliance": {
+    "canonical_id": "T052",
+    "canonical_name": "Quality and Compliance"
+  },
+  "performance and compliance": {
+    "canonical_id": "T052",
+    "canonical_name": "Quality and Compliance"
+  },
+  "compliance and quality assurance": {
+    "canonical_id": "T052",
+    "canonical_name": "Quality and Compliance"
+  },
+  "compliance and performance": {
+    "canonical_id": "T052",
+    "canonical_name": "Quality and Compliance"
+  },
+  "compliance and performance monitoring": {
+    "canonical_id": "T052",
+    "canonical_name": "Quality and Compliance"
+  },
+  "effective dates": {
+    "canonical_id": "T053",
+    "canonical_name": "Effective Date"
+  },
+  "confidentiality terms": {
+    "canonical_id": "T054",
+    "canonical_name": "Confidentiality Terms"
+  },
+  "legal and confidentiality terms": {
+    "canonical_id": "T054",
+    "canonical_name": "Confidentiality Terms"
+  },
+  "confidentiality and compliance": {
+    "canonical_id": "T054",
+    "canonical_name": "Confidentiality Terms"
+  },
+  "confidentiality provisions": {
+    "canonical_id": "T054",
+    "canonical_name": "Confidentiality Terms"
+  },
+  "confidentiality clauses": {
+    "canonical_id": "T054",
+    "canonical_name": "Confidentiality Terms"
+  },
+  "confidentiality statement": {
+    "canonical_id": "T054",
+    "canonical_name": "Confidentiality Terms"
+  },
+  "financial responsibilities": {
+    "canonical_id": "T055",
+    "canonical_name": "Financial Responsibilities"
+  },
+  "responsibilities and liabilities": {
+    "canonical_id": "T055",
+    "canonical_name": "Financial Responsibilities"
+  },
+  "financial and cost responsibilities": {
+    "canonical_id": "T055",
+    "canonical_name": "Financial Responsibilities"
+  },
+  "data migration": {
+    "canonical_id": "T056",
+    "canonical_name": "Data Migration"
+  },
+  "data migration plan": {
+    "canonical_id": "T056",
+    "canonical_name": "Data Migration"
+  },
+  "data migration and integration": {
+    "canonical_id": "T056",
+    "canonical_name": "Data Migration"
+  },
+  "data migration and scalability": {
+    "canonical_id": "T056",
+    "canonical_name": "Data Migration"
+  },
+  "data migration tasks": {
+    "canonical_id": "T056",
+    "canonical_name": "Data Migration"
+  },
+  "data handling and migration": {
+    "canonical_id": "T056",
+    "canonical_name": "Data Migration"
+  },
+  "signatures and approvals": {
+    "canonical_id": "T057",
+    "canonical_name": "Approvals and Signatures"
+  },
+  "approvals and signatures": {
+    "canonical_id": "T057",
+    "canonical_name": "Approvals and Signatures"
+  },
+  "approval and sign-off": {
+    "canonical_id": "T057",
+    "canonical_name": "Approvals and Signatures"
+  },
+  "approval and signatures": {
+    "canonical_id": "T057",
+    "canonical_name": "Approvals and Signatures"
+  },
+  "signatories and approvals": {
+    "canonical_id": "T057",
+    "canonical_name": "Approvals and Signatures"
+  },
+  "approvals and sign-off": {
+    "canonical_id": "T057",
+    "canonical_name": "Approvals and Signatures"
+  },
+  "subcontracting terms": {
+    "canonical_id": "T058",
+    "canonical_name": "Subcontracting Terms"
+  },
+  "review and approval": {
+    "canonical_id": "T059",
+    "canonical_name": "Review and Approval"
+  },
+  "approval process": {
+    "canonical_id": "T059",
+    "canonical_name": "Review and Approval"
+  },
+  "approval processes": {
+    "canonical_id": "T059",
+    "canonical_name": "Review and Approval"
+  },
+  "approval and review processes": {
+    "canonical_id": "T059",
+    "canonical_name": "Review and Approval"
+  },
+  "review and approval processes": {
+    "canonical_id": "T059",
+    "canonical_name": "Review and Approval"
+  },
+  "approvals": {
+    "canonical_id": "T059",
+    "canonical_name": "Review and Approval"
+  },
+  "termination terms": {
+    "canonical_id": "T060",
+    "canonical_name": "Termination Terms"
+  },
+  "termination and legal terms": {
+    "canonical_id": "T060",
+    "canonical_name": "Termination Terms"
+  },
+  "liability and termination": {
+    "canonical_id": "T060",
+    "canonical_name": "Termination Terms"
+  },
+  "integration activities": {
+    "canonical_id": "T061",
+    "canonical_name": "Integration Activities"
+  },
+  "integration tasks": {
+    "canonical_id": "T061",
+    "canonical_name": "Integration Activities"
+  },
+  "integration processes": {
+    "canonical_id": "T061",
+    "canonical_name": "Integration Activities"
+  },
+  "compliance and documentation": {
+    "canonical_id": "T062",
+    "canonical_name": "Compliance Documentation"
+  },
+  "documentation and compliance": {
+    "canonical_id": "T062",
+    "canonical_name": "Compliance Documentation"
+  },
+  "compliance documentation": {
+    "canonical_id": "T062",
+    "canonical_name": "Compliance Documentation"
+  },
+  "deployment and testing": {
+    "canonical_id": "T063",
+    "canonical_name": "Deployment and Testing"
+  },
+  "testing and deployment": {
+    "canonical_id": "T063",
+    "canonical_name": "Deployment and Testing"
+  },
+  "deployment and validation": {
+    "canonical_id": "T063",
+    "canonical_name": "Deployment and Testing"
+  },
+  "delivery schedule": {
+    "canonical_id": "T064",
+    "canonical_name": "Delivery Schedule"
+  },
+  "deliverables schedule": {
+    "canonical_id": "T064",
+    "canonical_name": "Delivery Schedule"
+  },
+  "delivery timelines": {
+    "canonical_id": "T064",
+    "canonical_name": "Delivery Schedule"
+  },
+  "documentation and knowledge transfer": {
+    "canonical_id": "T065",
+    "canonical_name": "Documentation and Knowledge Transfer"
+  },
+  "deliverable commitments": {
+    "canonical_id": "T066",
+    "canonical_name": "Deliverable Obligations"
+  },
+  "deliverable obligations": {
+    "canonical_id": "T066",
+    "canonical_name": "Deliverable Obligations"
+  },
+  "delivery obligations": {
+    "canonical_id": "T066",
+    "canonical_name": "Deliverable Obligations"
+  },
+  "liability and compliance": {
+    "canonical_id": "T067",
+    "canonical_name": "Legal and Compliance"
+  },
+  "legal and compliance": {
+    "canonical_id": "T067",
+    "canonical_name": "Legal and Compliance"
+  },
+  "compliance and liability": {
+    "canonical_id": "T067",
+    "canonical_name": "Legal and Compliance"
+  },
+  "integration and testing": {
+    "canonical_id": "T068",
+    "canonical_name": "Integration and Testing"
+  },
+  "integration and validation": {
+    "canonical_id": "T068",
+    "canonical_name": "Integration and Testing"
+  },
+  "deployment schedule": {
+    "canonical_id": "T069",
+    "canonical_name": "Deployment Schedule"
+  },
+  "implementation activities": {
+    "canonical_id": "T070",
+    "canonical_name": "Implementation Approach"
+  },
+  "implementation processes": {
+    "canonical_id": "T070",
+    "canonical_name": "Implementation Approach"
+  },
+  "implementation approach": {
+    "canonical_id": "T070",
+    "canonical_name": "Implementation Approach"
+  },
+  "work scope definition": {
+    "canonical_id": "T071",
+    "canonical_name": "Scope of Work"
+  },
+  "performance reporting": {
+    "canonical_id": "T072",
+    "canonical_name": "Performance Reporting"
+  },
+  "performance and reporting": {
+    "canonical_id": "T072",
+    "canonical_name": "Performance Reporting"
+  },
+  "reporting and metrics": {
+    "canonical_id": "T072",
+    "canonical_name": "Performance Reporting"
+  },
+  "project schedule": {
+    "canonical_id": "T073",
+    "canonical_name": "Project Schedule"
+  },
+  "timeline and schedule": {
+    "canonical_id": "T073",
+    "canonical_name": "Project Schedule"
+  },
+  "compliance and testing": {
+    "canonical_id": "T074",
+    "canonical_name": "Compliance and Testing"
+  },
+  "compliance and validation": {
+    "canonical_id": "T074",
+    "canonical_name": "Compliance and Testing"
+  },
+  "testing and compliance": {
+    "canonical_id": "T074",
+    "canonical_name": "Compliance and Testing"
+  },
+  "compliance verification": {
+    "canonical_id": "T074",
+    "canonical_name": "Compliance and Testing"
+  },
+  "parties and dates": {
+    "canonical_id": "T075",
+    "canonical_name": "Parties and Effective Date"
+  },
+  "development process": {
+    "canonical_id": "T076",
+    "canonical_name": "Development Process"
+  },
+  "development methodology": {
+    "canonical_id": "T076",
+    "canonical_name": "Development Process"
+  },
+  "development processes": {
+    "canonical_id": "T076",
+    "canonical_name": "Development Process"
+  },
+  "development approach": {
+    "canonical_id": "T076",
+    "canonical_name": "Development Process"
+  },
+  "training and support": {
+    "canonical_id": "T077",
+    "canonical_name": "Training and Support"
+  },
+  "support and training": {
+    "canonical_id": "T077",
+    "canonical_name": "Training and Support"
+  },
+  "documentation and handover": {
+    "canonical_id": "T078",
+    "canonical_name": "Documentation Handover"
+  },
+  "documentation and handoff": {
+    "canonical_id": "T078",
+    "canonical_name": "Documentation Handover"
+  },
+  "documentation handover": {
+    "canonical_id": "T078",
+    "canonical_name": "Documentation Handover"
+  },
+  "development scope": {
+    "canonical_id": "T079",
+    "canonical_name": "Scope of Work"
+  },
+  "legal and jurisdiction": {
+    "canonical_id": "T080",
+    "canonical_name": "Legal Jurisdiction"
+  },
+  "legal jurisdiction": {
+    "canonical_id": "T080",
+    "canonical_name": "Legal Jurisdiction"
+  },
+  "jurisdiction and legal": {
+    "canonical_id": "T080",
+    "canonical_name": "Legal Jurisdiction"
+  },
+  "vendor commitments": {
+    "canonical_id": "T081",
+    "canonical_name": "Vendor Obligations"
+  },
+  "vendor obligations": {
+    "canonical_id": "T081",
+    "canonical_name": "Vendor Obligations"
+  },
+  "vendor obligations and liabilities": {
+    "canonical_id": "T081",
+    "canonical_name": "Vendor Obligations"
+  },
+  "timelines": {
+    "canonical_id": "T082",
+    "canonical_name": "Project Timeline"
+  },
+  "timeline": {
+    "canonical_id": "T082",
+    "canonical_name": "Project Timeline"
+  },
+  "project reporting": {
+    "canonical_id": "T083",
+    "canonical_name": "Project Reporting"
+  },
+  "project management and reporting": {
+    "canonical_id": "T083",
+    "canonical_name": "Project Reporting"
+  },
+  "project management reporting": {
+    "canonical_id": "T083",
+    "canonical_name": "Project Reporting"
+  },
+  "usage rights": {
+    "canonical_id": "T084",
+    "canonical_name": "Intellectual Property Rights"
+  },
+  "project activities": {
+    "canonical_id": "T085",
+    "canonical_name": "Project Activities"
+  },
+  "work commitments": {
+    "canonical_id": "T086",
+    "canonical_name": "Work Commitments"
+  },
+  "performance objectives": {
+    "canonical_id": "T087",
+    "canonical_name": "Performance Objectives"
+  },
+  "signatures": {
+    "canonical_id": "T088",
+    "canonical_name": "Signatures and Contact Details"
+  },
+  "signatures and contact information": {
+    "canonical_id": "T088",
+    "canonical_name": "Signatures and Contact Details"
+  },
+  "signatures and addresses": {
+    "canonical_id": "T088",
+    "canonical_name": "Signatures and Contact Details"
+  },
+  "integration and compatibility": {
+    "canonical_id": "T089",
+    "canonical_name": "Integration and Compatibility"
+  },
+  "integration and interoperability": {
+    "canonical_id": "T089",
+    "canonical_name": "Integration and Compatibility"
+  },
+  "final documentation": {
+    "canonical_id": "T090",
+    "canonical_name": "Final Deliverables"
+  },
+  "deliverables and documentation": {
+    "canonical_id": "T091",
+    "canonical_name": "Deliverables and Documentation"
+  },
+  "deliverables documentation": {
+    "canonical_id": "T091",
+    "canonical_name": "Deliverables and Documentation"
+  },
+  "signatures and verification": {
+    "canonical_id": "T092",
+    "canonical_name": "Signature Verification"
+  },
+  "signatures and validation": {
+    "canonical_id": "T092",
+    "canonical_name": "Signature Verification"
+  },
+  "legal provisions": {
+    "canonical_id": "T093",
+    "canonical_name": "Legal Provisions"
+  },
+  "integration details": {
+    "canonical_id": "T094",
+    "canonical_name": "System Integration"
+  },
+  "responsibilities": {
+    "canonical_id": "T095",
+    "canonical_name": "Roles and Responsibilities"
+  },
+  "responsibilities and obligations": {
+    "canonical_id": "T095",
+    "canonical_name": "Roles and Responsibilities"
+  },
+  "roles and responsibilities": {
+    "canonical_id": "T095",
+    "canonical_name": "Roles and Responsibilities"
+  },
+  "contractual terms": {
+    "canonical_id": "T096",
+    "canonical_name": "Contractual Terms"
+  },
+  "contractual obligations": {
+    "canonical_id": "T096",
+    "canonical_name": "Contractual Terms"
+  },
+  "contractual clauses": {
+    "canonical_id": "T096",
+    "canonical_name": "Contractual Terms"
+  },
+  "contractual agreements": {
+    "canonical_id": "T096",
+    "canonical_name": "Contractual Terms"
+  },
+  "delivery requirements": {
+    "canonical_id": "T097",
+    "canonical_name": "Delivery Requirements"
+  },
+  "post-deployment monitoring": {
+    "canonical_id": "T098",
+    "canonical_name": "Post-Deployment Monitoring"
+  },
+  "post-deployment evaluation": {
+    "canonical_id": "T098",
+    "canonical_name": "Post-Deployment Monitoring"
+  },
+  "service obligations": {
+    "canonical_id": "T099",
+    "canonical_name": "Service Commitments"
+  },
+  "service commitments": {
+    "canonical_id": "T099",
+    "canonical_name": "Service Commitments"
+  },
+  "collaboration process": {
+    "canonical_id": "T100",
+    "canonical_name": "Collaboration and Communication"
+  },
+  "collaboration and communication": {
+    "canonical_id": "T100",
+    "canonical_name": "Collaboration and Communication"
+  },
+  "collaboration and support": {
+    "canonical_id": "T100",
+    "canonical_name": "Collaboration and Communication"
+  },
+  "documentation delivery": {
+    "canonical_id": "T101",
+    "canonical_name": "Documentation Delivery"
+  },
+  "documentation provision": {
+    "canonical_id": "T101",
+    "canonical_name": "Documentation Delivery"
+  },
+  "design and development": {
+    "canonical_id": "T102",
+    "canonical_name": "Design and Development"
+  },
+  "deployment and transition": {
+    "canonical_id": "T103",
+    "canonical_name": "Deployment Responsibilities"
+  },
+  "deployment commitments": {
+    "canonical_id": "T103",
+    "canonical_name": "Deployment Responsibilities"
+  },
+  "deployment obligations": {
+    "canonical_id": "T103",
+    "canonical_name": "Deployment Responsibilities"
+  },
+  "deployment activities": {
+    "canonical_id": "T103",
+    "canonical_name": "Deployment Responsibilities"
+  },
+  "technical implementation": {
+    "canonical_id": "T104",
+    "canonical_name": "Technical Implementation"
+  },
+  "performance obligations": {
+    "canonical_id": "T105",
+    "canonical_name": "Performance Obligations"
+  },
+  "performance commitments": {
+    "canonical_id": "T105",
+    "canonical_name": "Performance Obligations"
+  },
+  "knowledge transfer": {
+    "canonical_id": "T106",
+    "canonical_name": "Knowledge Transfer"
+  },
+  "collaboration and knowledge transfer": {
+    "canonical_id": "T106",
+    "canonical_name": "Knowledge Transfer"
+  },
+  "training and knowledge transfer": {
+    "canonical_id": "T106",
+    "canonical_name": "Knowledge Transfer"
+  },
+  "design and testing": {
+    "canonical_id": "T107",
+    "canonical_name": "Design and Testing"
+  },
+  "testing and evaluation": {
+    "canonical_id": "T107",
+    "canonical_name": "Design and Testing"
+  },
+  "development and implementation": {
+    "canonical_id": "T108",
+    "canonical_name": "Solution Development"
+  },
+  "post-delivery support": {
+    "canonical_id": "T109",
+    "canonical_name": "Post-Delivery Support"
+  },
+  "post-delivery obligations": {
+    "canonical_id": "T109",
+    "canonical_name": "Post-Delivery Support"
+  },
+  "liability and confidentiality": {
+    "canonical_id": "T110",
+    "canonical_name": "Liability and Confidentiality"
+  },
+  "confidentiality and liability": {
+    "canonical_id": "T110",
+    "canonical_name": "Liability and Confidentiality"
+  },
+  "subcontracting permissions": {
+    "canonical_id": "T111",
+    "canonical_name": "Subcontracting Provisions"
+  },
+  "subcontracting rights": {
+    "canonical_id": "T111",
+    "canonical_name": "Subcontracting Provisions"
+  },
+  "deliverables and outputs": {
+    "canonical_id": "T112",
+    "canonical_name": "Deliverables and Outputs"
+  },
+  "work schedule": {
+    "canonical_id": "T113",
+    "canonical_name": "Work Schedule"
+  },
+  "integration and development": {
+    "canonical_id": "T114",
+    "canonical_name": "Development and Integration"
+  },
+  "development and integration": {
+    "canonical_id": "T114",
+    "canonical_name": "Development and Integration"
+  },
+  "third-party integration": {
+    "canonical_id": "T115",
+    "canonical_name": "Third-Party Integration"
+  },
+  "deployment and handover": {
+    "canonical_id": "T116",
+    "canonical_name": "Deployment and Handover"
+  },
+  "deployment and handoff": {
+    "canonical_id": "T116",
+    "canonical_name": "Deployment and Handover"
+  },
+  "jurisdiction and dispute resolution": {
+    "canonical_id": "T117",
+    "canonical_name": "Governing Law and Dispute Resolution"
+  },
+  "documentation and approvals": {
+    "canonical_id": "T118",
+    "canonical_name": "Documentation and Approvals"
+  },
+  "documentation and approval": {
+    "canonical_id": "T118",
+    "canonical_name": "Documentation and Approvals"
+  },
+  "integration and documentation": {
+    "canonical_id": "T119",
+    "canonical_name": "System Integration and Documentation"
+  },
+  "technical standards": {
+    "canonical_id": "T120",
+    "canonical_name": "Technical Standards"
+  },
+  "compliance and review": {
+    "canonical_id": "T121",
+    "canonical_name": "Compliance and Approval"
+  },
+  "compliance and finalization": {
+    "canonical_id": "T121",
+    "canonical_name": "Compliance and Approval"
+  },
+  "compliance and approvals": {
+    "canonical_id": "T121",
+    "canonical_name": "Compliance and Approval"
+  },
+  "implementation details": {
+    "canonical_id": "T122",
+    "canonical_name": "Implementation Details"
+  },
+  "data usage rights": {
+    "canonical_id": "T123",
+    "canonical_name": "Data Usage Rights"
+  },
+  "reporting and approvals": {
+    "canonical_id": "T124",
+    "canonical_name": "Reporting and Approvals"
+  },
+  "reporting and review": {
+    "canonical_id": "T124",
+    "canonical_name": "Reporting and Approvals"
+  },
+  "deployment milestones": {
+    "canonical_id": "T125",
+    "canonical_name": "Milestones and Deliverables"
+  },
+  "deliverables and milestones": {
+    "canonical_id": "T125",
+    "canonical_name": "Milestones and Deliverables"
+  },
+  "integration and migration": {
+    "canonical_id": "T126",
+    "canonical_name": "System Integration and Migration"
+  },
+  "integration and support": {
+    "canonical_id": "T127",
+    "canonical_name": "Integration and Support"
+  },
+  "integration and maintenance": {
+    "canonical_id": "T127",
+    "canonical_name": "Integration and Support"
+  },
+  "acceptance and handover": {
+    "canonical_id": "T128",
+    "canonical_name": "Acceptance and Handover"
+  },
+  "project documentation": {
+    "canonical_id": "T129",
+    "canonical_name": "Project Documentation"
+  },
+  "support terms": {
+    "canonical_id": "T130",
+    "canonical_name": "Support Terms"
+  },
+  "parties identification": {
+    "canonical_id": "T131",
+    "canonical_name": "Parties Information"
+  },
+  "parties information": {
+    "canonical_id": "T131",
+    "canonical_name": "Parties Information"
+  },
+  "legal consent": {
+    "canonical_id": "T132",
+    "canonical_name": "Legal Consent"
+  },
+  "legal and consent clauses": {
+    "canonical_id": "T132",
+    "canonical_name": "Legal Consent"
+  },
+  "legal consents": {
+    "canonical_id": "T132",
+    "canonical_name": "Legal Consent"
+  },
+  "acceptance and revisions": {
+    "canonical_id": "T133",
+    "canonical_name": "Acceptance and Revisions"
+  },
+  "infrastructure and development": {
+    "canonical_id": "T134",
+    "canonical_name": "Infrastructure and Development"
+  },
+  "infrastructure and development scope": {
+    "canonical_id": "T134",
+    "canonical_name": "Infrastructure and Development"
+  },
+  "performance and optimization": {
+    "canonical_id": "T135",
+    "canonical_name": "Performance Optimization"
+  },
+  "project closure": {
+    "canonical_id": "T136",
+    "canonical_name": "Project Closure"
+  },
+  "acceptance and documentation": {
+    "canonical_id": "T137",
+    "canonical_name": "Acceptance Criteria"
+  },
+  "support provisions": {
+    "canonical_id": "T138",
+    "canonical_name": "Support Services"
+  },
+  "client acceptance": {
+    "canonical_id": "T139",
+    "canonical_name": "Client Acceptance"
+  },
+  "client review and acceptance": {
+    "canonical_id": "T139",
+    "canonical_name": "Client Acceptance"
+  },
+  "implementation timeline": {
+    "canonical_id": "T140",
+    "canonical_name": "Implementation Timeline"
+  },
+  "implementation schedule": {
+    "canonical_id": "T140",
+    "canonical_name": "Implementation Timeline"
+  },
+  "integration scope": {
+    "canonical_id": "T141",
+    "canonical_name": "Integration Scope"
+  },
+  "acceptance and delivery terms": {
+    "canonical_id": "T142",
+    "canonical_name": "Acceptance and Delivery"
+  },
+  "acceptance and delivery": {
+    "canonical_id": "T142",
+    "canonical_name": "Acceptance and Delivery"
+  },
+  "integration services": {
+    "canonical_id": "T143",
+    "canonical_name": "System Integration Services"
+  },
+  "user experience design": {
+    "canonical_id": "T144",
+    "canonical_name": "User Experience"
+  },
+  "user experience": {
+    "canonical_id": "T144",
+    "canonical_name": "User Experience"
+  },
+  "performance and maintenance": {
+    "canonical_id": "T145",
+    "canonical_name": "Performance and Maintenance"
+  },
+  "technical integration": {
+    "canonical_id": "T146",
+    "canonical_name": "Technical Integration"
+  },
+  "technical commitments": {
+    "canonical_id": "T147",
+    "canonical_name": "Technical Commitments"
+  },
+  "liability and dispute resolution": {
+    "canonical_id": "T148",
+    "canonical_name": "Liability and Dispute Resolution"
+  },
+  "liability and dispute terms": {
+    "canonical_id": "T148",
+    "canonical_name": "Liability and Dispute Resolution"
+  },
+  "integration and evaluation": {
+    "canonical_id": "T149",
+    "canonical_name": "System Integration and Evaluation"
+  },
+  "stakeholder approvals": {
+    "canonical_id": "T150",
+    "canonical_name": "Stakeholder Approvals"
+  },
+  "security and compliance": {
+    "canonical_id": "T151",
+    "canonical_name": "Security and Compliance"
+  },
+  "compliance assurances": {
+    "canonical_id": "T151",
+    "canonical_name": "Security and Compliance"
+  },
+  "review and feedback": {
+    "canonical_id": "T152",
+    "canonical_name": "Review and Feedback"
+  },
+  "performance and testing": {
+    "canonical_id": "T153",
+    "canonical_name": "Performance and Testing"
+  },
+  "reporting": {
+    "canonical_id": "T154",
+    "canonical_name": "Project Reporting"
+  },
+  "project overview": {
+    "canonical_id": "T155",
+    "canonical_name": "Project Overview"
+  },
+  "stakeholder communication": {
+    "canonical_id": "T156",
+    "canonical_name": "Stakeholder Communication"
+  },
+  "project governance": {
+    "canonical_id": "T157",
+    "canonical_name": "Project Governance"
+  },
+  "acceptance and compliance": {
+    "canonical_id": "T158",
+    "canonical_name": "Acceptance and Compliance"
+  },
+  "contractual authorizations": {
+    "canonical_id": "T159",
+    "canonical_name": "Contractual Approvals"
+  },
+  "contractual terms and approvals": {
+    "canonical_id": "T159",
+    "canonical_name": "Contractual Approvals"
+  },
+  "parties and signatures": {
+    "canonical_id": "T160",
+    "canonical_name": "Signatures and Parties"
+  },
+  "service scope": {
+    "canonical_id": "T161",
+    "canonical_name": "Scope of Services"
+  },
+  "deployment and documentation": {
+    "canonical_id": "T162",
+    "canonical_name": "Deployment Documentation"
+  },
+  "deployment documentation": {
+    "canonical_id": "T162",
+    "canonical_name": "Deployment Documentation"
+  },
+  "progress monitoring": {
+    "canonical_id": "T163",
+    "canonical_name": "Progress Monitoring"
+  },
+  "project progress tracking": {
+    "canonical_id": "T163",
+    "canonical_name": "Progress Monitoring"
+  },
+  "communication protocols": {
+    "canonical_id": "T164",
+    "canonical_name": "Communication Protocols"
+  },
+  "evaluation criteria": {
+    "canonical_id": "T165",
+    "canonical_name": "Evaluation Criteria"
+  },
+  "contact details": {
+    "canonical_id": "T166",
+    "canonical_name": "Contact Information"
+  },
+  "client support": {
+    "canonical_id": "T167",
+    "canonical_name": "Client Support"
+  },
+  "stakeholder responsibilities": {
+    "canonical_id": "T168",
+    "canonical_name": "Stakeholder Responsibilities"
+  },
+  "integration and automation": {
+    "canonical_id": "T169",
+    "canonical_name": "System Integration and Automation"
+  },
+  "liability and jurisdiction": {
+    "canonical_id": "T170",
+    "canonical_name": "Liability and Jurisdiction"
+  },
+  "submission requirements": {
+    "canonical_id": "T171",
+    "canonical_name": "Submission Requirements"
+  },
+  "design and implementation": {
+    "canonical_id": "T172",
+    "canonical_name": "Design and Implementation"
+  },
+  "design services": {
+    "canonical_id": "T173",
+    "canonical_name": "Design Services"
+  },
+  "legal acknowledgments": {
+    "canonical_id": "T174",
+    "canonical_name": "Legal Acknowledgments"
+  },
+  "deployment plan": {
+    "canonical_id": "T175",
+    "canonical_name": "Deployment Plan"
+  },
+  "feedback and revisions": {
+    "canonical_id": "T176",
+    "canonical_name": "Revisions and Feedback"
+  },
+  "intellectual property and confidentiality": {
+    "canonical_id": "T177",
+    "canonical_name": "Intellectual Property and Confidentiality"
+  },
+  "subcontracting and approvals": {
+    "canonical_id": "T178",
+    "canonical_name": "Subcontracting Approvals"
+  },
+  "quality and review": {
+    "canonical_id": "T179",
+    "canonical_name": "Quality Assurance"
+  },
+  "source code and build materials": {
+    "canonical_id": "T180",
+    "canonical_name": "Source Code Deliverables"
+  },
+  "reporting schedule": {
+    "canonical_id": "T181",
+    "canonical_name": "Reporting Schedule"
+  },
+  "technical provisions": {
+    "canonical_id": "T182",
+    "canonical_name": "Technical Requirements"
+  },
+  "deliverables listing": {
+    "canonical_id": "T183",
+    "canonical_name": "Deliverables"
+  },
+  "third-party evaluation": {
+    "canonical_id": "T184",
+    "canonical_name": "Third-Party Evaluation"
+  },
+  "client responsibilities": {
+    "canonical_id": "T185",
+    "canonical_name": "Client Responsibilities"
+  },
+  "progress and review": {
+    "canonical_id": "T186",
+    "canonical_name": "Progress Review"
+  },
+  "responsibilities and approvals": {
+    "canonical_id": "T187",
+    "canonical_name": "Roles and Responsibilities"
+  },
+  "integration and optimization": {
+    "canonical_id": "T188",
+    "canonical_name": "System Integration and Optimization"
+  },
+  "acceptance and support": {
+    "canonical_id": "T189",
+    "canonical_name": "Acceptance and Support"
+  },
+  "testing and approval": {
+    "canonical_id": "T190",
+    "canonical_name": "Testing and Acceptance"
+  },
+  "client collaboration": {
+    "canonical_id": "T191",
+    "canonical_name": "Client Collaboration"
+  },
+  "collaboration terms": {
+    "canonical_id": "T192",
+    "canonical_name": "Collaboration Terms"
+  },
+  "infrastructure services": {
+    "canonical_id": "T193",
+    "canonical_name": "Infrastructure Services"
+  },
+  "implementation plan": {
+    "canonical_id": "T194",
+    "canonical_name": "Implementation Plan"
+  },
+  "work methodology": {
+    "canonical_id": "T195",
+    "canonical_name": "Work Methodology"
+  },
+  "development requirements": {
+    "canonical_id": "T196",
+    "canonical_name": "Development Requirements"
+  },
+  "reporting and audits": {
+    "canonical_id": "T197",
+    "canonical_name": "Reporting and Auditing"
+  },
+  "technical approach": {
+    "canonical_id": "T198",
+    "canonical_name": "Technical Approach"
+  },
+  "technical development": {
+    "canonical_id": "T199",
+    "canonical_name": "Technical Development"
+  },
+  "service deliverables": {
+    "canonical_id": "T200",
+    "canonical_name": "Deliverables"
+  },
+  "ongoing support": {
+    "canonical_id": "T201",
+    "canonical_name": "Ongoing Support"
+  },
+  "service levels": {
+    "canonical_id": "T202",
+    "canonical_name": "Service Levels"
+  },
+  "project deliverables": {
+    "canonical_id": "T203",
+    "canonical_name": "Project Deliverables"
+  },
+  "intellectual property and liability": {
+    "canonical_id": "T204",
+    "canonical_name": "Intellectual Property and Liability"
+  },
+  "work deliverables": {
+    "canonical_id": "T205",
+    "canonical_name": "Deliverables"
+  },
+  "integration and dependencies": {
+    "canonical_id": "T206",
+    "canonical_name": "Integration and Dependencies"
+  },
+  "project scope definition": {
+    "canonical_id": "T207",
+    "canonical_name": "Project Scope"
+  },
+  "technical deliverables": {
+    "canonical_id": "T208",
+    "canonical_name": "Technical Deliverables"
+  },
+  "software and code delivery": {
+    "canonical_id": "T209",
+    "canonical_name": "Software Delivery"
+  },
+  "client feedback process": {
+    "canonical_id": "T210",
+    "canonical_name": "Client Feedback"
+  },
+  "final acceptance": {
+    "canonical_id": "T211",
+    "canonical_name": "Final Acceptance"
+  },
+  "workflow implementation": {
+    "canonical_id": "T212",
+    "canonical_name": "Workflow Implementation"
+  },
+  "technical handover": {
+    "canonical_id": "T213",
+    "canonical_name": "Technical Handover"
+  },
+  "training materials": {
+    "canonical_id": "T214",
+    "canonical_name": "Training Materials"
+  },
+  "operational support": {
+    "canonical_id": "T215",
+    "canonical_name": "Operational Support"
+  },
+  "documentation and revisions": {
+    "canonical_id": "T216",
+    "canonical_name": "Documentation Management"
+  },
+  "signatures and attachments": {
+    "canonical_id": "T217",
+    "canonical_name": "Signatures and Attachments"
+  },
+  "system integration": {
+    "canonical_id": "T218",
+    "canonical_name": "System Integration"
+  },
+  "work objectives": {
+    "canonical_id": "T219",
+    "canonical_name": "Project Objectives"
+  },
+  "reporting and support": {
+    "canonical_id": "T220",
+    "canonical_name": "Reporting and Support"
+  },
+  "user documentation": {
+    "canonical_id": "T221",
+    "canonical_name": "User Documentation"
+  },
+  "integration coordination": {
+    "canonical_id": "T222",
+    "canonical_name": "Integration Coordination"
+  },
+  "legal approvals": {
+    "canonical_id": "T223",
+    "canonical_name": "Legal Approvals"
+  },
+  "deliverables and submissions": {
+    "canonical_id": "T224",
+    "canonical_name": "Deliverables and Submissions"
+  },
+  "development timeline": {
+    "canonical_id": "T225",
+    "canonical_name": "Project Timeline"
+  },
+  "resource provisioning": {
+    "canonical_id": "T226",
+    "canonical_name": "Resource Provisioning"
+  }
+}

@@ -1,0 +1,2431 @@
+{
+  "main_topics": {
+    "M01": {
+      "id": "M01",
+      "name": "Contractual Terms and Conditions",
+      "description": "This category encompasses the essential legal, financial, compliance, and procedural elements that define the obligations, rights, and responsibilities of parties within a Statement of Work agreement.",
+      "key_areas": [
+        "Agreement Details and Parties",
+        "Acceptance and Approval Processes",
+        "Financial and Payment Terms",
+        "Legal and Compliance Provisions",
+        "Liability and Dispute Resolution"
+      ],
+      "total_occurrences": 2475,
+      "subtopics": [
+        {
+          "id": "T001",
+          "name": "Agreement Dates",
+          "description": "Specifies the start, end, and key milestone dates relevant to the agreement's validity and execution.",
+          "occurrences": 1014,
+          "variants": [
+            "agreement dates",
+            "agreement timeline",
+            "agreement duration"
+          ]
+        },
+        {
+          "id": "T007",
+          "name": "Signatory Information",
+          "description": "Details about the individuals authorized to sign the Statement of Work on behalf of each party.",
+          "occurrences": 265,
+          "variants": [
+            "signatory information",
+            "signatory details",
+            "signatories and contact information",
+            "signatories",
+            "legal signatories"
+          ]
+        },
+        {
+          "id": "T012",
+          "name": "Acceptance Criteria",
+          "description": "Defines the specific conditions and requirements that must be met for deliverables to be formally accepted by the client.",
+          "occurrences": 180,
+          "variants": [
+            "acceptance criteria",
+            "acceptance conditions"
+          ]
+        },
+        {
+          "id": "T014",
+          "name": "Compliance and Audit",
+          "description": "Covers requirements, processes, and reporting related to regulatory compliance and auditing obligations within the scope of work.",
+          "occurrences": 153,
+          "variants": [
+            "compliance and audit",
+            "compliance and audits",
+            "compliance reporting",
+            "compliance and reporting",
+            "reporting and compliance"
+          ]
+        },
+        {
+          "id": "T023",
+          "name": "Compliance Requirements",
+          "description": "Specifies the legal, regulatory, and organizational standards and obligations that must be met within the scope of the project or agreement.",
+          "occurrences": 93,
+          "variants": [
+            "compliance requirements",
+            "compliance obligations",
+            "compliance and standards",
+            "compliance standards",
+            "compliance terms"
+          ]
+        },
+        {
+          "id": "T026",
+          "name": "Parties and Agreement Details",
+          "description": "Identifies the contracting parties and outlines key agreement specifics such as effective dates and terms.",
+          "occurrences": 78,
+          "variants": [
+            "agreement details",
+            "parties and agreement dates",
+            "parties and agreement details",
+            "parties and agreements",
+            "parties and agreement terms"
+          ]
+        },
+        {
+          "id": "T029",
+          "name": "Payment Terms",
+          "description": "Defines the conditions, timelines, and methods for financial transactions between parties.",
+          "occurrences": 67,
+          "variants": [
+            "payment terms",
+            "payment conditions",
+            "payment and financial terms",
+            "legal and payment terms"
+          ]
+        },
+        {
+          "id": "T032",
+          "name": "Signatures and Authorization",
+          "description": "Defines the requirements and procedures for obtaining authorized signatures to validate and execute the Statement of Work.",
+          "occurrences": 54,
+          "variants": [
+            "signatures and authorization",
+            "signatories and authorization",
+            "signatory authorization",
+            "authorization and signatures",
+            "signature and authorization"
+          ]
+        },
+        {
+          "id": "T033",
+          "name": "Termination Conditions",
+          "description": "Specifies the circumstances and requirements under which the agreement may be ended by either party.",
+          "occurrences": 52,
+          "variants": [
+            "termination conditions"
+          ]
+        },
+        {
+          "id": "T035",
+          "name": "Limitation of Liability",
+          "description": "Defines the maximum extent to which each party may be held liable for damages or losses under the agreement.",
+          "occurrences": 48,
+          "variants": [
+            "liability limitations",
+            "liability and limitations",
+            "liability limits"
+          ]
+        },
+        {
+          "id": "T038",
+          "name": "Financial Terms",
+          "description": "Defines the financial conditions, obligations, and payment structures within the Statement of Work.",
+          "occurrences": 34,
+          "variants": [
+            "financial terms",
+            "financial and legal terms"
+          ]
+        },
+        {
+          "id": "T043",
+          "name": "Acceptance and Approval",
+          "description": "Defines the criteria and processes for reviewing, approving, and formally accepting deliverables or work products in the project.",
+          "occurrences": 28,
+          "variants": [
+            "acceptance and approval",
+            "acceptance and review",
+            "acceptance and approval criteria",
+            "acceptance and review processes",
+            "acceptance and approvals"
+          ]
+        },
+        {
+          "id": "T044",
+          "name": "Liability Terms",
+          "description": "Defines the responsibilities, obligations, and financial liabilities of parties involved in the agreement.",
+          "occurrences": 27,
+          "variants": [
+            "liability terms",
+            "liability and payment terms",
+            "liability and financial terms",
+            "liability and costs",
+            "financial and liability terms"
+          ]
+        },
+        {
+          "id": "T046",
+          "name": "Acceptance and Testing",
+          "description": "Defines the processes and criteria for evaluating, verifying, and formally accepting deliverables or services under the contract.",
+          "occurrences": 25,
+          "variants": [
+            "testing and acceptance",
+            "acceptance and validation",
+            "acceptance and testing",
+            "acceptance and verification"
+          ]
+        },
+        {
+          "id": "T047",
+          "name": "Dispute Resolution",
+          "description": "Procedures and mechanisms for resolving disagreements or conflicts arising under the Statement of Work.",
+          "occurrences": 24,
+          "variants": [
+            "dispute resolution"
+          ]
+        },
+        {
+          "id": "T049",
+          "name": "Acceptance and Sign-Off",
+          "description": "Defines the process and requirements for formal approval and completion of deliverables in the Statement of Work.",
+          "occurrences": 24,
+          "variants": [
+            "acceptance and sign-off",
+            "acceptance and signatures"
+          ]
+        },
+        {
+          "id": "T050",
+          "name": "Legal Terms and Conditions",
+          "description": "Defines the legal rights, obligations, and conditions governing the agreement between parties in the Statement of Work.",
+          "occurrences": 24,
+          "variants": [
+            "legal terms"
+          ]
+        },
+        {
+          "id": "T052",
+          "name": "Quality and Compliance",
+          "description": "Covers requirements, standards, and processes to ensure deliverables meet quality benchmarks and regulatory compliance.",
+          "occurrences": 23,
+          "variants": [
+            "compliance and quality",
+            "quality and compliance",
+            "performance and compliance",
+            "compliance and quality assurance",
+            "compliance and performance"
+          ]
+        },
+        {
+          "id": "T054",
+          "name": "Confidentiality Terms",
+          "description": "Defines the obligations and requirements for maintaining the confidentiality of information shared between parties.",
+          "occurrences": 21,
+          "variants": [
+            "confidentiality terms",
+            "legal and confidentiality terms",
+            "confidentiality and compliance",
+            "confidentiality provisions",
+            "confidentiality clauses"
+          ]
+        },
+        {
+          "id": "T055",
+          "name": "Financial Responsibilities",
+          "description": "Defines the parties' obligations regarding costs, payments, and financial liabilities within the scope of the agreement.",
+          "occurrences": 21,
+          "variants": [
+            "financial responsibilities",
+            "responsibilities and liabilities",
+            "financial and cost responsibilities"
+          ]
+        },
+        {
+          "id": "T057",
+          "name": "Approvals and Signatures",
+          "description": "Details the required approvals, signatures, and sign-off procedures for the Statement of Work.",
+          "occurrences": 20,
+          "variants": [
+            "signatures and approvals",
+            "approvals and signatures",
+            "approval and sign-off",
+            "approval and signatures",
+            "signatories and approvals"
+          ]
+        },
+        {
+          "id": "T058",
+          "name": "Subcontracting Terms",
+          "description": "Defines the conditions and requirements for engaging subcontractors under the agreement.",
+          "occurrences": 19,
+          "variants": [
+            "subcontracting terms"
+          ]
+        },
+        {
+          "id": "T059",
+          "name": "Review and Approval",
+          "description": "Procedures and requirements for reviewing and approving deliverables, documents, or project milestones.",
+          "occurrences": 19,
+          "variants": [
+            "review and approval",
+            "approval process",
+            "approval processes",
+            "approval and review processes",
+            "review and approval processes"
+          ]
+        },
+        {
+          "id": "T060",
+          "name": "Termination Terms",
+          "description": "Defines the conditions and procedures under which the agreement may be ended by either party.",
+          "occurrences": 18,
+          "variants": [
+            "termination terms",
+            "termination and legal terms",
+            "liability and termination"
+          ]
+        },
+        {
+          "id": "T067",
+          "name": "Legal and Compliance",
+          "description": "Covers contractual legal obligations, regulatory compliance, and liability considerations within the scope of the project.",
+          "occurrences": 14,
+          "variants": [
+            "liability and compliance",
+            "legal and compliance",
+            "compliance and liability"
+          ]
+        },
+        {
+          "id": "T074",
+          "name": "Compliance and Testing",
+          "description": "Processes and activities to ensure deliverables meet regulatory and contractual requirements through verification and validation.",
+          "occurrences": 11,
+          "variants": [
+            "compliance and testing",
+            "compliance and validation",
+            "testing and compliance",
+            "compliance verification"
+          ]
+        },
+        {
+          "id": "T080",
+          "name": "Legal Jurisdiction",
+          "description": "Specifies the legal authority and geographic location governing the interpretation and enforcement of the contract.",
+          "occurrences": 9,
+          "variants": [
+            "legal and jurisdiction",
+            "legal jurisdiction",
+            "jurisdiction and legal"
+          ]
+        },
+        {
+          "id": "T081",
+          "name": "Vendor Obligations",
+          "description": "Defines the responsibilities and commitments the vendor must fulfill under the agreement.",
+          "occurrences": 9,
+          "variants": [
+            "vendor commitments",
+            "vendor obligations",
+            "vendor obligations and liabilities"
+          ]
+        },
+        {
+          "id": "T088",
+          "name": "Signatures and Contact Details",
+          "description": "Section specifying authorized signatures and associated contact information for the parties involved in the agreement.",
+          "occurrences": 8,
+          "variants": [
+            "signatures",
+            "signatures and contact information",
+            "signatures and addresses"
+          ]
+        },
+        {
+          "id": "T092",
+          "name": "Signature Verification",
+          "description": "Processes and methods for verifying the authenticity and integrity of digital signatures in documents or transactions.",
+          "occurrences": 7,
+          "variants": [
+            "signatures and verification",
+            "signatures and validation"
+          ]
+        },
+        {
+          "id": "T093",
+          "name": "Legal Provisions",
+          "description": "Clauses and requirements outlining the legal obligations and protections within the Statement of Work.",
+          "occurrences": 7,
+          "variants": [
+            "legal provisions"
+          ]
+        },
+        {
+          "id": "T095",
+          "name": "Roles and Responsibilities",
+          "description": "Defines the specific duties, tasks, and expectations assigned to each party involved in the project.",
+          "occurrences": 7,
+          "variants": [
+            "responsibilities",
+            "responsibilities and obligations",
+            "roles and responsibilities"
+          ]
+        },
+        {
+          "id": "T096",
+          "name": "Contractual Terms",
+          "description": "Defines the legally binding provisions, rights, and responsibilities agreed upon by parties in the Statement of Work.",
+          "occurrences": 7,
+          "variants": [
+            "contractual terms",
+            "contractual obligations",
+            "contractual clauses",
+            "contractual agreements"
+          ]
+        },
+        {
+          "id": "T110",
+          "name": "Liability and Confidentiality",
+          "description": "Covers the responsibilities, legal liabilities, and confidentiality obligations of parties involved in the agreement.",
+          "occurrences": 5,
+          "variants": [
+            "liability and confidentiality",
+            "confidentiality and liability"
+          ]
+        },
+        {
+          "id": "T111",
+          "name": "Subcontracting Provisions",
+          "description": "Terms and conditions governing the contractor's ability to engage and manage subcontractors under the agreement.",
+          "occurrences": 5,
+          "variants": [
+            "subcontracting permissions",
+            "subcontracting rights"
+          ]
+        },
+        {
+          "id": "T117",
+          "name": "Governing Law and Dispute Resolution",
+          "description": "Specifies the legal jurisdiction and procedures for resolving disputes arising from the agreement.",
+          "occurrences": 5,
+          "variants": [
+            "jurisdiction and dispute resolution"
+          ]
+        },
+        {
+          "id": "T121",
+          "name": "Compliance and Approval",
+          "description": "Covers processes ensuring adherence to standards, obtaining necessary approvals, and finalizing documentation.",
+          "occurrences": 4,
+          "variants": [
+            "compliance and review",
+            "compliance and finalization",
+            "compliance and approvals"
+          ]
+        },
+        {
+          "id": "T128",
+          "name": "Acceptance and Handover",
+          "description": "Defines the criteria, process, and responsibilities for formally accepting deliverables and transferring ownership from the supplier to the client.",
+          "occurrences": 4,
+          "variants": [
+            "acceptance and handover"
+          ]
+        },
+        {
+          "id": "T132",
+          "name": "Legal Consent",
+          "description": "Covers the requirements and provisions related to obtaining and documenting legal consent within the scope of work.",
+          "occurrences": 3,
+          "variants": [
+            "legal consent",
+            "legal and consent clauses",
+            "legal consents"
+          ]
+        },
+        {
+          "id": "T133",
+          "name": "Acceptance and Revisions",
+          "description": "Defines the process and criteria for client acceptance of deliverables and procedures for requesting and implementing revisions.",
+          "occurrences": 3,
+          "variants": [
+            "acceptance and revisions"
+          ]
+        },
+        {
+          "id": "T137",
+          "name": "Acceptance Criteria",
+          "description": "Defines the standards and documentation required for deliverables to be formally accepted by the client.",
+          "occurrences": 3,
+          "variants": [
+            "acceptance and documentation"
+          ]
+        },
+        {
+          "id": "T139",
+          "name": "Client Acceptance",
+          "description": "Defines the process and criteria by which the client reviews and formally accepts deliverables or project outcomes.",
+          "occurrences": 3,
+          "variants": [
+            "client acceptance",
+            "client review and acceptance"
+          ]
+        },
+        {
+          "id": "T142",
+          "name": "Acceptance and Delivery",
+          "description": "Defines the criteria, process, and terms for the delivery and formal acceptance of deliverables in the Statement of Work.",
+          "occurrences": 2,
+          "variants": [
+            "acceptance and delivery terms",
+            "acceptance and delivery"
+          ]
+        },
+        {
+          "id": "T148",
+          "name": "Liability and Dispute Resolution",
+          "description": "Covers terms related to legal liability, dispute handling, and resolution processes between parties.",
+          "occurrences": 2,
+          "variants": [
+            "liability and dispute resolution",
+            "liability and dispute terms"
+          ]
+        },
+        {
+          "id": "T150",
+          "name": "Stakeholder Approvals",
+          "description": "Defines the process and requirements for obtaining necessary approvals from project stakeholders.",
+          "occurrences": 2,
+          "variants": [
+            "stakeholder approvals"
+          ]
+        },
+        {
+          "id": "T151",
+          "name": "Security and Compliance",
+          "description": "Covers policies, procedures, and assurances related to maintaining security standards and regulatory compliance.",
+          "occurrences": 2,
+          "variants": [
+            "security and compliance",
+            "compliance assurances"
+          ]
+        },
+        {
+          "id": "T156",
+          "name": "Stakeholder Communication",
+          "description": "Processes and methods for sharing information and updates with project stakeholders.",
+          "occurrences": 2,
+          "variants": [
+            "stakeholder communication"
+          ]
+        },
+        {
+          "id": "T158",
+          "name": "Acceptance and Compliance",
+          "description": "Defines the criteria and processes for ensuring deliverables meet contractual requirements and standards.",
+          "occurrences": 2,
+          "variants": [
+            "acceptance and compliance"
+          ]
+        },
+        {
+          "id": "T159",
+          "name": "Contractual Approvals",
+          "description": "Covers the processes and requirements for obtaining necessary approvals and authorizations within the contract.",
+          "occurrences": 2,
+          "variants": [
+            "contractual authorizations",
+            "contractual terms and approvals"
+          ]
+        },
+        {
+          "id": "T160",
+          "name": "Signatures and Parties",
+          "description": "Section identifying the contracting parties and providing for their authorized signatures to execute the agreement.",
+          "occurrences": 2,
+          "variants": [
+            "parties and signatures"
+          ]
+        },
+        {
+          "id": "T167",
+          "name": "Client Support",
+          "description": "Services and assistance provided to clients to address their needs and ensure satisfaction throughout the engagement.",
+          "occurrences": 1,
+          "variants": [
+            "client support"
+          ]
+        },
+        {
+          "id": "T168",
+          "name": "Stakeholder Responsibilities",
+          "description": "Defines the roles, duties, and obligations of all stakeholders involved in the project.",
+          "occurrences": 1,
+          "variants": [
+            "stakeholder responsibilities"
+          ]
+        },
+        {
+          "id": "T170",
+          "name": "Liability and Jurisdiction",
+          "description": "Defines the allocation of legal responsibility and the governing legal authority for disputes arising from the agreement.",
+          "occurrences": 1,
+          "variants": [
+            "liability and jurisdiction"
+          ]
+        },
+        {
+          "id": "T171",
+          "name": "Submission Requirements",
+          "description": "Specifies the necessary materials, format, and procedures for submitting deliverables or proposals.",
+          "occurrences": 1,
+          "variants": [
+            "submission requirements"
+          ]
+        },
+        {
+          "id": "T174",
+          "name": "Legal Acknowledgments",
+          "description": "Statements confirming understanding and acceptance of legal obligations within the SOW.",
+          "occurrences": 1,
+          "variants": [
+            "legal acknowledgments"
+          ]
+        },
+        {
+          "id": "T178",
+          "name": "Subcontracting Approvals",
+          "description": "Policies and procedures governing the use of subcontractors and the required approvals in a project.",
+          "occurrences": 1,
+          "variants": [
+            "subcontracting and approvals"
+          ]
+        },
+        {
+          "id": "T185",
+          "name": "Client Responsibilities",
+          "description": "Defines the obligations and tasks the client must fulfill to support successful project delivery.",
+          "occurrences": 1,
+          "variants": [
+            "client responsibilities"
+          ]
+        },
+        {
+          "id": "T187",
+          "name": "Roles and Responsibilities",
+          "description": "Defines the duties, obligations, and approval authorities of all parties involved in the project.",
+          "occurrences": 1,
+          "variants": [
+            "responsibilities and approvals"
+          ]
+        },
+        {
+          "id": "T190",
+          "name": "Testing and Acceptance",
+          "description": "Defines the procedures and criteria for evaluating and formally approving deliverables or project outcomes.",
+          "occurrences": 1,
+          "variants": [
+            "testing and approval"
+          ]
+        },
+        {
+          "id": "T191",
+          "name": "Client Collaboration",
+          "description": "Processes and practices for effective cooperation and communication between the service provider and the client throughout the project.",
+          "occurrences": 1,
+          "variants": [
+            "client collaboration"
+          ]
+        },
+        {
+          "id": "T210",
+          "name": "Client Feedback",
+          "description": "Procedures and guidelines for collecting, managing, and responding to feedback from the client during the project.",
+          "occurrences": 1,
+          "variants": [
+            "client feedback process"
+          ]
+        },
+        {
+          "id": "T211",
+          "name": "Final Acceptance",
+          "description": "Defines the criteria and process for the client’s formal approval of deliverables at project completion.",
+          "occurrences": 1,
+          "variants": [
+            "final acceptance"
+          ]
+        },
+        {
+          "id": "T217",
+          "name": "Signatures and Attachments",
+          "description": "Details the requirements for authorized signatures and the inclusion of supporting attachments in the Statement of Work.",
+          "occurrences": 1,
+          "variants": [
+            "signatures and attachments"
+          ]
+        },
+        {
+          "id": "T223",
+          "name": "Legal Approvals",
+          "description": "The process of obtaining necessary legal authorizations and clearances for project activities.",
+          "occurrences": 1,
+          "variants": [
+            "legal approvals"
+          ]
+        }
+      ]
+    },
+    "M02": {
+      "id": "M02",
+      "name": "Performance and Quality Management",
+      "description": "This category encompasses the processes, standards, and requirements for ensuring project deliverables meet defined quality, performance, and reporting expectations within the Statement of Work.",
+      "key_areas": [
+        "Quality Assurance and Validation",
+        "Performance Measurement and Monitoring",
+        "Reporting and Communication Requirements",
+        "Technical and Development Processes"
+      ],
+      "total_occurrences": 1554,
+      "subtopics": [
+        {
+          "id": "T009",
+          "name": "Quality Assurance",
+          "description": "Processes and activities designed to ensure that deliverables meet defined quality standards and requirements.",
+          "occurrences": 242,
+          "variants": [
+            "quality assurance",
+            "testing and quality assurance",
+            "testing and quality",
+            "performance and quality assurance"
+          ]
+        },
+        {
+          "id": "T010",
+          "name": "Testing and Validation",
+          "description": "Processes and activities to ensure that deliverables meet specified requirements and function as intended.",
+          "occurrences": 207,
+          "variants": [
+            "testing and validation",
+            "validation and testing"
+          ]
+        },
+        {
+          "id": "T011",
+          "name": "Reporting Requirements",
+          "description": "Defines the specific reports, formats, and timelines required for project status and deliverable tracking.",
+          "occurrences": 205,
+          "variants": [
+            "reporting requirements",
+            "reporting obligations"
+          ]
+        },
+        {
+          "id": "T015",
+          "name": "Performance Metrics",
+          "description": "Defines the quantitative and qualitative measures used to assess the contractor's performance against project requirements.",
+          "occurrences": 145,
+          "variants": [
+            "performance criteria",
+            "performance metrics",
+            "performance evaluation",
+            "performance and quality metrics"
+          ]
+        },
+        {
+          "id": "T016",
+          "name": "Performance Monitoring",
+          "description": "Processes and activities for tracking, measuring, and evaluating the effectiveness and efficiency of project or service performance.",
+          "occurrences": 137,
+          "variants": [
+            "performance monitoring",
+            "performance and monitoring"
+          ]
+        },
+        {
+          "id": "T017",
+          "name": "Progress Reporting",
+          "description": "Covers the processes and requirements for providing updates on project status and deliverables.",
+          "occurrences": 129,
+          "variants": [
+            "progress reporting",
+            "reporting and progress updates",
+            "progress and reporting"
+          ]
+        },
+        {
+          "id": "T018",
+          "name": "Reporting and Communication",
+          "description": "Covers the processes and requirements for project status updates, documentation, and stakeholder communications.",
+          "occurrences": 124,
+          "variants": [
+            "reporting and communication",
+            "documentation and reporting",
+            "reporting and documentation",
+            "communication and reporting"
+          ]
+        },
+        {
+          "id": "T024",
+          "name": "Performance Requirements",
+          "description": "Defines the expected operational standards and criteria that the deliverables or services must meet.",
+          "occurrences": 90,
+          "variants": [
+            "performance requirements",
+            "performance and support"
+          ]
+        },
+        {
+          "id": "T030",
+          "name": "Development Activities",
+          "description": "Tasks and processes involved in the creation, enhancement, or modification of products, systems, or solutions.",
+          "occurrences": 59,
+          "variants": [
+            "development activities",
+            "design and development activities"
+          ]
+        },
+        {
+          "id": "T042",
+          "name": "Technical Requirements",
+          "description": "Defines the specific technical criteria, standards, and functionalities that the project deliverables must meet.",
+          "occurrences": 29,
+          "variants": [
+            "technical requirements",
+            "technical specifications",
+            "technical requirements overview"
+          ]
+        },
+        {
+          "id": "T045",
+          "name": "Performance and Quality Standards",
+          "description": "Defines the criteria and benchmarks for acceptable performance and quality of deliverables or services.",
+          "occurrences": 25,
+          "variants": [
+            "performance standards",
+            "quality standards",
+            "quality and standards",
+            "performance and quality standards",
+            "quality and performance standards"
+          ]
+        },
+        {
+          "id": "T048",
+          "name": "Reporting and Monitoring",
+          "description": "Covers the processes and requirements for tracking project progress and providing regular updates to stakeholders.",
+          "occurrences": 24,
+          "variants": [
+            "reporting and monitoring",
+            "reporting and updates",
+            "monitoring and reporting"
+          ]
+        },
+        {
+          "id": "T070",
+          "name": "Implementation Approach",
+          "description": "Describes the overall strategy, activities, and processes for implementing the project or solution.",
+          "occurrences": 12,
+          "variants": [
+            "implementation activities",
+            "implementation processes",
+            "implementation approach"
+          ]
+        },
+        {
+          "id": "T072",
+          "name": "Performance Reporting",
+          "description": "Covers the processes and requirements for tracking, measuring, and communicating project or service performance metrics.",
+          "occurrences": 12,
+          "variants": [
+            "performance reporting",
+            "performance and reporting",
+            "reporting and metrics"
+          ]
+        },
+        {
+          "id": "T076",
+          "name": "Development Process",
+          "description": "Describes the structured approach, methodology, and steps used to develop the project deliverables.",
+          "occurrences": 11,
+          "variants": [
+            "development process",
+            "development methodology",
+            "development processes",
+            "development approach"
+          ]
+        },
+        {
+          "id": "T079",
+          "name": "Scope of Work",
+          "description": "Defines the specific tasks, deliverables, and boundaries of the work to be performed under the contract.",
+          "occurrences": 10,
+          "variants": [
+            "development scope"
+          ]
+        },
+        {
+          "id": "T083",
+          "name": "Project Reporting",
+          "description": "Covers the processes, formats, and requirements for reporting project status, progress, and outcomes to stakeholders.",
+          "occurrences": 9,
+          "variants": [
+            "project reporting",
+            "project management and reporting",
+            "project management reporting"
+          ]
+        },
+        {
+          "id": "T087",
+          "name": "Performance Objectives",
+          "description": "Defines the specific goals and measurable outcomes that the project or service must achieve.",
+          "occurrences": 8,
+          "variants": [
+            "performance objectives"
+          ]
+        },
+        {
+          "id": "T102",
+          "name": "Design and Development",
+          "description": "Covers the planning, creation, and implementation of project deliverables, including both design and development phases.",
+          "occurrences": 6,
+          "variants": [
+            "design and development"
+          ]
+        },
+        {
+          "id": "T104",
+          "name": "Technical Implementation",
+          "description": "Details the process and steps for deploying and configuring technical solutions as outlined in the project scope.",
+          "occurrences": 6,
+          "variants": [
+            "technical implementation"
+          ]
+        },
+        {
+          "id": "T105",
+          "name": "Performance Obligations",
+          "description": "Defines the specific tasks, deliverables, and standards the service provider is required to fulfill under the agreement.",
+          "occurrences": 6,
+          "variants": [
+            "performance obligations",
+            "performance commitments"
+          ]
+        },
+        {
+          "id": "T107",
+          "name": "Design and Testing",
+          "description": "Covers the processes of designing solutions and verifying their functionality through systematic testing.",
+          "occurrences": 6,
+          "variants": [
+            "design and testing",
+            "testing and evaluation"
+          ]
+        },
+        {
+          "id": "T108",
+          "name": "Solution Development",
+          "description": "Covers the design, creation, and deployment of solutions or systems as specified in the SOW.",
+          "occurrences": 5,
+          "variants": [
+            "development and implementation"
+          ]
+        },
+        {
+          "id": "T120",
+          "name": "Technical Standards",
+          "description": "Defines the technical requirements, protocols, and specifications that must be adhered to during project execution.",
+          "occurrences": 4,
+          "variants": [
+            "technical standards"
+          ]
+        },
+        {
+          "id": "T122",
+          "name": "Implementation Details",
+          "description": "Specific information outlining how the project will be carried out, including methods, tools, and processes.",
+          "occurrences": 4,
+          "variants": [
+            "implementation details"
+          ]
+        },
+        {
+          "id": "T124",
+          "name": "Reporting and Approvals",
+          "description": "Covers the processes for project reporting, status updates, and obtaining necessary approvals or reviews.",
+          "occurrences": 4,
+          "variants": [
+            "reporting and approvals",
+            "reporting and review"
+          ]
+        },
+        {
+          "id": "T135",
+          "name": "Performance Optimization",
+          "description": "Processes and techniques aimed at improving the efficiency and speed of systems or solutions.",
+          "occurrences": 3,
+          "variants": [
+            "performance and optimization"
+          ]
+        },
+        {
+          "id": "T140",
+          "name": "Implementation Timeline",
+          "description": "Defines the schedule and key milestones for executing the project implementation.",
+          "occurrences": 3,
+          "variants": [
+            "implementation timeline",
+            "implementation schedule"
+          ]
+        },
+        {
+          "id": "T144",
+          "name": "User Experience",
+          "description": "The process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction with a product or service.",
+          "occurrences": 2,
+          "variants": [
+            "user experience design",
+            "user experience"
+          ]
+        },
+        {
+          "id": "T145",
+          "name": "Performance and Maintenance",
+          "description": "Covers requirements and standards for system performance and ongoing maintenance activities.",
+          "occurrences": 2,
+          "variants": [
+            "performance and maintenance"
+          ]
+        },
+        {
+          "id": "T147",
+          "name": "Technical Commitments",
+          "description": "Defines the specific technical obligations and deliverables agreed upon by the parties in the SOW.",
+          "occurrences": 2,
+          "variants": [
+            "technical commitments"
+          ]
+        },
+        {
+          "id": "T152",
+          "name": "Review and Feedback",
+          "description": "Processes and procedures for evaluating deliverables and providing feedback during the project lifecycle.",
+          "occurrences": 2,
+          "variants": [
+            "review and feedback"
+          ]
+        },
+        {
+          "id": "T153",
+          "name": "Performance and Testing",
+          "description": "Covers the evaluation of system performance and the processes for testing deliverables to ensure requirements are met.",
+          "occurrences": 2,
+          "variants": [
+            "performance and testing"
+          ]
+        },
+        {
+          "id": "T154",
+          "name": "Project Reporting",
+          "description": "Defines the requirements and processes for providing updates and reports on project progress and status.",
+          "occurrences": 2,
+          "variants": [
+            "reporting"
+          ]
+        },
+        {
+          "id": "T163",
+          "name": "Progress Monitoring",
+          "description": "The process of tracking and evaluating the advancement of project activities against planned objectives and timelines.",
+          "occurrences": 2,
+          "variants": [
+            "progress monitoring",
+            "project progress tracking"
+          ]
+        },
+        {
+          "id": "T165",
+          "name": "Evaluation Criteria",
+          "description": "Defines the standards and methods used to assess proposals or project deliverables.",
+          "occurrences": 1,
+          "variants": [
+            "evaluation criteria"
+          ]
+        },
+        {
+          "id": "T172",
+          "name": "Design and Implementation",
+          "description": "Covers the planning, creation, and deployment of solutions or systems as specified in the project scope.",
+          "occurrences": 1,
+          "variants": [
+            "design and implementation"
+          ]
+        },
+        {
+          "id": "T176",
+          "name": "Revisions and Feedback",
+          "description": "Defines the process and expectations for providing feedback and making revisions to deliverables.",
+          "occurrences": 1,
+          "variants": [
+            "feedback and revisions"
+          ]
+        },
+        {
+          "id": "T179",
+          "name": "Quality Assurance",
+          "description": "Processes and standards to ensure deliverables meet defined quality requirements and are subject to review.",
+          "occurrences": 1,
+          "variants": [
+            "quality and review"
+          ]
+        },
+        {
+          "id": "T181",
+          "name": "Reporting Schedule",
+          "description": "Specifies the frequency and timing for submitting required reports.",
+          "occurrences": 1,
+          "variants": [
+            "reporting schedule"
+          ]
+        },
+        {
+          "id": "T182",
+          "name": "Technical Requirements",
+          "description": "Defines the specific technical standards, criteria, and specifications that must be met for project deliverables.",
+          "occurrences": 1,
+          "variants": [
+            "technical provisions"
+          ]
+        },
+        {
+          "id": "T184",
+          "name": "Third-Party Evaluation",
+          "description": "Assessment of project performance or deliverables conducted by an independent external entity.",
+          "occurrences": 1,
+          "variants": [
+            "third-party evaluation"
+          ]
+        },
+        {
+          "id": "T186",
+          "name": "Progress Review",
+          "description": "Covers the processes and criteria for monitoring, evaluating, and reporting on project progress.",
+          "occurrences": 1,
+          "variants": [
+            "progress and review"
+          ]
+        },
+        {
+          "id": "T194",
+          "name": "Implementation Plan",
+          "description": "A detailed outline of the steps, timeline, and resources required to execute the project successfully.",
+          "occurrences": 1,
+          "variants": [
+            "implementation plan"
+          ]
+        },
+        {
+          "id": "T196",
+          "name": "Development Requirements",
+          "description": "Specifies the technical and functional criteria that must be met during the development phase of the project.",
+          "occurrences": 1,
+          "variants": [
+            "development requirements"
+          ]
+        },
+        {
+          "id": "T197",
+          "name": "Reporting and Auditing",
+          "description": "Covers requirements and processes for project reporting and the conduct of audits to ensure compliance and performance.",
+          "occurrences": 1,
+          "variants": [
+            "reporting and audits"
+          ]
+        },
+        {
+          "id": "T198",
+          "name": "Technical Approach",
+          "description": "Describes the methods, processes, and strategies to be used in fulfilling the project requirements.",
+          "occurrences": 1,
+          "variants": [
+            "technical approach"
+          ]
+        },
+        {
+          "id": "T199",
+          "name": "Technical Development",
+          "description": "Covers the design, creation, and implementation of technical solutions or systems within a project.",
+          "occurrences": 1,
+          "variants": [
+            "technical development"
+          ]
+        },
+        {
+          "id": "T209",
+          "name": "Software Delivery",
+          "description": "The process and requirements for delivering software and related code to the client or stakeholders.",
+          "occurrences": 1,
+          "variants": [
+            "software and code delivery"
+          ]
+        },
+        {
+          "id": "T220",
+          "name": "Reporting and Support",
+          "description": "Covers the processes and resources for providing project status updates and ongoing assistance to stakeholders.",
+          "occurrences": 1,
+          "variants": [
+            "reporting and support"
+          ]
+        }
+      ]
+    },
+    "M03": {
+      "id": "M03",
+      "name": "Deliverables and Execution",
+      "description": "This category encompasses all aspects related to defining, scheduling, delivering, deploying, and supporting project deliverables throughout the execution of the Statement of Work.",
+      "key_areas": [
+        "Deliverable Specifications and Requirements",
+        "Project Scheduling and Milestones",
+        "Deployment and Integration",
+        "Maintenance and Support",
+        "Post-Delivery Obligations"
+      ],
+      "total_occurrences": 2031,
+      "subtopics": [
+        {
+          "id": "T002",
+          "name": "Deliverable Specifications",
+          "description": "Defines the detailed requirements, characteristics, and acceptance criteria for all deliverables in the Statement of Work.",
+          "occurrences": 736,
+          "variants": [
+            "deliverables description",
+            "deliverable specifications",
+            "deliverables specification",
+            "deliverable descriptions",
+            "deliverable requirements"
+          ]
+        },
+        {
+          "id": "T005",
+          "name": "Project Deliverables",
+          "description": "Defines the specific outputs, products, or results to be provided as part of the project.",
+          "occurrences": 425,
+          "variants": [
+            "deliverables",
+            "deliverables definition"
+          ]
+        },
+        {
+          "id": "T006",
+          "name": "Maintenance and Support",
+          "description": "Covers the obligations, terms, and services related to ongoing maintenance and support provided under the agreement.",
+          "occurrences": 284,
+          "variants": [
+            "maintenance and support",
+            "maintenance obligations",
+            "support and maintenance",
+            "maintenance terms",
+            "maintenance services"
+          ]
+        },
+        {
+          "id": "T019",
+          "name": "Project Milestones and Timeline",
+          "description": "Defines key project milestones, deadlines, and the overall schedule for deliverables and activities.",
+          "occurrences": 117,
+          "variants": [
+            "timelines and milestones",
+            "project milestones",
+            "timeline and milestones",
+            "schedule and milestones",
+            "milestones and deadlines"
+          ]
+        },
+        {
+          "id": "T020",
+          "name": "Project Timeline",
+          "description": "Defines the schedule, key milestones, and deadlines for project deliverables.",
+          "occurrences": 113,
+          "variants": [
+            "project timeline",
+            "project timelines"
+          ]
+        },
+        {
+          "id": "T028",
+          "name": "Deployment and Configuration",
+          "description": "Covers all aspects of deploying, configuring, and setting up the solution in the target environment.",
+          "occurrences": 71,
+          "variants": [
+            "deployment and configuration",
+            "deployment and support",
+            "deployment provisions",
+            "deployment requirements",
+            "deployment details"
+          ]
+        },
+        {
+          "id": "T031",
+          "name": "Deployment and Integration",
+          "description": "Covers the processes and requirements for deploying, integrating, and validating the solution within the target environment.",
+          "occurrences": 56,
+          "variants": [
+            "deployment and integration",
+            "integration and deployment",
+            "deployment and implementation",
+            "deployment and acceptance",
+            "acceptance and deployment"
+          ]
+        },
+        {
+          "id": "T036",
+          "name": "Infrastructure Setup",
+          "description": "Covers the planning, provisioning, and configuration of foundational IT infrastructure required for project deployment.",
+          "occurrences": 44,
+          "variants": [
+            "infrastructure setup",
+            "infrastructure and deployment",
+            "infrastructure and integration",
+            "deployment and infrastructure",
+            "infrastructure deployment"
+          ]
+        },
+        {
+          "id": "T039",
+          "name": "Post-Deployment Support",
+          "description": "Services and obligations provided after the deployment of a solution to ensure continued functionality and client satisfaction.",
+          "occurrences": 33,
+          "variants": [
+            "post-deployment support",
+            "post-deployment obligations"
+          ]
+        },
+        {
+          "id": "T063",
+          "name": "Deployment and Testing",
+          "description": "Covers the processes and activities involved in deploying the solution and verifying its functionality through testing.",
+          "occurrences": 16,
+          "variants": [
+            "deployment and testing",
+            "testing and deployment",
+            "deployment and validation"
+          ]
+        },
+        {
+          "id": "T064",
+          "name": "Delivery Schedule",
+          "description": "Specifies the timeline and deadlines for the completion and delivery of project deliverables.",
+          "occurrences": 15,
+          "variants": [
+            "delivery schedule",
+            "deliverables schedule",
+            "delivery timelines"
+          ]
+        },
+        {
+          "id": "T066",
+          "name": "Deliverable Obligations",
+          "description": "Defines the specific requirements, timelines, and responsibilities related to the delivery of contractual deliverables.",
+          "occurrences": 14,
+          "variants": [
+            "deliverable commitments",
+            "deliverable obligations",
+            "delivery obligations"
+          ]
+        },
+        {
+          "id": "T069",
+          "name": "Deployment Schedule",
+          "description": "Specifies the timeline and sequence for deploying project deliverables or systems.",
+          "occurrences": 13,
+          "variants": [
+            "deployment schedule"
+          ]
+        },
+        {
+          "id": "T073",
+          "name": "Project Schedule",
+          "description": "Defines the timeline, milestones, and key deadlines for project deliverables and activities.",
+          "occurrences": 12,
+          "variants": [
+            "project schedule",
+            "timeline and schedule"
+          ]
+        },
+        {
+          "id": "T082",
+          "name": "Project Timeline",
+          "description": "Defines the schedule and key milestones for project deliverables and activities.",
+          "occurrences": 9,
+          "variants": [
+            "timelines",
+            "timeline"
+          ]
+        },
+        {
+          "id": "T097",
+          "name": "Delivery Requirements",
+          "description": "Specifies the conditions, timelines, and standards for delivering goods or services under the contract.",
+          "occurrences": 7,
+          "variants": [
+            "delivery requirements"
+          ]
+        },
+        {
+          "id": "T098",
+          "name": "Post-Deployment Monitoring",
+          "description": "Activities and processes for tracking and assessing system performance and outcomes after deployment.",
+          "occurrences": 6,
+          "variants": [
+            "post-deployment monitoring",
+            "post-deployment evaluation"
+          ]
+        },
+        {
+          "id": "T099",
+          "name": "Service Commitments",
+          "description": "Defines the specific obligations and promises the service provider agrees to fulfill under the contract.",
+          "occurrences": 6,
+          "variants": [
+            "service obligations",
+            "service commitments"
+          ]
+        },
+        {
+          "id": "T103",
+          "name": "Deployment Responsibilities",
+          "description": "Defines the roles, commitments, and activities required for the deployment and transition phase of the project.",
+          "occurrences": 6,
+          "variants": [
+            "deployment and transition",
+            "deployment commitments",
+            "deployment obligations",
+            "deployment activities"
+          ]
+        },
+        {
+          "id": "T109",
+          "name": "Post-Delivery Support",
+          "description": "Covers the services and responsibilities provided by the vendor after the delivery of the product or service.",
+          "occurrences": 5,
+          "variants": [
+            "post-delivery support",
+            "post-delivery obligations"
+          ]
+        },
+        {
+          "id": "T112",
+          "name": "Deliverables and Outputs",
+          "description": "Specifies the tangible products, results, or services to be provided upon completion of the project or engagement.",
+          "occurrences": 5,
+          "variants": [
+            "deliverables and outputs"
+          ]
+        },
+        {
+          "id": "T116",
+          "name": "Deployment and Handover",
+          "description": "Covers the process of deploying the solution and formally transferring responsibility to the client or operations team.",
+          "occurrences": 5,
+          "variants": [
+            "deployment and handover",
+            "deployment and handoff"
+          ]
+        },
+        {
+          "id": "T125",
+          "name": "Milestones and Deliverables",
+          "description": "Defines key project deliverables and the milestones marking their completion throughout the project lifecycle.",
+          "occurrences": 4,
+          "variants": [
+            "deployment milestones",
+            "deliverables and milestones"
+          ]
+        },
+        {
+          "id": "T130",
+          "name": "Support Terms",
+          "description": "Defines the conditions, duration, and scope of support services provided under the agreement.",
+          "occurrences": 3,
+          "variants": [
+            "support terms"
+          ]
+        },
+        {
+          "id": "T134",
+          "name": "Infrastructure and Development",
+          "description": "Covers all aspects related to the planning, implementation, and management of infrastructure and development activities within the project.",
+          "occurrences": 3,
+          "variants": [
+            "infrastructure and development",
+            "infrastructure and development scope"
+          ]
+        },
+        {
+          "id": "T138",
+          "name": "Support Services",
+          "description": "Details the ongoing assistance and resources provided to maintain and operate the delivered solution.",
+          "occurrences": 3,
+          "variants": [
+            "support provisions"
+          ]
+        },
+        {
+          "id": "T161",
+          "name": "Scope of Services",
+          "description": "Defines the specific services, deliverables, and boundaries of work to be provided under the agreement.",
+          "occurrences": 2,
+          "variants": [
+            "service scope"
+          ]
+        },
+        {
+          "id": "T162",
+          "name": "Deployment Documentation",
+          "description": "Covers the creation and management of documents related to the deployment process, including procedures, configurations, and user guides.",
+          "occurrences": 2,
+          "variants": [
+            "deployment and documentation",
+            "deployment documentation"
+          ]
+        },
+        {
+          "id": "T173",
+          "name": "Design Services",
+          "description": "Services related to the planning, creation, and development of design solutions for projects.",
+          "occurrences": 1,
+          "variants": [
+            "design services"
+          ]
+        },
+        {
+          "id": "T175",
+          "name": "Deployment Plan",
+          "description": "A detailed outline of the steps, resources, and timeline required to deploy the solution or deliverables.",
+          "occurrences": 1,
+          "variants": [
+            "deployment plan"
+          ]
+        },
+        {
+          "id": "T183",
+          "name": "Deliverables",
+          "description": "Specifies the products, services, or outcomes to be provided under the Statement of Work.",
+          "occurrences": 1,
+          "variants": [
+            "deliverables listing"
+          ]
+        },
+        {
+          "id": "T189",
+          "name": "Acceptance and Support",
+          "description": "Defines the criteria and processes for client acceptance of deliverables and the ongoing support provided post-acceptance.",
+          "occurrences": 1,
+          "variants": [
+            "acceptance and support"
+          ]
+        },
+        {
+          "id": "T193",
+          "name": "Infrastructure Services",
+          "description": "Services related to the provisioning, management, and maintenance of foundational IT infrastructure components.",
+          "occurrences": 1,
+          "variants": [
+            "infrastructure services"
+          ]
+        },
+        {
+          "id": "T200",
+          "name": "Deliverables",
+          "description": "Specifies the tangible and intangible outputs or results that the service provider is required to deliver under the agreement.",
+          "occurrences": 1,
+          "variants": [
+            "service deliverables"
+          ]
+        },
+        {
+          "id": "T201",
+          "name": "Ongoing Support",
+          "description": "Provision of continuous assistance and maintenance services after project delivery.",
+          "occurrences": 1,
+          "variants": [
+            "ongoing support"
+          ]
+        },
+        {
+          "id": "T202",
+          "name": "Service Levels",
+          "description": "Defines the minimum standards and performance metrics that services must meet as part of the agreement.",
+          "occurrences": 1,
+          "variants": [
+            "service levels"
+          ]
+        },
+        {
+          "id": "T203",
+          "name": "Project Deliverables",
+          "description": "Defines the specific outputs, products, or results to be provided upon completion of the project.",
+          "occurrences": 1,
+          "variants": [
+            "project deliverables"
+          ]
+        },
+        {
+          "id": "T205",
+          "name": "Deliverables",
+          "description": "Specifies the tangible outputs, products, or results to be provided under the Statement of Work.",
+          "occurrences": 1,
+          "variants": [
+            "work deliverables"
+          ]
+        },
+        {
+          "id": "T208",
+          "name": "Technical Deliverables",
+          "description": "Specific technical outputs or products to be provided as part of the project scope.",
+          "occurrences": 1,
+          "variants": [
+            "technical deliverables"
+          ]
+        },
+        {
+          "id": "T213",
+          "name": "Technical Handover",
+          "description": "The process of transferring technical knowledge, documentation, and responsibilities from one team or party to another at project completion or transition.",
+          "occurrences": 1,
+          "variants": [
+            "technical handover"
+          ]
+        },
+        {
+          "id": "T215",
+          "name": "Operational Support",
+          "description": "Services and activities that ensure the ongoing functionality and efficiency of operations within an organization or project.",
+          "occurrences": 1,
+          "variants": [
+            "operational support"
+          ]
+        },
+        {
+          "id": "T224",
+          "name": "Deliverables and Submissions",
+          "description": "Specifies the work products and documentation that must be provided by the contractor, along with submission requirements and timelines.",
+          "occurrences": 1,
+          "variants": [
+            "deliverables and submissions"
+          ]
+        },
+        {
+          "id": "T225",
+          "name": "Project Timeline",
+          "description": "Specifies the schedule and key milestones for the project's development and delivery.",
+          "occurrences": 1,
+          "variants": [
+            "development timeline"
+          ]
+        },
+        {
+          "id": "T226",
+          "name": "Resource Provisioning",
+          "description": "The process of allocating and managing resources required for project execution.",
+          "occurrences": 1,
+          "variants": [
+            "resource provisioning"
+          ]
+        }
+      ]
+    },
+    "M04": {
+      "id": "M04",
+      "name": "System Integration and Migration",
+      "description": "This category encompasses all requirements, activities, and considerations related to integrating systems, migrating data, and ensuring compatibility and coordination between various components or third-party solutions within the project.",
+      "key_areas": [
+        "Integration Requirements and Specifications",
+        "System and Third-Party Integration Activities",
+        "Data Migration Processes",
+        "Testing and Validation of Integration",
+        "Integration Scope and Coordination"
+      ],
+      "total_occurrences": 142,
+      "subtopics": [
+        {
+          "id": "T037",
+          "name": "Integration Requirements",
+          "description": "Defines the technical and functional needs for integrating systems, software, or components within the project.",
+          "occurrences": 40,
+          "variants": [
+            "integration requirements",
+            "integration specifications"
+          ]
+        },
+        {
+          "id": "T056",
+          "name": "Data Migration",
+          "description": "The process of transferring data between storage types, formats, or computer systems as part of a project or system implementation.",
+          "occurrences": 21,
+          "variants": [
+            "data migration",
+            "data migration plan",
+            "data migration and integration",
+            "data migration and scalability",
+            "data migration tasks"
+          ]
+        },
+        {
+          "id": "T061",
+          "name": "Integration Activities",
+          "description": "Covers all tasks, processes, and actions required to combine system components or software modules into a unified whole.",
+          "occurrences": 16,
+          "variants": [
+            "integration activities",
+            "integration tasks",
+            "integration processes"
+          ]
+        },
+        {
+          "id": "T068",
+          "name": "Integration and Testing",
+          "description": "Covers the processes and activities involved in combining system components and verifying their correct operation.",
+          "occurrences": 14,
+          "variants": [
+            "integration and testing",
+            "integration and validation"
+          ]
+        },
+        {
+          "id": "T089",
+          "name": "Integration and Compatibility",
+          "description": "Covers requirements and processes to ensure systems or components work together seamlessly and are compatible with existing or future solutions.",
+          "occurrences": 8,
+          "variants": [
+            "integration and compatibility",
+            "integration and interoperability"
+          ]
+        },
+        {
+          "id": "T094",
+          "name": "System Integration",
+          "description": "Details regarding the integration of systems, components, or software within the project scope.",
+          "occurrences": 7,
+          "variants": [
+            "integration details"
+          ]
+        },
+        {
+          "id": "T114",
+          "name": "Development and Integration",
+          "description": "Covers the processes and activities involved in developing and integrating systems, software, or components within a project.",
+          "occurrences": 5,
+          "variants": [
+            "integration and development",
+            "development and integration"
+          ]
+        },
+        {
+          "id": "T115",
+          "name": "Third-Party Integration",
+          "description": "Integration of external systems, services, or applications provided by third parties into the primary solution.",
+          "occurrences": 5,
+          "variants": [
+            "third-party integration"
+          ]
+        },
+        {
+          "id": "T119",
+          "name": "System Integration and Documentation",
+          "description": "Covers the processes and deliverables related to integrating system components and producing required technical documentation.",
+          "occurrences": 4,
+          "variants": [
+            "integration and documentation"
+          ]
+        },
+        {
+          "id": "T126",
+          "name": "System Integration and Migration",
+          "description": "Processes and activities involved in combining systems and transferring data or functionality from one environment to another.",
+          "occurrences": 4,
+          "variants": [
+            "integration and migration"
+          ]
+        },
+        {
+          "id": "T127",
+          "name": "Integration and Support",
+          "description": "Covers activities related to integrating systems and providing ongoing support or maintenance services.",
+          "occurrences": 4,
+          "variants": [
+            "integration and support",
+            "integration and maintenance"
+          ]
+        },
+        {
+          "id": "T141",
+          "name": "Integration Scope",
+          "description": "Defines the boundaries, systems, and components involved in the integration effort within the project.",
+          "occurrences": 3,
+          "variants": [
+            "integration scope"
+          ]
+        },
+        {
+          "id": "T143",
+          "name": "System Integration Services",
+          "description": "Services focused on connecting and coordinating different systems, applications, or components to function as a unified whole.",
+          "occurrences": 2,
+          "variants": [
+            "integration services"
+          ]
+        },
+        {
+          "id": "T146",
+          "name": "Technical Integration",
+          "description": "Processes and activities involved in combining and coordinating different technical systems or components to function as a unified whole.",
+          "occurrences": 2,
+          "variants": [
+            "technical integration"
+          ]
+        },
+        {
+          "id": "T149",
+          "name": "System Integration and Evaluation",
+          "description": "Processes and activities related to combining system components and assessing their performance against requirements.",
+          "occurrences": 2,
+          "variants": [
+            "integration and evaluation"
+          ]
+        },
+        {
+          "id": "T169",
+          "name": "System Integration and Automation",
+          "description": "Processes and technologies used to connect disparate systems and automate workflows for improved efficiency.",
+          "occurrences": 1,
+          "variants": [
+            "integration and automation"
+          ]
+        },
+        {
+          "id": "T188",
+          "name": "System Integration and Optimization",
+          "description": "Activities focused on combining system components and improving overall performance and efficiency.",
+          "occurrences": 1,
+          "variants": [
+            "integration and optimization"
+          ]
+        },
+        {
+          "id": "T206",
+          "name": "Integration and Dependencies",
+          "description": "Addresses how the project integrates with other systems and outlines dependencies on external or internal components.",
+          "occurrences": 1,
+          "variants": [
+            "integration and dependencies"
+          ]
+        },
+        {
+          "id": "T218",
+          "name": "System Integration",
+          "description": "The process of combining and coordinating different subsystems or components into a unified, functioning system.",
+          "occurrences": 1,
+          "variants": [
+            "system integration"
+          ]
+        },
+        {
+          "id": "T222",
+          "name": "Integration Coordination",
+          "description": "Oversight and management of activities required to ensure seamless integration of systems, processes, or teams within a project.",
+          "occurrences": 1,
+          "variants": [
+            "integration coordination"
+          ]
+        }
+      ]
+    },
+    "M05": {
+      "id": "M05",
+      "name": "Documentation and Knowledge Transfer",
+      "description": "This category covers all requirements, processes, and deliverables related to the creation, management, delivery, and transfer of project documentation, training materials, and knowledge to stakeholders.",
+      "key_areas": [
+        "Documentation Requirements and Standards",
+        "Project Deliverables and Handover",
+        "Training and Knowledge Transfer",
+        "Collaboration and Communication"
+      ],
+      "total_occurrences": 671,
+      "subtopics": [
+        {
+          "id": "T004",
+          "name": "Documentation Requirements",
+          "description": "Specifies the standards, obligations, and provisions for documentation deliverables within the Statement of Work.",
+          "occurrences": 440,
+          "variants": [
+            "documentation requirements",
+            "documentation obligations",
+            "documentation standards",
+            "documentation provisions"
+          ]
+        },
+        {
+          "id": "T025",
+          "name": "Documentation and Training",
+          "description": "Covers the creation, delivery, and management of project documentation and user training materials.",
+          "occurrences": 84,
+          "variants": [
+            "documentation and training",
+            "training and documentation",
+            "documentation and training materials"
+          ]
+        },
+        {
+          "id": "T034",
+          "name": "Project Documentation",
+          "description": "Covers the creation, management, and delivery of all documents related to the project, including technical manuals and user guides.",
+          "occurrences": 50,
+          "variants": [
+            "documentation",
+            "technical documentation",
+            "documentation and support",
+            "documentation and manuals"
+          ]
+        },
+        {
+          "id": "T062",
+          "name": "Compliance Documentation",
+          "description": "Covers the creation, management, and maintenance of documents required to demonstrate adherence to regulatory and contractual requirements.",
+          "occurrences": 16,
+          "variants": [
+            "compliance and documentation",
+            "documentation and compliance",
+            "compliance documentation"
+          ]
+        },
+        {
+          "id": "T065",
+          "name": "Documentation and Knowledge Transfer",
+          "description": "Processes and deliverables related to creating, sharing, and transferring project documentation and expertise to stakeholders.",
+          "occurrences": 15,
+          "variants": [
+            "documentation and knowledge transfer"
+          ]
+        },
+        {
+          "id": "T077",
+          "name": "Training and Support",
+          "description": "Covers the provision of user training and ongoing support services related to the project deliverables.",
+          "occurrences": 11,
+          "variants": [
+            "training and support",
+            "support and training"
+          ]
+        },
+        {
+          "id": "T078",
+          "name": "Documentation Handover",
+          "description": "Processes and requirements for transferring project documentation to the client or relevant stakeholders at project completion.",
+          "occurrences": 10,
+          "variants": [
+            "documentation and handover",
+            "documentation and handoff",
+            "documentation handover"
+          ]
+        },
+        {
+          "id": "T090",
+          "name": "Final Deliverables",
+          "description": "Details the required documentation and materials to be provided upon project completion.",
+          "occurrences": 8,
+          "variants": [
+            "final documentation"
+          ]
+        },
+        {
+          "id": "T091",
+          "name": "Deliverables and Documentation",
+          "description": "Specifies the tangible outputs and required documentation to be provided as part of the project.",
+          "occurrences": 7,
+          "variants": [
+            "deliverables and documentation",
+            "deliverables documentation"
+          ]
+        },
+        {
+          "id": "T100",
+          "name": "Collaboration and Communication",
+          "description": "Defines the processes, tools, and expectations for effective collaboration and communication among project stakeholders.",
+          "occurrences": 6,
+          "variants": [
+            "collaboration process",
+            "collaboration and communication",
+            "collaboration and support"
+          ]
+        },
+        {
+          "id": "T101",
+          "name": "Documentation Delivery",
+          "description": "Defines the requirements and process for providing project documentation to the client.",
+          "occurrences": 6,
+          "variants": [
+            "documentation delivery",
+            "documentation provision"
+          ]
+        },
+        {
+          "id": "T106",
+          "name": "Knowledge Transfer",
+          "description": "Processes and activities for sharing expertise, skills, and information between parties to ensure continuity and capability.",
+          "occurrences": 6,
+          "variants": [
+            "knowledge transfer",
+            "collaboration and knowledge transfer",
+            "training and knowledge transfer"
+          ]
+        },
+        {
+          "id": "T118",
+          "name": "Documentation and Approvals",
+          "description": "Covers the creation, management, and authorization of project-related documents and deliverables.",
+          "occurrences": 5,
+          "variants": [
+            "documentation and approvals",
+            "documentation and approval"
+          ]
+        },
+        {
+          "id": "T129",
+          "name": "Project Documentation",
+          "description": "All documents produced and maintained throughout the lifecycle of a project, detailing requirements, plans, progress, and deliverables.",
+          "occurrences": 3,
+          "variants": [
+            "project documentation"
+          ]
+        },
+        {
+          "id": "T192",
+          "name": "Collaboration Terms",
+          "description": "Defines the terms and conditions governing cooperation and joint activities between parties in the project.",
+          "occurrences": 1,
+          "variants": [
+            "collaboration terms"
+          ]
+        },
+        {
+          "id": "T214",
+          "name": "Training Materials",
+          "description": "Documentation and resources provided to support training activities for end users or project stakeholders.",
+          "occurrences": 1,
+          "variants": [
+            "training materials"
+          ]
+        },
+        {
+          "id": "T216",
+          "name": "Documentation Management",
+          "description": "Processes and standards for creating, maintaining, and revising project documentation.",
+          "occurrences": 1,
+          "variants": [
+            "documentation and revisions"
+          ]
+        },
+        {
+          "id": "T221",
+          "name": "User Documentation",
+          "description": "Documentation provided to end users to facilitate understanding and effective use of the delivered system or product.",
+          "occurrences": 1,
+          "variants": [
+            "user documentation"
+          ]
+        }
+      ]
+    },
+    "M06": {
+      "id": "M06",
+      "name": "Project Scope and Management",
+      "description": "This category encompasses the definition, structure, and management of project work, including scope, objectives, activities, governance, and closure within a Statement of Work.",
+      "key_areas": [
+        "Scope Definition and Description",
+        "Work Activities and Commitments",
+        "Project Objectives and Overview",
+        "Project Management and Governance",
+        "Project Schedule and Closure"
+      ],
+      "total_occurrences": 1307,
+      "subtopics": [
+        {
+          "id": "T003",
+          "name": "Scope of Work",
+          "description": "Defines the specific tasks, deliverables, and boundaries of work to be performed under the contract.",
+          "occurrences": 652,
+          "variants": [
+            "work scope",
+            "scope of work",
+            "work scope and activities",
+            "work scope and schedule"
+          ]
+        },
+        {
+          "id": "T008",
+          "name": "Scope Definition",
+          "description": "Outlines the boundaries, deliverables, and objectives of the project or engagement.",
+          "occurrences": 243,
+          "variants": [
+            "scope definition",
+            "scope description"
+          ]
+        },
+        {
+          "id": "T013",
+          "name": "Project Scope",
+          "description": "Defines the boundaries, objectives, and deliverables of the project.",
+          "occurrences": 156,
+          "variants": [
+            "project scope",
+            "project objectives"
+          ]
+        },
+        {
+          "id": "T021",
+          "name": "Scope of Work",
+          "description": "Defines the tasks, deliverables, and objectives to be accomplished under the contract.",
+          "occurrences": 110,
+          "variants": [
+            "work description"
+          ]
+        },
+        {
+          "id": "T027",
+          "name": "Work Activities",
+          "description": "Describes the specific tasks, duties, and processes to be performed under the statement of work.",
+          "occurrences": 72,
+          "variants": [
+            "work activities",
+            "work activities and processes"
+          ]
+        },
+        {
+          "id": "T041",
+          "name": "Project Management",
+          "description": "Oversight and coordination of all activities, resources, and communications required to deliver the project successfully.",
+          "occurrences": 31,
+          "variants": [
+            "project management",
+            "project management and communication",
+            "project administration"
+          ]
+        },
+        {
+          "id": "T071",
+          "name": "Scope of Work",
+          "description": "Defines the specific tasks, deliverables, and boundaries of the work to be performed under the contract.",
+          "occurrences": 12,
+          "variants": [
+            "work scope definition"
+          ]
+        },
+        {
+          "id": "T085",
+          "name": "Project Activities",
+          "description": "Details the specific tasks and actions to be performed during the project lifecycle.",
+          "occurrences": 8,
+          "variants": [
+            "project activities"
+          ]
+        },
+        {
+          "id": "T086",
+          "name": "Work Commitments",
+          "description": "Defines the obligations, responsibilities, and deliverables agreed upon by parties in the Statement of Work.",
+          "occurrences": 8,
+          "variants": [
+            "work commitments"
+          ]
+        },
+        {
+          "id": "T113",
+          "name": "Work Schedule",
+          "description": "Defines the timeline, milestones, and sequencing of tasks for project execution.",
+          "occurrences": 5,
+          "variants": [
+            "work schedule"
+          ]
+        },
+        {
+          "id": "T136",
+          "name": "Project Closure",
+          "description": "The formal process of completing and closing out all project activities and deliverables.",
+          "occurrences": 3,
+          "variants": [
+            "project closure"
+          ]
+        },
+        {
+          "id": "T155",
+          "name": "Project Overview",
+          "description": "A summary outlining the purpose, objectives, and scope of the project.",
+          "occurrences": 2,
+          "variants": [
+            "project overview"
+          ]
+        },
+        {
+          "id": "T157",
+          "name": "Project Governance",
+          "description": "Defines the framework, roles, and processes for overseeing and controlling the project.",
+          "occurrences": 2,
+          "variants": [
+            "project governance"
+          ]
+        },
+        {
+          "id": "T195",
+          "name": "Work Methodology",
+          "description": "Describes the approach, processes, and techniques to be used in executing the project work.",
+          "occurrences": 1,
+          "variants": [
+            "work methodology"
+          ]
+        },
+        {
+          "id": "T207",
+          "name": "Project Scope",
+          "description": "Defines the boundaries, deliverables, and objectives of the project.",
+          "occurrences": 1,
+          "variants": [
+            "project scope definition"
+          ]
+        },
+        {
+          "id": "T219",
+          "name": "Project Objectives",
+          "description": "Defines the specific goals and intended outcomes that the project aims to achieve.",
+          "occurrences": 1,
+          "variants": [
+            "work objectives"
+          ]
+        }
+      ]
+    },
+    "M07": {
+      "id": "M07",
+      "name": "Intellectual Property and Data Rights",
+      "description": "This category covers the ownership, usage, confidentiality, and liability terms related to intellectual property and data within the scope of the agreement.",
+      "key_areas": [
+        "Intellectual Property Ownership",
+        "Usage Rights",
+        "Confidentiality",
+        "Liability"
+      ],
+      "total_occurrences": 115,
+      "subtopics": [
+        {
+          "id": "T022",
+          "name": "Intellectual Property Rights",
+          "description": "Covers the ownership, usage, and protection of intellectual property created or used under the agreement.",
+          "occurrences": 101,
+          "variants": [
+            "intellectual property rights",
+            "intellectual property",
+            "intellectual property terms",
+            "intellectual property usage",
+            "intellectual property and legal terms"
+          ]
+        },
+        {
+          "id": "T084",
+          "name": "Intellectual Property Rights",
+          "description": "Defines the ownership, usage, and licensing of intellectual property created or used under the agreement.",
+          "occurrences": 8,
+          "variants": [
+            "usage rights"
+          ]
+        },
+        {
+          "id": "T123",
+          "name": "Data Usage Rights",
+          "description": "Defines the permissions, restrictions, and conditions for how data may be accessed, used, and shared under the agreement.",
+          "occurrences": 4,
+          "variants": [
+            "data usage rights"
+          ]
+        },
+        {
+          "id": "T177",
+          "name": "Intellectual Property and Confidentiality",
+          "description": "Covers the ownership, protection, and handling of intellectual property and confidential information within the scope of the agreement.",
+          "occurrences": 1,
+          "variants": [
+            "intellectual property and confidentiality"
+          ]
+        },
+        {
+          "id": "T204",
+          "name": "Intellectual Property and Liability",
+          "description": "Covers ownership, usage rights, and legal responsibilities related to intellectual property and associated liabilities in the project.",
+          "occurrences": 1,
+          "variants": [
+            "intellectual property and liability"
+          ]
+        }
+      ]
+    },
+    "M08": {
+      "id": "M08",
+      "name": "Parties Identification",
+      "description": "This category covers the identification and basic information of all parties involved in the agreement, including their roles and relevant dates.",
+      "key_areas": [
+        "Identification of parties",
+        "Roles of parties",
+        "Effective date of agreement",
+        "Contact and organizational information"
+      ],
+      "total_occurrences": 46,
+      "subtopics": [
+        {
+          "id": "T040",
+          "name": "Project Parties",
+          "description": "Identifies all organizations and individuals participating in the project and their roles.",
+          "occurrences": 32,
+          "variants": [
+            "parties involved"
+          ]
+        },
+        {
+          "id": "T075",
+          "name": "Parties and Effective Date",
+          "description": "Identifies the contracting parties and specifies the effective date of the agreement.",
+          "occurrences": 11,
+          "variants": [
+            "parties and dates"
+          ]
+        },
+        {
+          "id": "T131",
+          "name": "Parties Information",
+          "description": "Details identifying and providing information about the parties involved in the agreement.",
+          "occurrences": 3,
+          "variants": [
+            "parties identification",
+            "parties information"
+          ]
+        }
+      ]
+    },
+    "M09": {
+      "id": "M09",
+      "name": "Operational Processes",
+      "description": "This category encompasses the procedures and systems for managing data, facilitating communication, and implementing workflows within project operations.",
+      "key_areas": [
+        "Data Management",
+        "Communication Protocols",
+        "Workflow Implementation"
+      ],
+      "total_occurrences": 26,
+      "subtopics": [
+        {
+          "id": "T051",
+          "name": "Data Management",
+          "description": "Processes and policies for collecting, storing, organizing, and maintaining data throughout its lifecycle.",
+          "occurrences": 23,
+          "variants": [
+            "data management",
+            "data handling",
+            "data handling procedures"
+          ]
+        },
+        {
+          "id": "T164",
+          "name": "Communication Protocols",
+          "description": "Standards and procedures governing the exchange of information between systems or stakeholders.",
+          "occurrences": 2,
+          "variants": [
+            "communication protocols"
+          ]
+        },
+        {
+          "id": "T212",
+          "name": "Workflow Implementation",
+          "description": "The process of designing, configuring, and deploying workflows to automate business processes.",
+          "occurrences": 1,
+          "variants": [
+            "workflow implementation"
+          ]
+        }
+      ]
+    },
+    "M10": {
+      "id": "M10",
+      "name": "Term and Commencement",
+      "description": "This category covers provisions related to the start date and initiation of contractual obligations within the Statement of Work.",
+      "key_areas": [
+        "Effective Date",
+        "Contract Commencement",
+        "Start of Services"
+      ],
+      "total_occurrences": 21,
+      "subtopics": [
+        {
+          "id": "T053",
+          "name": "Effective Date",
+          "description": "Specifies the date on which the Statement of Work becomes legally binding and enforceable.",
+          "occurrences": 21,
+          "variants": [
+            "effective dates"
+          ]
+        }
+      ]
+    },
+    "M11": {
+      "id": "M11",
+      "name": "Party Identification",
+      "description": "This category covers the identification and contact details of parties involved in the agreement.",
+      "key_areas": [
+        "Contact Information",
+        "Party Names",
+        "Addresses"
+      ],
+      "total_occurrences": 1,
+      "subtopics": [
+        {
+          "id": "T166",
+          "name": "Contact Information",
+          "description": "Details for reaching key individuals or organizations involved in the project.",
+          "occurrences": 1,
+          "variants": [
+            "contact details"
+          ]
+        }
+      ]
+    },
+    "M12": {
+      "id": "M12",
+      "name": "Deliverable Materials",
+      "description": "This category encompasses all materials, such as source code and related build artifacts, that must be delivered as part of the project.",
+      "key_areas": [
+        "Source Code",
+        "Build Materials",
+        "Project Deliverables"
+      ],
+      "total_occurrences": 1,
+      "subtopics": [
+        {
+          "id": "T180",
+          "name": "Source Code Deliverables",
+          "description": "Defines the requirements and materials related to the delivery of source code and associated build artifacts.",
+          "occurrences": 1,
+          "variants": [
+            "source code and build materials"
+          ]
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "num_main_topics": 12,
+    "num_total_topics": 238,
+    "model": "gpt-4.1",
+    "created_at": "2025-11-01"
+  }
+}

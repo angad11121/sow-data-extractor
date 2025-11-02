@@ -1,0 +1,2876 @@
+{
+  "agreement dates": {
+    "subtopic_id": "T001",
+    "subtopic_name": "Agreement Dates",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "agreement timeline": {
+    "subtopic_id": "T001",
+    "subtopic_name": "Agreement Dates",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "agreement duration": {
+    "subtopic_id": "T001",
+    "subtopic_name": "Agreement Dates",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatory information": {
+    "subtopic_id": "T007",
+    "subtopic_name": "Signatory Information",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatory details": {
+    "subtopic_id": "T007",
+    "subtopic_name": "Signatory Information",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatories and contact information": {
+    "subtopic_id": "T007",
+    "subtopic_name": "Signatory Information",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatories": {
+    "subtopic_id": "T007",
+    "subtopic_name": "Signatory Information",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal signatories": {
+    "subtopic_id": "T007",
+    "subtopic_name": "Signatory Information",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatories and addresses": {
+    "subtopic_id": "T007",
+    "subtopic_name": "Signatory Information",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance criteria": {
+    "subtopic_id": "T012",
+    "subtopic_name": "Acceptance Criteria",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance conditions": {
+    "subtopic_id": "T012",
+    "subtopic_name": "Acceptance Criteria",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and audit": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and audits": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance reporting": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and reporting": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "reporting and compliance": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and auditing": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and governance": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and audit obligations": {
+    "subtopic_id": "T014",
+    "subtopic_name": "Compliance and Audit",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance requirements": {
+    "subtopic_id": "T023",
+    "subtopic_name": "Compliance Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance obligations": {
+    "subtopic_id": "T023",
+    "subtopic_name": "Compliance Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and standards": {
+    "subtopic_id": "T023",
+    "subtopic_name": "Compliance Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance standards": {
+    "subtopic_id": "T023",
+    "subtopic_name": "Compliance Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance terms": {
+    "subtopic_id": "T023",
+    "subtopic_name": "Compliance Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance": {
+    "subtopic_id": "T023",
+    "subtopic_name": "Compliance Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance provisions": {
+    "subtopic_id": "T023",
+    "subtopic_name": "Compliance Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "agreement details": {
+    "subtopic_id": "T026",
+    "subtopic_name": "Parties and Agreement Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "parties and agreement dates": {
+    "subtopic_id": "T026",
+    "subtopic_name": "Parties and Agreement Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "parties and agreement details": {
+    "subtopic_id": "T026",
+    "subtopic_name": "Parties and Agreement Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "parties and agreements": {
+    "subtopic_id": "T026",
+    "subtopic_name": "Parties and Agreement Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "parties and agreement terms": {
+    "subtopic_id": "T026",
+    "subtopic_name": "Parties and Agreement Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "payment terms": {
+    "subtopic_id": "T029",
+    "subtopic_name": "Payment Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "payment conditions": {
+    "subtopic_id": "T029",
+    "subtopic_name": "Payment Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "payment and financial terms": {
+    "subtopic_id": "T029",
+    "subtopic_name": "Payment Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal and payment terms": {
+    "subtopic_id": "T029",
+    "subtopic_name": "Payment Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and authorization": {
+    "subtopic_id": "T032",
+    "subtopic_name": "Signatures and Authorization",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatories and authorization": {
+    "subtopic_id": "T032",
+    "subtopic_name": "Signatures and Authorization",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatory authorization": {
+    "subtopic_id": "T032",
+    "subtopic_name": "Signatures and Authorization",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "authorization and signatures": {
+    "subtopic_id": "T032",
+    "subtopic_name": "Signatures and Authorization",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signature and authorization": {
+    "subtopic_id": "T032",
+    "subtopic_name": "Signatures and Authorization",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and authorizations": {
+    "subtopic_id": "T032",
+    "subtopic_name": "Signatures and Authorization",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "termination conditions": {
+    "subtopic_id": "T033",
+    "subtopic_name": "Termination Conditions",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability limitations": {
+    "subtopic_id": "T035",
+    "subtopic_name": "Limitation of Liability",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and limitations": {
+    "subtopic_id": "T035",
+    "subtopic_name": "Limitation of Liability",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability limits": {
+    "subtopic_id": "T035",
+    "subtopic_name": "Limitation of Liability",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "financial terms": {
+    "subtopic_id": "T038",
+    "subtopic_name": "Financial Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "financial and legal terms": {
+    "subtopic_id": "T038",
+    "subtopic_name": "Financial Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and approval": {
+    "subtopic_id": "T043",
+    "subtopic_name": "Acceptance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and review": {
+    "subtopic_id": "T043",
+    "subtopic_name": "Acceptance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and approval criteria": {
+    "subtopic_id": "T043",
+    "subtopic_name": "Acceptance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and review processes": {
+    "subtopic_id": "T043",
+    "subtopic_name": "Acceptance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and approvals": {
+    "subtopic_id": "T043",
+    "subtopic_name": "Acceptance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "review and acceptance": {
+    "subtopic_id": "T043",
+    "subtopic_name": "Acceptance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability terms": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and payment terms": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and financial terms": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and costs": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "financial and liability terms": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal and liability terms": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and commitments": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "financial terms and liabilities": {
+    "subtopic_id": "T044",
+    "subtopic_name": "Liability Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "testing and acceptance": {
+    "subtopic_id": "T046",
+    "subtopic_name": "Acceptance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and validation": {
+    "subtopic_id": "T046",
+    "subtopic_name": "Acceptance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and testing": {
+    "subtopic_id": "T046",
+    "subtopic_name": "Acceptance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and verification": {
+    "subtopic_id": "T046",
+    "subtopic_name": "Acceptance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "dispute resolution": {
+    "subtopic_id": "T047",
+    "subtopic_name": "Dispute Resolution",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and sign-off": {
+    "subtopic_id": "T049",
+    "subtopic_name": "Acceptance and Sign-Off",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and signatures": {
+    "subtopic_id": "T049",
+    "subtopic_name": "Acceptance and Sign-Off",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal terms": {
+    "subtopic_id": "T050",
+    "subtopic_name": "Legal Terms and Conditions",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and quality": {
+    "subtopic_id": "T052",
+    "subtopic_name": "Quality and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "quality and compliance": {
+    "subtopic_id": "T052",
+    "subtopic_name": "Quality and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "performance and compliance": {
+    "subtopic_id": "T052",
+    "subtopic_name": "Quality and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and quality assurance": {
+    "subtopic_id": "T052",
+    "subtopic_name": "Quality and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and performance": {
+    "subtopic_id": "T052",
+    "subtopic_name": "Quality and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and performance monitoring": {
+    "subtopic_id": "T052",
+    "subtopic_name": "Quality and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "confidentiality terms": {
+    "subtopic_id": "T054",
+    "subtopic_name": "Confidentiality Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal and confidentiality terms": {
+    "subtopic_id": "T054",
+    "subtopic_name": "Confidentiality Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "confidentiality and compliance": {
+    "subtopic_id": "T054",
+    "subtopic_name": "Confidentiality Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "confidentiality provisions": {
+    "subtopic_id": "T054",
+    "subtopic_name": "Confidentiality Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "confidentiality clauses": {
+    "subtopic_id": "T054",
+    "subtopic_name": "Confidentiality Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "confidentiality statement": {
+    "subtopic_id": "T054",
+    "subtopic_name": "Confidentiality Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "financial responsibilities": {
+    "subtopic_id": "T055",
+    "subtopic_name": "Financial Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "responsibilities and liabilities": {
+    "subtopic_id": "T055",
+    "subtopic_name": "Financial Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "financial and cost responsibilities": {
+    "subtopic_id": "T055",
+    "subtopic_name": "Financial Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and approvals": {
+    "subtopic_id": "T057",
+    "subtopic_name": "Approvals and Signatures",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approvals and signatures": {
+    "subtopic_id": "T057",
+    "subtopic_name": "Approvals and Signatures",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approval and sign-off": {
+    "subtopic_id": "T057",
+    "subtopic_name": "Approvals and Signatures",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approval and signatures": {
+    "subtopic_id": "T057",
+    "subtopic_name": "Approvals and Signatures",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatories and approvals": {
+    "subtopic_id": "T057",
+    "subtopic_name": "Approvals and Signatures",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approvals and sign-off": {
+    "subtopic_id": "T057",
+    "subtopic_name": "Approvals and Signatures",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "subcontracting terms": {
+    "subtopic_id": "T058",
+    "subtopic_name": "Subcontracting Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "review and approval": {
+    "subtopic_id": "T059",
+    "subtopic_name": "Review and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approval process": {
+    "subtopic_id": "T059",
+    "subtopic_name": "Review and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approval processes": {
+    "subtopic_id": "T059",
+    "subtopic_name": "Review and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approval and review processes": {
+    "subtopic_id": "T059",
+    "subtopic_name": "Review and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "review and approval processes": {
+    "subtopic_id": "T059",
+    "subtopic_name": "Review and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "approvals": {
+    "subtopic_id": "T059",
+    "subtopic_name": "Review and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "termination terms": {
+    "subtopic_id": "T060",
+    "subtopic_name": "Termination Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "termination and legal terms": {
+    "subtopic_id": "T060",
+    "subtopic_name": "Termination Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and termination": {
+    "subtopic_id": "T060",
+    "subtopic_name": "Termination Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and compliance": {
+    "subtopic_id": "T067",
+    "subtopic_name": "Legal and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal and compliance": {
+    "subtopic_id": "T067",
+    "subtopic_name": "Legal and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and liability": {
+    "subtopic_id": "T067",
+    "subtopic_name": "Legal and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and testing": {
+    "subtopic_id": "T074",
+    "subtopic_name": "Compliance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and validation": {
+    "subtopic_id": "T074",
+    "subtopic_name": "Compliance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "testing and compliance": {
+    "subtopic_id": "T074",
+    "subtopic_name": "Compliance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance verification": {
+    "subtopic_id": "T074",
+    "subtopic_name": "Compliance and Testing",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal and jurisdiction": {
+    "subtopic_id": "T080",
+    "subtopic_name": "Legal Jurisdiction",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal jurisdiction": {
+    "subtopic_id": "T080",
+    "subtopic_name": "Legal Jurisdiction",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "jurisdiction and legal": {
+    "subtopic_id": "T080",
+    "subtopic_name": "Legal Jurisdiction",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "vendor commitments": {
+    "subtopic_id": "T081",
+    "subtopic_name": "Vendor Obligations",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "vendor obligations": {
+    "subtopic_id": "T081",
+    "subtopic_name": "Vendor Obligations",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "vendor obligations and liabilities": {
+    "subtopic_id": "T081",
+    "subtopic_name": "Vendor Obligations",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures": {
+    "subtopic_id": "T088",
+    "subtopic_name": "Signatures and Contact Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and contact information": {
+    "subtopic_id": "T088",
+    "subtopic_name": "Signatures and Contact Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and addresses": {
+    "subtopic_id": "T088",
+    "subtopic_name": "Signatures and Contact Details",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and verification": {
+    "subtopic_id": "T092",
+    "subtopic_name": "Signature Verification",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and validation": {
+    "subtopic_id": "T092",
+    "subtopic_name": "Signature Verification",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal provisions": {
+    "subtopic_id": "T093",
+    "subtopic_name": "Legal Provisions",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "responsibilities": {
+    "subtopic_id": "T095",
+    "subtopic_name": "Roles and Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "responsibilities and obligations": {
+    "subtopic_id": "T095",
+    "subtopic_name": "Roles and Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "roles and responsibilities": {
+    "subtopic_id": "T095",
+    "subtopic_name": "Roles and Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "contractual terms": {
+    "subtopic_id": "T096",
+    "subtopic_name": "Contractual Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "contractual obligations": {
+    "subtopic_id": "T096",
+    "subtopic_name": "Contractual Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "contractual clauses": {
+    "subtopic_id": "T096",
+    "subtopic_name": "Contractual Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "contractual agreements": {
+    "subtopic_id": "T096",
+    "subtopic_name": "Contractual Terms",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and confidentiality": {
+    "subtopic_id": "T110",
+    "subtopic_name": "Liability and Confidentiality",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "confidentiality and liability": {
+    "subtopic_id": "T110",
+    "subtopic_name": "Liability and Confidentiality",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "subcontracting permissions": {
+    "subtopic_id": "T111",
+    "subtopic_name": "Subcontracting Provisions",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "subcontracting rights": {
+    "subtopic_id": "T111",
+    "subtopic_name": "Subcontracting Provisions",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "jurisdiction and dispute resolution": {
+    "subtopic_id": "T117",
+    "subtopic_name": "Governing Law and Dispute Resolution",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and review": {
+    "subtopic_id": "T121",
+    "subtopic_name": "Compliance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and finalization": {
+    "subtopic_id": "T121",
+    "subtopic_name": "Compliance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance and approvals": {
+    "subtopic_id": "T121",
+    "subtopic_name": "Compliance and Approval",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and handover": {
+    "subtopic_id": "T128",
+    "subtopic_name": "Acceptance and Handover",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal consent": {
+    "subtopic_id": "T132",
+    "subtopic_name": "Legal Consent",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal and consent clauses": {
+    "subtopic_id": "T132",
+    "subtopic_name": "Legal Consent",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal consents": {
+    "subtopic_id": "T132",
+    "subtopic_name": "Legal Consent",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and revisions": {
+    "subtopic_id": "T133",
+    "subtopic_name": "Acceptance and Revisions",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and documentation": {
+    "subtopic_id": "T137",
+    "subtopic_name": "Acceptance Criteria",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "client acceptance": {
+    "subtopic_id": "T139",
+    "subtopic_name": "Client Acceptance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "client review and acceptance": {
+    "subtopic_id": "T139",
+    "subtopic_name": "Client Acceptance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and delivery terms": {
+    "subtopic_id": "T142",
+    "subtopic_name": "Acceptance and Delivery",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and delivery": {
+    "subtopic_id": "T142",
+    "subtopic_name": "Acceptance and Delivery",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and dispute resolution": {
+    "subtopic_id": "T148",
+    "subtopic_name": "Liability and Dispute Resolution",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and dispute terms": {
+    "subtopic_id": "T148",
+    "subtopic_name": "Liability and Dispute Resolution",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "stakeholder approvals": {
+    "subtopic_id": "T150",
+    "subtopic_name": "Stakeholder Approvals",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "security and compliance": {
+    "subtopic_id": "T151",
+    "subtopic_name": "Security and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "compliance assurances": {
+    "subtopic_id": "T151",
+    "subtopic_name": "Security and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "stakeholder communication": {
+    "subtopic_id": "T156",
+    "subtopic_name": "Stakeholder Communication",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "acceptance and compliance": {
+    "subtopic_id": "T158",
+    "subtopic_name": "Acceptance and Compliance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "contractual authorizations": {
+    "subtopic_id": "T159",
+    "subtopic_name": "Contractual Approvals",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "contractual terms and approvals": {
+    "subtopic_id": "T159",
+    "subtopic_name": "Contractual Approvals",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "parties and signatures": {
+    "subtopic_id": "T160",
+    "subtopic_name": "Signatures and Parties",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "client support": {
+    "subtopic_id": "T167",
+    "subtopic_name": "Client Support",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "stakeholder responsibilities": {
+    "subtopic_id": "T168",
+    "subtopic_name": "Stakeholder Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "liability and jurisdiction": {
+    "subtopic_id": "T170",
+    "subtopic_name": "Liability and Jurisdiction",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "submission requirements": {
+    "subtopic_id": "T171",
+    "subtopic_name": "Submission Requirements",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal acknowledgments": {
+    "subtopic_id": "T174",
+    "subtopic_name": "Legal Acknowledgments",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "subcontracting and approvals": {
+    "subtopic_id": "T178",
+    "subtopic_name": "Subcontracting Approvals",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "client responsibilities": {
+    "subtopic_id": "T185",
+    "subtopic_name": "Client Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "responsibilities and approvals": {
+    "subtopic_id": "T187",
+    "subtopic_name": "Roles and Responsibilities",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "testing and approval": {
+    "subtopic_id": "T190",
+    "subtopic_name": "Testing and Acceptance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "client collaboration": {
+    "subtopic_id": "T191",
+    "subtopic_name": "Client Collaboration",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "client feedback process": {
+    "subtopic_id": "T210",
+    "subtopic_name": "Client Feedback",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "final acceptance": {
+    "subtopic_id": "T211",
+    "subtopic_name": "Final Acceptance",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "signatures and attachments": {
+    "subtopic_id": "T217",
+    "subtopic_name": "Signatures and Attachments",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "legal approvals": {
+    "subtopic_id": "T223",
+    "subtopic_name": "Legal Approvals",
+    "main_topic_id": "M01",
+    "main_topic_name": "Contractual Terms and Conditions"
+  },
+  "quality assurance": {
+    "subtopic_id": "T009",
+    "subtopic_name": "Quality Assurance",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "testing and quality assurance": {
+    "subtopic_id": "T009",
+    "subtopic_name": "Quality Assurance",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "testing and quality": {
+    "subtopic_id": "T009",
+    "subtopic_name": "Quality Assurance",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and quality assurance": {
+    "subtopic_id": "T009",
+    "subtopic_name": "Quality Assurance",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "testing and validation": {
+    "subtopic_id": "T010",
+    "subtopic_name": "Testing and Validation",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "validation and testing": {
+    "subtopic_id": "T010",
+    "subtopic_name": "Testing and Validation",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting requirements": {
+    "subtopic_id": "T011",
+    "subtopic_name": "Reporting Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting obligations": {
+    "subtopic_id": "T011",
+    "subtopic_name": "Reporting Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance criteria": {
+    "subtopic_id": "T015",
+    "subtopic_name": "Performance Metrics",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance metrics": {
+    "subtopic_id": "T015",
+    "subtopic_name": "Performance Metrics",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance evaluation": {
+    "subtopic_id": "T015",
+    "subtopic_name": "Performance Metrics",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and quality metrics": {
+    "subtopic_id": "T015",
+    "subtopic_name": "Performance Metrics",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance monitoring": {
+    "subtopic_id": "T016",
+    "subtopic_name": "Performance Monitoring",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and monitoring": {
+    "subtopic_id": "T016",
+    "subtopic_name": "Performance Monitoring",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "progress reporting": {
+    "subtopic_id": "T017",
+    "subtopic_name": "Progress Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and progress updates": {
+    "subtopic_id": "T017",
+    "subtopic_name": "Progress Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "progress and reporting": {
+    "subtopic_id": "T017",
+    "subtopic_name": "Progress Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and communication": {
+    "subtopic_id": "T018",
+    "subtopic_name": "Reporting and Communication",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "documentation and reporting": {
+    "subtopic_id": "T018",
+    "subtopic_name": "Reporting and Communication",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and documentation": {
+    "subtopic_id": "T018",
+    "subtopic_name": "Reporting and Communication",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "communication and reporting": {
+    "subtopic_id": "T018",
+    "subtopic_name": "Reporting and Communication",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance requirements": {
+    "subtopic_id": "T024",
+    "subtopic_name": "Performance Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and support": {
+    "subtopic_id": "T024",
+    "subtopic_name": "Performance Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development activities": {
+    "subtopic_id": "T030",
+    "subtopic_name": "Development Activities",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "design and development activities": {
+    "subtopic_id": "T030",
+    "subtopic_name": "Development Activities",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical requirements": {
+    "subtopic_id": "T042",
+    "subtopic_name": "Technical Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical specifications": {
+    "subtopic_id": "T042",
+    "subtopic_name": "Technical Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical requirements overview": {
+    "subtopic_id": "T042",
+    "subtopic_name": "Technical Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance standards": {
+    "subtopic_id": "T045",
+    "subtopic_name": "Performance and Quality Standards",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "quality standards": {
+    "subtopic_id": "T045",
+    "subtopic_name": "Performance and Quality Standards",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "quality and standards": {
+    "subtopic_id": "T045",
+    "subtopic_name": "Performance and Quality Standards",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and quality standards": {
+    "subtopic_id": "T045",
+    "subtopic_name": "Performance and Quality Standards",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "quality and performance standards": {
+    "subtopic_id": "T045",
+    "subtopic_name": "Performance and Quality Standards",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and monitoring": {
+    "subtopic_id": "T048",
+    "subtopic_name": "Reporting and Monitoring",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and updates": {
+    "subtopic_id": "T048",
+    "subtopic_name": "Reporting and Monitoring",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "monitoring and reporting": {
+    "subtopic_id": "T048",
+    "subtopic_name": "Reporting and Monitoring",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "implementation activities": {
+    "subtopic_id": "T070",
+    "subtopic_name": "Implementation Approach",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "implementation processes": {
+    "subtopic_id": "T070",
+    "subtopic_name": "Implementation Approach",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "implementation approach": {
+    "subtopic_id": "T070",
+    "subtopic_name": "Implementation Approach",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance reporting": {
+    "subtopic_id": "T072",
+    "subtopic_name": "Performance Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and reporting": {
+    "subtopic_id": "T072",
+    "subtopic_name": "Performance Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and metrics": {
+    "subtopic_id": "T072",
+    "subtopic_name": "Performance Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development process": {
+    "subtopic_id": "T076",
+    "subtopic_name": "Development Process",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development methodology": {
+    "subtopic_id": "T076",
+    "subtopic_name": "Development Process",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development processes": {
+    "subtopic_id": "T076",
+    "subtopic_name": "Development Process",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development approach": {
+    "subtopic_id": "T076",
+    "subtopic_name": "Development Process",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development scope": {
+    "subtopic_id": "T079",
+    "subtopic_name": "Scope of Work",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "project reporting": {
+    "subtopic_id": "T083",
+    "subtopic_name": "Project Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "project management and reporting": {
+    "subtopic_id": "T083",
+    "subtopic_name": "Project Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "project management reporting": {
+    "subtopic_id": "T083",
+    "subtopic_name": "Project Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance objectives": {
+    "subtopic_id": "T087",
+    "subtopic_name": "Performance Objectives",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "design and development": {
+    "subtopic_id": "T102",
+    "subtopic_name": "Design and Development",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical implementation": {
+    "subtopic_id": "T104",
+    "subtopic_name": "Technical Implementation",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance obligations": {
+    "subtopic_id": "T105",
+    "subtopic_name": "Performance Obligations",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance commitments": {
+    "subtopic_id": "T105",
+    "subtopic_name": "Performance Obligations",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "design and testing": {
+    "subtopic_id": "T107",
+    "subtopic_name": "Design and Testing",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "testing and evaluation": {
+    "subtopic_id": "T107",
+    "subtopic_name": "Design and Testing",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development and implementation": {
+    "subtopic_id": "T108",
+    "subtopic_name": "Solution Development",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical standards": {
+    "subtopic_id": "T120",
+    "subtopic_name": "Technical Standards",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "implementation details": {
+    "subtopic_id": "T122",
+    "subtopic_name": "Implementation Details",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and approvals": {
+    "subtopic_id": "T124",
+    "subtopic_name": "Reporting and Approvals",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and review": {
+    "subtopic_id": "T124",
+    "subtopic_name": "Reporting and Approvals",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and optimization": {
+    "subtopic_id": "T135",
+    "subtopic_name": "Performance Optimization",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "implementation timeline": {
+    "subtopic_id": "T140",
+    "subtopic_name": "Implementation Timeline",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "implementation schedule": {
+    "subtopic_id": "T140",
+    "subtopic_name": "Implementation Timeline",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "user experience design": {
+    "subtopic_id": "T144",
+    "subtopic_name": "User Experience",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "user experience": {
+    "subtopic_id": "T144",
+    "subtopic_name": "User Experience",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and maintenance": {
+    "subtopic_id": "T145",
+    "subtopic_name": "Performance and Maintenance",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical commitments": {
+    "subtopic_id": "T147",
+    "subtopic_name": "Technical Commitments",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "review and feedback": {
+    "subtopic_id": "T152",
+    "subtopic_name": "Review and Feedback",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "performance and testing": {
+    "subtopic_id": "T153",
+    "subtopic_name": "Performance and Testing",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting": {
+    "subtopic_id": "T154",
+    "subtopic_name": "Project Reporting",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "progress monitoring": {
+    "subtopic_id": "T163",
+    "subtopic_name": "Progress Monitoring",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "project progress tracking": {
+    "subtopic_id": "T163",
+    "subtopic_name": "Progress Monitoring",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "evaluation criteria": {
+    "subtopic_id": "T165",
+    "subtopic_name": "Evaluation Criteria",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "design and implementation": {
+    "subtopic_id": "T172",
+    "subtopic_name": "Design and Implementation",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "feedback and revisions": {
+    "subtopic_id": "T176",
+    "subtopic_name": "Revisions and Feedback",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "quality and review": {
+    "subtopic_id": "T179",
+    "subtopic_name": "Quality Assurance",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting schedule": {
+    "subtopic_id": "T181",
+    "subtopic_name": "Reporting Schedule",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical provisions": {
+    "subtopic_id": "T182",
+    "subtopic_name": "Technical Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "third-party evaluation": {
+    "subtopic_id": "T184",
+    "subtopic_name": "Third-Party Evaluation",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "progress and review": {
+    "subtopic_id": "T186",
+    "subtopic_name": "Progress Review",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "implementation plan": {
+    "subtopic_id": "T194",
+    "subtopic_name": "Implementation Plan",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "development requirements": {
+    "subtopic_id": "T196",
+    "subtopic_name": "Development Requirements",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and audits": {
+    "subtopic_id": "T197",
+    "subtopic_name": "Reporting and Auditing",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical approach": {
+    "subtopic_id": "T198",
+    "subtopic_name": "Technical Approach",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "technical development": {
+    "subtopic_id": "T199",
+    "subtopic_name": "Technical Development",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "software and code delivery": {
+    "subtopic_id": "T209",
+    "subtopic_name": "Software Delivery",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "reporting and support": {
+    "subtopic_id": "T220",
+    "subtopic_name": "Reporting and Support",
+    "main_topic_id": "M02",
+    "main_topic_name": "Performance and Quality Management"
+  },
+  "deliverables description": {
+    "subtopic_id": "T002",
+    "subtopic_name": "Deliverable Specifications",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverable specifications": {
+    "subtopic_id": "T002",
+    "subtopic_name": "Deliverable Specifications",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables specification": {
+    "subtopic_id": "T002",
+    "subtopic_name": "Deliverable Specifications",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverable descriptions": {
+    "subtopic_id": "T002",
+    "subtopic_name": "Deliverable Specifications",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverable requirements": {
+    "subtopic_id": "T002",
+    "subtopic_name": "Deliverable Specifications",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables": {
+    "subtopic_id": "T005",
+    "subtopic_name": "Project Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables definition": {
+    "subtopic_id": "T005",
+    "subtopic_name": "Project Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "maintenance and support": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "maintenance obligations": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "support and maintenance": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "maintenance terms": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "maintenance services": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "maintenance responsibilities": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "maintenance commitments": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "maintenance and development": {
+    "subtopic_id": "T006",
+    "subtopic_name": "Maintenance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "timelines and milestones": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project milestones": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "timeline and milestones": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "schedule and milestones": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "milestones and deadlines": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project timeline and milestones": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project schedule and milestones": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project milestones and timeline": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project timelines and milestones": {
+    "subtopic_id": "T019",
+    "subtopic_name": "Project Milestones and Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project timeline": {
+    "subtopic_id": "T020",
+    "subtopic_name": "Project Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project timelines": {
+    "subtopic_id": "T020",
+    "subtopic_name": "Project Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and configuration": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and support": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment provisions": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment requirements": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment details": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment procedures": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and installation": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and environment setup": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and operations": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and maintenance": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment processes": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment instructions": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment support": {
+    "subtopic_id": "T028",
+    "subtopic_name": "Deployment and Configuration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and integration": {
+    "subtopic_id": "T031",
+    "subtopic_name": "Deployment and Integration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "integration and deployment": {
+    "subtopic_id": "T031",
+    "subtopic_name": "Deployment and Integration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and implementation": {
+    "subtopic_id": "T031",
+    "subtopic_name": "Deployment and Integration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and acceptance": {
+    "subtopic_id": "T031",
+    "subtopic_name": "Deployment and Integration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "acceptance and deployment": {
+    "subtopic_id": "T031",
+    "subtopic_name": "Deployment and Integration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and compliance": {
+    "subtopic_id": "T031",
+    "subtopic_name": "Deployment and Integration",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "infrastructure setup": {
+    "subtopic_id": "T036",
+    "subtopic_name": "Infrastructure Setup",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "infrastructure and deployment": {
+    "subtopic_id": "T036",
+    "subtopic_name": "Infrastructure Setup",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "infrastructure and integration": {
+    "subtopic_id": "T036",
+    "subtopic_name": "Infrastructure Setup",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and infrastructure": {
+    "subtopic_id": "T036",
+    "subtopic_name": "Infrastructure Setup",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "infrastructure deployment": {
+    "subtopic_id": "T036",
+    "subtopic_name": "Infrastructure Setup",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "post-deployment support": {
+    "subtopic_id": "T039",
+    "subtopic_name": "Post-Deployment Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "post-deployment obligations": {
+    "subtopic_id": "T039",
+    "subtopic_name": "Post-Deployment Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and testing": {
+    "subtopic_id": "T063",
+    "subtopic_name": "Deployment and Testing",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "testing and deployment": {
+    "subtopic_id": "T063",
+    "subtopic_name": "Deployment and Testing",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and validation": {
+    "subtopic_id": "T063",
+    "subtopic_name": "Deployment and Testing",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "delivery schedule": {
+    "subtopic_id": "T064",
+    "subtopic_name": "Delivery Schedule",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables schedule": {
+    "subtopic_id": "T064",
+    "subtopic_name": "Delivery Schedule",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "delivery timelines": {
+    "subtopic_id": "T064",
+    "subtopic_name": "Delivery Schedule",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverable commitments": {
+    "subtopic_id": "T066",
+    "subtopic_name": "Deliverable Obligations",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverable obligations": {
+    "subtopic_id": "T066",
+    "subtopic_name": "Deliverable Obligations",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "delivery obligations": {
+    "subtopic_id": "T066",
+    "subtopic_name": "Deliverable Obligations",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment schedule": {
+    "subtopic_id": "T069",
+    "subtopic_name": "Deployment Schedule",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project schedule": {
+    "subtopic_id": "T073",
+    "subtopic_name": "Project Schedule",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "timeline and schedule": {
+    "subtopic_id": "T073",
+    "subtopic_name": "Project Schedule",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "timelines": {
+    "subtopic_id": "T082",
+    "subtopic_name": "Project Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "timeline": {
+    "subtopic_id": "T082",
+    "subtopic_name": "Project Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "delivery requirements": {
+    "subtopic_id": "T097",
+    "subtopic_name": "Delivery Requirements",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "post-deployment monitoring": {
+    "subtopic_id": "T098",
+    "subtopic_name": "Post-Deployment Monitoring",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "post-deployment evaluation": {
+    "subtopic_id": "T098",
+    "subtopic_name": "Post-Deployment Monitoring",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "service obligations": {
+    "subtopic_id": "T099",
+    "subtopic_name": "Service Commitments",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "service commitments": {
+    "subtopic_id": "T099",
+    "subtopic_name": "Service Commitments",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and transition": {
+    "subtopic_id": "T103",
+    "subtopic_name": "Deployment Responsibilities",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment commitments": {
+    "subtopic_id": "T103",
+    "subtopic_name": "Deployment Responsibilities",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment obligations": {
+    "subtopic_id": "T103",
+    "subtopic_name": "Deployment Responsibilities",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment activities": {
+    "subtopic_id": "T103",
+    "subtopic_name": "Deployment Responsibilities",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "post-delivery support": {
+    "subtopic_id": "T109",
+    "subtopic_name": "Post-Delivery Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "post-delivery obligations": {
+    "subtopic_id": "T109",
+    "subtopic_name": "Post-Delivery Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables and outputs": {
+    "subtopic_id": "T112",
+    "subtopic_name": "Deliverables and Outputs",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and handover": {
+    "subtopic_id": "T116",
+    "subtopic_name": "Deployment and Handover",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and handoff": {
+    "subtopic_id": "T116",
+    "subtopic_name": "Deployment and Handover",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment milestones": {
+    "subtopic_id": "T125",
+    "subtopic_name": "Milestones and Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables and milestones": {
+    "subtopic_id": "T125",
+    "subtopic_name": "Milestones and Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "support terms": {
+    "subtopic_id": "T130",
+    "subtopic_name": "Support Terms",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "infrastructure and development": {
+    "subtopic_id": "T134",
+    "subtopic_name": "Infrastructure and Development",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "infrastructure and development scope": {
+    "subtopic_id": "T134",
+    "subtopic_name": "Infrastructure and Development",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "support provisions": {
+    "subtopic_id": "T138",
+    "subtopic_name": "Support Services",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "service scope": {
+    "subtopic_id": "T161",
+    "subtopic_name": "Scope of Services",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment and documentation": {
+    "subtopic_id": "T162",
+    "subtopic_name": "Deployment Documentation",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment documentation": {
+    "subtopic_id": "T162",
+    "subtopic_name": "Deployment Documentation",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "design services": {
+    "subtopic_id": "T173",
+    "subtopic_name": "Design Services",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deployment plan": {
+    "subtopic_id": "T175",
+    "subtopic_name": "Deployment Plan",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables listing": {
+    "subtopic_id": "T183",
+    "subtopic_name": "Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "acceptance and support": {
+    "subtopic_id": "T189",
+    "subtopic_name": "Acceptance and Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "infrastructure services": {
+    "subtopic_id": "T193",
+    "subtopic_name": "Infrastructure Services",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "service deliverables": {
+    "subtopic_id": "T200",
+    "subtopic_name": "Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "ongoing support": {
+    "subtopic_id": "T201",
+    "subtopic_name": "Ongoing Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "service levels": {
+    "subtopic_id": "T202",
+    "subtopic_name": "Service Levels",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "project deliverables": {
+    "subtopic_id": "T203",
+    "subtopic_name": "Project Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "work deliverables": {
+    "subtopic_id": "T205",
+    "subtopic_name": "Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "technical deliverables": {
+    "subtopic_id": "T208",
+    "subtopic_name": "Technical Deliverables",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "technical handover": {
+    "subtopic_id": "T213",
+    "subtopic_name": "Technical Handover",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "operational support": {
+    "subtopic_id": "T215",
+    "subtopic_name": "Operational Support",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "deliverables and submissions": {
+    "subtopic_id": "T224",
+    "subtopic_name": "Deliverables and Submissions",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "development timeline": {
+    "subtopic_id": "T225",
+    "subtopic_name": "Project Timeline",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "resource provisioning": {
+    "subtopic_id": "T226",
+    "subtopic_name": "Resource Provisioning",
+    "main_topic_id": "M03",
+    "main_topic_name": "Deliverables and Execution"
+  },
+  "integration requirements": {
+    "subtopic_id": "T037",
+    "subtopic_name": "Integration Requirements",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration specifications": {
+    "subtopic_id": "T037",
+    "subtopic_name": "Integration Requirements",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "data migration": {
+    "subtopic_id": "T056",
+    "subtopic_name": "Data Migration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "data migration plan": {
+    "subtopic_id": "T056",
+    "subtopic_name": "Data Migration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "data migration and integration": {
+    "subtopic_id": "T056",
+    "subtopic_name": "Data Migration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "data migration and scalability": {
+    "subtopic_id": "T056",
+    "subtopic_name": "Data Migration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "data migration tasks": {
+    "subtopic_id": "T056",
+    "subtopic_name": "Data Migration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "data handling and migration": {
+    "subtopic_id": "T056",
+    "subtopic_name": "Data Migration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration activities": {
+    "subtopic_id": "T061",
+    "subtopic_name": "Integration Activities",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration tasks": {
+    "subtopic_id": "T061",
+    "subtopic_name": "Integration Activities",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration processes": {
+    "subtopic_id": "T061",
+    "subtopic_name": "Integration Activities",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and testing": {
+    "subtopic_id": "T068",
+    "subtopic_name": "Integration and Testing",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and validation": {
+    "subtopic_id": "T068",
+    "subtopic_name": "Integration and Testing",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and compatibility": {
+    "subtopic_id": "T089",
+    "subtopic_name": "Integration and Compatibility",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and interoperability": {
+    "subtopic_id": "T089",
+    "subtopic_name": "Integration and Compatibility",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration details": {
+    "subtopic_id": "T094",
+    "subtopic_name": "System Integration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and development": {
+    "subtopic_id": "T114",
+    "subtopic_name": "Development and Integration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "development and integration": {
+    "subtopic_id": "T114",
+    "subtopic_name": "Development and Integration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "third-party integration": {
+    "subtopic_id": "T115",
+    "subtopic_name": "Third-Party Integration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and documentation": {
+    "subtopic_id": "T119",
+    "subtopic_name": "System Integration and Documentation",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and migration": {
+    "subtopic_id": "T126",
+    "subtopic_name": "System Integration and Migration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and support": {
+    "subtopic_id": "T127",
+    "subtopic_name": "Integration and Support",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and maintenance": {
+    "subtopic_id": "T127",
+    "subtopic_name": "Integration and Support",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration scope": {
+    "subtopic_id": "T141",
+    "subtopic_name": "Integration Scope",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration services": {
+    "subtopic_id": "T143",
+    "subtopic_name": "System Integration Services",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "technical integration": {
+    "subtopic_id": "T146",
+    "subtopic_name": "Technical Integration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and evaluation": {
+    "subtopic_id": "T149",
+    "subtopic_name": "System Integration and Evaluation",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and automation": {
+    "subtopic_id": "T169",
+    "subtopic_name": "System Integration and Automation",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and optimization": {
+    "subtopic_id": "T188",
+    "subtopic_name": "System Integration and Optimization",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration and dependencies": {
+    "subtopic_id": "T206",
+    "subtopic_name": "Integration and Dependencies",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "system integration": {
+    "subtopic_id": "T218",
+    "subtopic_name": "System Integration",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "integration coordination": {
+    "subtopic_id": "T222",
+    "subtopic_name": "Integration Coordination",
+    "main_topic_id": "M04",
+    "main_topic_name": "System Integration and Migration"
+  },
+  "documentation requirements": {
+    "subtopic_id": "T004",
+    "subtopic_name": "Documentation Requirements",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation obligations": {
+    "subtopic_id": "T004",
+    "subtopic_name": "Documentation Requirements",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation standards": {
+    "subtopic_id": "T004",
+    "subtopic_name": "Documentation Requirements",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation provisions": {
+    "subtopic_id": "T004",
+    "subtopic_name": "Documentation Requirements",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and training": {
+    "subtopic_id": "T025",
+    "subtopic_name": "Documentation and Training",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "training and documentation": {
+    "subtopic_id": "T025",
+    "subtopic_name": "Documentation and Training",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and training materials": {
+    "subtopic_id": "T025",
+    "subtopic_name": "Documentation and Training",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation": {
+    "subtopic_id": "T034",
+    "subtopic_name": "Project Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "technical documentation": {
+    "subtopic_id": "T034",
+    "subtopic_name": "Project Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and support": {
+    "subtopic_id": "T034",
+    "subtopic_name": "Project Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and manuals": {
+    "subtopic_id": "T034",
+    "subtopic_name": "Project Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "compliance and documentation": {
+    "subtopic_id": "T062",
+    "subtopic_name": "Compliance Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and compliance": {
+    "subtopic_id": "T062",
+    "subtopic_name": "Compliance Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "compliance documentation": {
+    "subtopic_id": "T062",
+    "subtopic_name": "Compliance Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and knowledge transfer": {
+    "subtopic_id": "T065",
+    "subtopic_name": "Documentation and Knowledge Transfer",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "training and support": {
+    "subtopic_id": "T077",
+    "subtopic_name": "Training and Support",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "support and training": {
+    "subtopic_id": "T077",
+    "subtopic_name": "Training and Support",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and handover": {
+    "subtopic_id": "T078",
+    "subtopic_name": "Documentation Handover",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and handoff": {
+    "subtopic_id": "T078",
+    "subtopic_name": "Documentation Handover",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation handover": {
+    "subtopic_id": "T078",
+    "subtopic_name": "Documentation Handover",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "final documentation": {
+    "subtopic_id": "T090",
+    "subtopic_name": "Final Deliverables",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "deliverables and documentation": {
+    "subtopic_id": "T091",
+    "subtopic_name": "Deliverables and Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "deliverables documentation": {
+    "subtopic_id": "T091",
+    "subtopic_name": "Deliverables and Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "collaboration process": {
+    "subtopic_id": "T100",
+    "subtopic_name": "Collaboration and Communication",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "collaboration and communication": {
+    "subtopic_id": "T100",
+    "subtopic_name": "Collaboration and Communication",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "collaboration and support": {
+    "subtopic_id": "T100",
+    "subtopic_name": "Collaboration and Communication",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation delivery": {
+    "subtopic_id": "T101",
+    "subtopic_name": "Documentation Delivery",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation provision": {
+    "subtopic_id": "T101",
+    "subtopic_name": "Documentation Delivery",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "knowledge transfer": {
+    "subtopic_id": "T106",
+    "subtopic_name": "Knowledge Transfer",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "collaboration and knowledge transfer": {
+    "subtopic_id": "T106",
+    "subtopic_name": "Knowledge Transfer",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "training and knowledge transfer": {
+    "subtopic_id": "T106",
+    "subtopic_name": "Knowledge Transfer",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and approvals": {
+    "subtopic_id": "T118",
+    "subtopic_name": "Documentation and Approvals",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and approval": {
+    "subtopic_id": "T118",
+    "subtopic_name": "Documentation and Approvals",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "project documentation": {
+    "subtopic_id": "T129",
+    "subtopic_name": "Project Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "collaboration terms": {
+    "subtopic_id": "T192",
+    "subtopic_name": "Collaboration Terms",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "training materials": {
+    "subtopic_id": "T214",
+    "subtopic_name": "Training Materials",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "documentation and revisions": {
+    "subtopic_id": "T216",
+    "subtopic_name": "Documentation Management",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "user documentation": {
+    "subtopic_id": "T221",
+    "subtopic_name": "User Documentation",
+    "main_topic_id": "M05",
+    "main_topic_name": "Documentation and Knowledge Transfer"
+  },
+  "work scope": {
+    "subtopic_id": "T003",
+    "subtopic_name": "Scope of Work",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "scope of work": {
+    "subtopic_id": "T003",
+    "subtopic_name": "Scope of Work",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work scope and activities": {
+    "subtopic_id": "T003",
+    "subtopic_name": "Scope of Work",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work scope and schedule": {
+    "subtopic_id": "T003",
+    "subtopic_name": "Scope of Work",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "scope definition": {
+    "subtopic_id": "T008",
+    "subtopic_name": "Scope Definition",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "scope description": {
+    "subtopic_id": "T008",
+    "subtopic_name": "Scope Definition",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project scope": {
+    "subtopic_id": "T013",
+    "subtopic_name": "Project Scope",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project objectives": {
+    "subtopic_id": "T013",
+    "subtopic_name": "Project Scope",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work description": {
+    "subtopic_id": "T021",
+    "subtopic_name": "Scope of Work",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work activities": {
+    "subtopic_id": "T027",
+    "subtopic_name": "Work Activities",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work activities and processes": {
+    "subtopic_id": "T027",
+    "subtopic_name": "Work Activities",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project management": {
+    "subtopic_id": "T041",
+    "subtopic_name": "Project Management",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project management and communication": {
+    "subtopic_id": "T041",
+    "subtopic_name": "Project Management",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project administration": {
+    "subtopic_id": "T041",
+    "subtopic_name": "Project Management",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work scope definition": {
+    "subtopic_id": "T071",
+    "subtopic_name": "Scope of Work",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project activities": {
+    "subtopic_id": "T085",
+    "subtopic_name": "Project Activities",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work commitments": {
+    "subtopic_id": "T086",
+    "subtopic_name": "Work Commitments",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work schedule": {
+    "subtopic_id": "T113",
+    "subtopic_name": "Work Schedule",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project closure": {
+    "subtopic_id": "T136",
+    "subtopic_name": "Project Closure",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project overview": {
+    "subtopic_id": "T155",
+    "subtopic_name": "Project Overview",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project governance": {
+    "subtopic_id": "T157",
+    "subtopic_name": "Project Governance",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work methodology": {
+    "subtopic_id": "T195",
+    "subtopic_name": "Work Methodology",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "project scope definition": {
+    "subtopic_id": "T207",
+    "subtopic_name": "Project Scope",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "work objectives": {
+    "subtopic_id": "T219",
+    "subtopic_name": "Project Objectives",
+    "main_topic_id": "M06",
+    "main_topic_name": "Project Scope and Management"
+  },
+  "intellectual property rights": {
+    "subtopic_id": "T022",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property": {
+    "subtopic_id": "T022",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property terms": {
+    "subtopic_id": "T022",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property usage": {
+    "subtopic_id": "T022",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property and legal terms": {
+    "subtopic_id": "T022",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property use": {
+    "subtopic_id": "T022",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property and usage rights": {
+    "subtopic_id": "T022",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "usage rights": {
+    "subtopic_id": "T084",
+    "subtopic_name": "Intellectual Property Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "data usage rights": {
+    "subtopic_id": "T123",
+    "subtopic_name": "Data Usage Rights",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property and confidentiality": {
+    "subtopic_id": "T177",
+    "subtopic_name": "Intellectual Property and Confidentiality",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "intellectual property and liability": {
+    "subtopic_id": "T204",
+    "subtopic_name": "Intellectual Property and Liability",
+    "main_topic_id": "M07",
+    "main_topic_name": "Intellectual Property and Data Rights"
+  },
+  "parties involved": {
+    "subtopic_id": "T040",
+    "subtopic_name": "Project Parties",
+    "main_topic_id": "M08",
+    "main_topic_name": "Parties Identification"
+  },
+  "parties and dates": {
+    "subtopic_id": "T075",
+    "subtopic_name": "Parties and Effective Date",
+    "main_topic_id": "M08",
+    "main_topic_name": "Parties Identification"
+  },
+  "parties identification": {
+    "subtopic_id": "T131",
+    "subtopic_name": "Parties Information",
+    "main_topic_id": "M08",
+    "main_topic_name": "Parties Identification"
+  },
+  "parties information": {
+    "subtopic_id": "T131",
+    "subtopic_name": "Parties Information",
+    "main_topic_id": "M08",
+    "main_topic_name": "Parties Identification"
+  },
+  "data management": {
+    "subtopic_id": "T051",
+    "subtopic_name": "Data Management",
+    "main_topic_id": "M09",
+    "main_topic_name": "Operational Processes"
+  },
+  "data handling": {
+    "subtopic_id": "T051",
+    "subtopic_name": "Data Management",
+    "main_topic_id": "M09",
+    "main_topic_name": "Operational Processes"
+  },
+  "data handling procedures": {
+    "subtopic_id": "T051",
+    "subtopic_name": "Data Management",
+    "main_topic_id": "M09",
+    "main_topic_name": "Operational Processes"
+  },
+  "communication protocols": {
+    "subtopic_id": "T164",
+    "subtopic_name": "Communication Protocols",
+    "main_topic_id": "M09",
+    "main_topic_name": "Operational Processes"
+  },
+  "workflow implementation": {
+    "subtopic_id": "T212",
+    "subtopic_name": "Workflow Implementation",
+    "main_topic_id": "M09",
+    "main_topic_name": "Operational Processes"
+  },
+  "effective dates": {
+    "subtopic_id": "T053",
+    "subtopic_name": "Effective Date",
+    "main_topic_id": "M10",
+    "main_topic_name": "Term and Commencement"
+  },
+  "contact details": {
+    "subtopic_id": "T166",
+    "subtopic_name": "Contact Information",
+    "main_topic_id": "M11",
+    "main_topic_name": "Party Identification"
+  },
+  "source code and build materials": {
+    "subtopic_id": "T180",
+    "subtopic_name": "Source Code Deliverables",
+    "main_topic_id": "M12",
+    "main_topic_name": "Deliverable Materials"
+  }
+}

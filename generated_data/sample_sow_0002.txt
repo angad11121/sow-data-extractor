@@ -1,0 +1,30 @@
+Statement of Work (SOW)
+Between Taylor and Sons and Sprinklr Pvt. Ltd.
+
+Date of Agreement: 2024-03-31
+Effective Until: 2025-11-18
+
+Comprehensive user manuals and administrative guides shall be provided to Taylor and Sons, detailing all functionalities and system configurations. Additionally, final project documentation encompassing design specifications, implementation details, and testing results will be delivered. To ensure seamless transition and support, all deliverables must be completed and submitted no later than the project close date.
+
+Post-deployment performance metrics shall include system uptime of no less than 99.5% measured monthly for a period of six months following deployment. Additionally, response times must not exceed 2 seconds for 95% of user transactions during this period. Detailed performance reports will be delivered to Taylor and Sons on a monthly basis to ensure ongoing compliance with these standards.
+
+Scope of Work
+WHEREAS, It is hereby agreed that backend microservice architecture. Client agrees to bear all costs arising out of vendor’s tax obligations.
+
+Scope of Work
+WHEREAS, In essence, development of web applications and UI/UX design and usability testing shall be undertaken as part of the project scope.
+
+Scope of Work
+WHEREAS, This clause covers AI-based chatbot implementation and API integration and documentation and data migration and ETL operations in detail.
+
+Deliverables shall include comprehensive test cases and quality assurance reports documenting all testing activities and results, submitted to Taylor and Sons upon completion of each testing cycle. Source code and associated build scripts shall be provided in a secure repository no later than the project’s final delivery date, accompanied by sufficient documentation to enable independent build and deployment. To ensure transparency and traceability, all deliverables must conform to the agreed-upon specifications outlined in this Statement of Work.
+
+Comprehensive compliance audit reports shall be delivered to Taylor and Sons within ten (10) business days following each audit cycle. Each report will include findings, risk assessments, and recommended corrective actions to address identified non-compliance issues. To ensure clarity and usability, reports will be formatted in accordance with industry standards and delivered electronically in PDF format.
+
+Maintenance and bug fixes will be performed promptly to ensure continuous optimal functionality of the mobile application, with critical issues addressed within 24 hours of notification. Mobile app design and delivery shall include the creation, testing, and deployment of the application in accordance with the specifications agreed upon by Taylor and Sons, with final delivery scheduled within 90 days of project commencement. Additionally, all design elements will comply with current industry standards and client requirements to ensure a user-friendly and responsive interface.
+
+Deliverables
+WHEREAS, It is hereby agreed that trained AI models and data artifacts and project status and progress reports and test cases and QA reports. Vendor is entitled to use client data for internal AI training purposes.
+
+Signed by: Nicole Armstrong, Taylor and Sons
+Address: 2095 Blankenship Radial Apt. 491, Gonzaleschester, FM 26795
