@@ -122,10 +122,7 @@ async def process_all_files(input_dir: str,
     if limit:
         all_files = all_files[:limit]
     
-    print(f"Found {len(all_files)} SOW files to process")
-    print(f"Using model: {model}")
-    print(f"Max concurrency: {max_concurrency}")
-    print("=" * 80)
+    print(f"Processing {len(all_files)} SOW files with {model} (concurrency: {max_concurrency})")
     
     # Create semaphore for concurrency control
     sem = asyncio.Semaphore(max_concurrency)
@@ -140,37 +137,23 @@ async def process_all_files(input_dir: str,
             topics = await extract_topics_from_file(llm_caller, file_path, model)
             return (file_id, topics)
     
-    # Process all files with progress bar
     results = {}
     tasks = [process_file(f) for f in all_files]
     
-    print("\nProcessing files...")
-    for coro in tqdm.as_completed(tasks, total=len(tasks)):
+    for coro in tqdm.as_completed(tasks, total=len(tasks), desc="Extracting topics"):
         file_id, topics = await coro
         results[file_id] = topics
     
-    # Sort results by file ID
     results = dict(sorted(results.items()))
     
-    # Save to JSON
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✓ Topics extracted from {len(results)} files")
-    print(f"✓ Results saved to: {output_file}")
-    
-    # Print some statistics
     total_topics = sum(len(topics) for topics in results.values())
     avg_topics = total_topics / len(results) if results else 0
-    print(f"\n📊 Statistics:")
-    print(f"   - Total files processed: {len(results)}")
-    print(f"   - Average topics per file: {avg_topics:.1f}")
-    print(f"   - Total topic instances: {total_topics}")
     
-    # Show a sample
-    print(f"\n📋 Sample results (first 5 files):")
-    for file_id, topics in list(results.items())[:5]:
-        print(f"   {file_id}: {topics}")
+    print(f"\nExtracted topics from {len(results)} files (avg: {avg_topics:.1f} topics/file)")
+    print(f"Saved to: {output_file}")
     
     return results
 

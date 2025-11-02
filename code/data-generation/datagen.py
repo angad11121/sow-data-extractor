@@ -335,7 +335,7 @@ async def generate_documents(use_llm_prob: float = USE_LLM_PROB,
 
     # final cache save
     save_cache(CACHE_PATH, cache)
-    print(f"Generated {len(results)} documents into {OUT_DIR}/  (manifest: {manifest_path})")
+    print(f"Generated {len(results)} documents into {OUT_DIR}/ (manifest: {manifest_path})")
 
 
 # === Entrypoint ===

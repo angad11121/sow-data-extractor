@@ -74,21 +74,6 @@ vectorizer_model = CountVectorizer(
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 
-# # We can get these seeds from llm based preliminary extraction of topics (extract_topics_from_files.py)
-# seed_topic_list = [
-#     ["scope", "objectives", "deliverables", "requirements", "specifications"],
-#     ["payment", "invoice", "fee", "compensation", "budget", "cost"],
-#     ["legal", "liability", "warranty", "indemnification", "confidentiality", "termination"],
-#     ["timeline", "schedule", "milestones", "deadline", "phases"],
-#     ["compliance", "audit", "standards", "regulations", "governance"],
-#     ["testing", "quality", "assurance", "validation", "acceptance"],
-#     ["documentation", "manuals", "guides", "reports", "reference"],
-#     ["maintenance", "support", "updates", "bug", "fixes"],
-#     ["infrastructure", "cloud", "deployment", "configuration", "setup"],
-#     ["security", "authentication", "authorization", "encryption", "access"]
-# ]
-
-
 # 4. Fit BERTopic model on SECTIONS (not full documents)
 topic_labels = [
     "scope and deliverables",
@@ -102,28 +87,26 @@ topic_labels = [
     "security and access control"
 ]
 
-# Use zero-shot classification
 zeroshot_model = ZeroShotClassification(topic_labels, model="facebook/bart-large-mnli")
 
 topic_model = BERTopic(
     embedding_model=embedding_model,
     vectorizer_model=vectorizer_model,
-    representation_model=zeroshot_model,  # Use zeroshot instead
+    representation_model=zeroshot_model,
     min_topic_size=15,
     verbose=True,
-    zeroshot_topic_list=topic_labels,  # Add this
-    zeroshot_min_similarity=0.5  # Minimum confidence threshold
+    zeroshot_topic_list=topic_labels,
+    zeroshot_min_similarity=0.5
 )
 
 # Apply to sections before modeling
 sections_filtered = [remove_proper_nouns(s) for s in sections]
 topics, probs = topic_model.fit_transform(sections_filtered)
 
-# 5. Reduce topics if too many (optional)
-# If you get >30 topics, you can merge similar ones
+# 5. Reduce topics if too many
 num_topics = len(set(topics)) - (1 if -1 in topics else 0)
 if num_topics > 25:
-    print(f"\nReducing {num_topics} topics to 20...")
+    print(f"Reducing {num_topics} topics to 20")
     topic_model.reduce_topics(sections, nr_topics=20)
     topics = topic_model.topics_
     num_topics = len(set(topics)) - (1 if -1 in topics else 0)
@@ -153,36 +136,21 @@ for doc_id in doc_to_topics:
     # Get unique topics and their counts
     topic_counts = {}
     for t in section_topics:
-        if t != -1:  # Exclude outliers
+        if t != -1:
             topic_counts[t] = topic_counts.get(t, 0) + 1
     
-    # Sort by frequency
     sorted_topics = sorted(topic_counts.items(), key=lambda x: x[1], reverse=True)
-    doc_to_topics[doc_id]["primary_topics"] = [t[0] for t in sorted_topics[:3]]  # Top 3 topics
+    doc_to_topics[doc_id]["primary_topics"] = [t[0] for t in sorted_topics[:3]]
     doc_to_topics[doc_id]["all_topics"] = topic_counts
 
 with open("extracted_topics/bertopic_doc_topics.json", "w", encoding="utf-8") as f:
     json.dump(doc_to_topics, f, indent=2)
 
-# 8. Print summary statistics
-print("\n=== TOPIC MODEL SUMMARY ===")
-print(f"Total sections analyzed: {len(sections)}")
-print(f"Total documents: {len(input_paths)}")
-print(f"Number of topics found: {num_topics}")
-print(f"Outlier sections (Topic -1): {sum(1 for t in topics if t == -1)}")
-print(f"Outlier percentage: {(sum(1 for t in topics if t == -1) / len(sections) * 100):.1f}%")
+print(f"\nTopic model summary:")
+print(f"  Sections analyzed: {len(sections)} from {len(input_paths)} documents")
+print(f"  Topics found: {num_topics}")
+print(f"  Outlier sections: {sum(1 for t in topics if t == -1)} ({(sum(1 for t in topics if t == -1) / len(sections) * 100):.1f}%)")
 
-print("\n=== TOP 10 TOPICS ===")
-print(topic_info_no_docs.head(11))
-
-print("\n=== TOPIC NAMES (for interpretation) ===")
-for idx, row in topic_info.head(20).iterrows():
-    if row['Topic'] != -1:
-        # get_topic returns [(word, score), ...], extract just the words
-        topic_words = topic_model.get_topic(row['Topic'])[:5]
-        words = ', '.join([word for word, score in topic_words])
-        print(f"Topic {row['Topic']}: {words}")
-
-print("\n=== OUTPUT FILES ===")
-print("Topic info: extracted_topics/bertopic_info.txt")
-print("Doc→Topics mapping: extracted_topics/bertopic_doc_topics.json")
+print(f"\nOutput files:")
+print(f"  Topic info: extracted_topics/bertopic_info.txt")
+print(f"  Doc-topics mapping: extracted_topics/bertopic_doc_topics.json")

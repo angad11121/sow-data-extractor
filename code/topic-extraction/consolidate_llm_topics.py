@@ -29,26 +29,19 @@ def load_and_analyze_topics(json_path: str):
     with open(json_path, 'r') as f:
         sow_topics = json.load(f)
     
-    # Flatten all topics
     all_topics = []
     for doc_id, topics in sow_topics.items():
         all_topics.extend(topics)
     
-    # Count frequency
     topic_freq = Counter(all_topics)
     
-    print("=" * 80)
-    print(f"📊 TOPIC STATISTICS")
-    print("=" * 80)
-    print(f"Total documents: {len(sow_topics)}")
-    print(f"Total topic mentions: {len(all_topics)}")
-    print(f"Unique topic names: {len(topic_freq)}")
+    print(f"Loaded {len(sow_topics)} documents with {len(all_topics)} topic mentions ({len(topic_freq)} unique)")
     print(f"Average topics per document: {len(all_topics) / len(sow_topics):.1f}")
     
-    print(f"\n🔝 TOP 20 MOST COMMON TOPICS:")
+    print(f"\nTop 20 most common topics:")
     for topic, count in topic_freq.most_common(20):
         coverage = count / len(sow_topics) * 100
-        print(f"   {topic:40s} : {count:4d} docs ({coverage:5.1f}% coverage)")
+        print(f"  {topic:40s}: {count:4d} docs ({coverage:5.1f}%)")
     
     return sow_topics, topic_freq
 
@@ -57,15 +50,11 @@ def cluster_similar_topics(topic_freq: Counter, similarity_threshold: float = 0.
     """Cluster semantically similar topic names using embeddings."""
     unique_topics = list(topic_freq.keys())
     
-    print(f"\n🔍 CLUSTERING {len(unique_topics)} UNIQUE TOPICS...")
-    print(f"   Similarity threshold: {similarity_threshold}")
+    print(f"\nClustering {len(unique_topics)} unique topics (threshold: {similarity_threshold})")
     
-    # Encode topics using sentence transformer
     model = SentenceTransformer(EMBEDDING_MODEL)
     embeddings = model.encode(unique_topics)
     
-    # Use Agglomerative Clustering with distance threshold
-    # distance_threshold = 1 - similarity_threshold (cosine distance)
     clustering = AgglomerativeClustering(
         n_clusters=None,
         distance_threshold=1 - similarity_threshold,
@@ -74,18 +63,16 @@ def cluster_similar_topics(topic_freq: Counter, similarity_threshold: float = 0.
     )
     cluster_labels = clustering.fit_predict(embeddings)
     
-    # Group topics by cluster
     clusters = {}
     for topic, label in zip(unique_topics, cluster_labels):
         if label not in clusters:
             clusters[label] = []
         clusters[label].append((topic, topic_freq[topic]))
     
-    # Sort each cluster by frequency (most common first)
     for label in clusters:
         clusters[label].sort(key=lambda x: x[1], reverse=True)
     
-    print(f"   ✓ Found {len(clusters)} topic clusters")
+    print(f"Found {len(clusters)} topic clusters")
     
     return clusters, embeddings, unique_topics
 
@@ -94,7 +81,7 @@ async def generate_canonical_names(clusters: dict):
     """Use LLM to generate canonical names for each cluster."""
     llm_caller = SimpleLLMCaller(max_retries=3, semaphore=10)
     
-    print(f"\n🤖 GENERATING CANONICAL NAMES (using {LLM_MODEL})...")
+    print(f"\nGenerating canonical names using {LLM_MODEL}")
     
     canonical_topics = {}
     sem = asyncio.Semaphore(10)
@@ -173,7 +160,6 @@ Return ONLY valid JSON (no markdown formatting):
                     "num_variants": len(topic_variants)
                 })
     
-    # Process all clusters
     tasks = [process_cluster(cid, variants) for cid, variants in clusters.items()]
     results = []
     
@@ -181,9 +167,8 @@ Return ONLY valid JSON (no markdown formatting):
         batch = tasks[i:i+10]
         batch_results = await asyncio.gather(*batch)
         results.extend(batch_results)
-        print(f"   Processed {min(i+10, len(tasks))}/{len(tasks)} clusters...")
+        print(f"Processed {min(i+10, len(tasks))}/{len(tasks)} clusters")
     
-    # Convert to dict and sort by total occurrences
     canonical_topics = dict(results)
     
     return canonical_topics
@@ -228,23 +213,15 @@ def build_topic_taxonomy(canonical_topics: dict, embeddings: np.ndarray, unique_
 
 def print_taxonomy(taxonomy: dict, main_topics: list, subtopics: list):
     """Pretty print the taxonomy."""
-    print("\n" + "=" * 80)
-    print("📋 CANONICAL TOPIC TAXONOMY")
-    print("=" * 80)
+    print(f"\nCanonical topic taxonomy:")
+    print(f"Main topics: {len(main_topics)}, Subtopics: {len(subtopics)}")
     
-    print(f"\n✅ Main Topics ({len(main_topics)}):")
-    for topic_id in main_topics[:15]:  # Top 15
+    print(f"\nTop 15 main topics:")
+    for topic_id in main_topics[:15]:
         topic = taxonomy[topic_id]
-        print(f"\n  {topic_id}: {topic['canonical_name']}")
-        print(f"      Coverage: {topic['total_occurrences']} mentions across documents")
-        print(f"      Variants: {topic['num_variants']} ({', '.join(topic['variants'][:3])}...)")
-        print(f"      Desc: {topic['description']}")
-    
-    if subtopics:
-        print(f"\n🔸 Subtopics ({len(subtopics)}):")
-        for topic_id in subtopics[:10]:
-            topic = taxonomy[topic_id]
-            print(f"  {topic_id}: {topic['canonical_name']} → parent: {topic['parent']}")
+        print(f"  {topic_id}: {topic['canonical_name']}")
+        print(f"    Coverage: {topic['total_occurrences']} mentions, {topic['num_variants']} variants")
+        print(f"    Description: {topic['description']}")
 
 
 async def create_main_topic_hierarchy(taxonomy: dict, target_main_topics: int = 12):
@@ -261,17 +238,12 @@ async def create_main_topic_hierarchy(taxonomy: dict, target_main_topics: int = 
     """
     llm_caller = SimpleLLMCaller(max_retries=3, semaphore=10)
     
-    print(f"\n🔄 HIERARCHICAL CONSOLIDATION: Creating {target_main_topics} main topics")
-    print("=" * 80)
+    print(f"\nCreating hierarchical consolidation: {target_main_topics} main topics from {len(taxonomy)} topics")
     
-    # Step 1: Extract embeddings and topic info
     topic_ids = list(taxonomy.keys())
     topic_names = [taxonomy[tid]['canonical_name'] for tid in topic_ids]
     embeddings = np.array([taxonomy[tid]['embedding'] for tid in topic_ids])
     
-    print(f"Input: {len(topic_ids)} topics to consolidate")
-    
-    # Step 2: Hierarchical clustering with stricter threshold for main topics
     clustering = AgglomerativeClustering(
         n_clusters=target_main_topics,
         metric='cosine',
@@ -279,24 +251,13 @@ async def create_main_topic_hierarchy(taxonomy: dict, target_main_topics: int = 
     )
     main_cluster_labels = clustering.fit_predict(embeddings)
     
-    # Step 3: Group existing topics by main cluster
     main_clusters = {}
     for topic_id, cluster_label in zip(topic_ids, main_cluster_labels):
         if cluster_label not in main_clusters:
             main_clusters[cluster_label] = []
         main_clusters[cluster_label].append(topic_id)
     
-    print(f"✓ Grouped into {len(main_clusters)} main topic clusters")
-    
-    # Step 4: Analyze each cluster to understand what themes emerge
-    for cluster_id, subtopic_ids in main_clusters.items():
-        subtopics_info = [(tid, taxonomy[tid]) for tid in subtopic_ids]
-        subtopics_info.sort(key=lambda x: x[1]['total_occurrences'], reverse=True)
-        
-        print(f"\n  Cluster {cluster_id}: {len(subtopic_ids)} topics")
-        print(f"    Top topics: {', '.join([info['canonical_name'] for tid, info in subtopics_info[:5]])}")
-    
-    # Step 5: Generate main topic names using LLM (data-driven, no suggestions)
+    print(f"Grouped into {len(main_clusters)} main clusters")
     sem = asyncio.Semaphore(5)
     
     async def create_main_topic(cluster_id, subtopic_ids):
@@ -369,8 +330,7 @@ Return ONLY valid JSON (no markdown):
                 return (cluster_id, main_info, subtopic_ids)
                 
             except Exception as e:
-                print(f"   ⚠️  Error creating main topic {cluster_id}: {e}")
-                # Fallback: use most common topic
+                print(f"Error creating main topic {cluster_id}: {e}")
                 top_topic = subtopics_info[0][1]
                 return (cluster_id, {
                     "main_topic_name": top_topic['canonical_name'],
@@ -378,11 +338,9 @@ Return ONLY valid JSON (no markdown):
                     "key_areas": []
                 }, subtopic_ids)
     
-    # Process all clusters
     tasks = [create_main_topic(cid, subs) for cid, subs in main_clusters.items()]
     results = await asyncio.gather(*tasks)
     
-    # Step 6: Build new hierarchy
     new_taxonomy = {}
     main_topic_ids = []
     
@@ -390,10 +348,8 @@ Return ONLY valid JSON (no markdown):
         main_topic_id = f"M{idx+1:02d}"
         main_topic_ids.append(main_topic_id)
         
-        # Calculate total occurrences across all subtopics
         total_occurrences = sum(taxonomy[tid]['total_occurrences'] for tid in subtopic_ids)
         
-        # Create main topic entry
         new_taxonomy[main_topic_id] = {
             "canonical_name": main_info['main_topic_name'],
             "type": "main",
@@ -406,7 +362,6 @@ Return ONLY valid JSON (no markdown):
             "id": main_topic_id
         }
         
-        # Update subtopics to reference parent
         for subtopic_id in subtopic_ids:
             new_taxonomy[subtopic_id] = {
                 **taxonomy[subtopic_id],
@@ -414,8 +369,7 @@ Return ONLY valid JSON (no markdown):
                 "parent": main_topic_id
             }
         
-        print(f"✓ {main_topic_id}: {main_info['main_topic_name']} "
-              f"({len(subtopic_ids)} subtopics, {total_occurrences} total occurrences)")
+        print(f"{main_topic_id}: {main_info['main_topic_name']} ({len(subtopic_ids)} subtopics, {total_occurrences} occurrences)")
     
     return new_taxonomy, main_topic_ids
 
@@ -423,7 +377,6 @@ Return ONLY valid JSON (no markdown):
 def save_hierarchical_taxonomy(taxonomy: dict, main_topics: list, output_file: str):
     """Save the hierarchical taxonomy with visual formatting."""
     
-    # Sort subtopics by parent
     subtopics_by_parent = {}
     for topic_id, topic_info in taxonomy.items():
         if topic_info['type'] == 'subtopic':
@@ -432,7 +385,6 @@ def save_hierarchical_taxonomy(taxonomy: dict, main_topics: list, output_file: s
                 subtopics_by_parent[parent] = []
             subtopics_by_parent[parent].append(topic_id)
     
-    # Create hierarchical output
     output = {
         "main_topics": {},
         "metadata": {
@@ -447,7 +399,6 @@ def save_hierarchical_taxonomy(taxonomy: dict, main_topics: list, output_file: s
         main_topic = taxonomy[main_id]
         subtopic_ids = subtopics_by_parent.get(main_id, [])
         
-        # Sort subtopics by occurrence
         subtopics_data = []
         for sub_id in subtopic_ids:
             sub_info = taxonomy[sub_id]
@@ -456,7 +407,7 @@ def save_hierarchical_taxonomy(taxonomy: dict, main_topics: list, output_file: s
                 "name": sub_info['canonical_name'],
                 "description": sub_info['description'],
                 "occurrences": sub_info['total_occurrences'],
-                "variants": sub_info['variants'][:5]  # Top 5 variants only
+                "variants": sub_info['variants'][:5]
             })
         subtopics_data.sort(key=lambda x: x['occurrences'], reverse=True)
         
@@ -469,13 +420,11 @@ def save_hierarchical_taxonomy(taxonomy: dict, main_topics: list, output_file: s
             "subtopics": subtopics_data
         }
     
-    # Save
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ Saved hierarchical taxonomy to: {output_file}")
+    print(f"Saved hierarchical taxonomy to: {output_file}")
     
-    # Also save full taxonomy for reference
     full_output_file = output_file.replace('.json', '_full.json')
     with open(full_output_file, 'w', encoding='utf-8') as f:
         json.dump({
@@ -484,16 +433,11 @@ def save_hierarchical_taxonomy(taxonomy: dict, main_topics: list, output_file: s
             "metadata": output["metadata"]
         }, f, indent=2, ensure_ascii=False)
     
-    print(f"✅ Saved full taxonomy to: {full_output_file}")
+    print(f"Saved full taxonomy to: {full_output_file}")
 
 
 def print_hierarchical_taxonomy(taxonomy: dict, main_topics: list):
     """Pretty print the hierarchical taxonomy."""
-    print("\n" + "=" * 80)
-    print("📊 HIERARCHICAL TOPIC TAXONOMY")
-    print("=" * 80)
-    
-    # Group subtopics by parent
     subtopics_by_parent = {}
     for topic_id, topic_info in taxonomy.items():
         if topic_info['type'] == 'subtopic':
@@ -502,26 +446,20 @@ def print_hierarchical_taxonomy(taxonomy: dict, main_topics: list):
                 subtopics_by_parent[parent] = []
             subtopics_by_parent[parent].append((topic_id, topic_info))
     
-    print(f"\n✅ {len(main_topics)} MAIN TOPICS:\n")
+    print(f"\nHierarchical taxonomy: {len(main_topics)} main topics\n")
     
     for main_id in main_topics:
         main_topic = taxonomy[main_id]
-        print(f"{'═' * 80}")
-        print(f"{main_id}: {main_topic['canonical_name'].upper()}")
-        print(f"{'─' * 80}")
-        print(f"Description: {main_topic['description']}")
-        print(f"Total Coverage: {main_topic['total_occurrences']} occurrences")
-        print(f"Subtopics: {main_topic['num_subtopics']}")
+        print(f"{main_id}: {main_topic['canonical_name']}")
+        print(f"  {main_topic['description']}")
+        print(f"  Coverage: {main_topic['total_occurrences']} occurrences, {main_topic['num_subtopics']} subtopics")
         
         if main_id in subtopics_by_parent:
             subtopics = subtopics_by_parent[main_id]
-            # Sort by occurrence
             subtopics.sort(key=lambda x: x[1]['total_occurrences'], reverse=True)
             
-            print(f"\n  Top Subtopics:")
-            for sub_id, sub_info in subtopics[:8]:  # Show top 8
-                print(f"    • {sub_info['canonical_name']:<40} "
-                      f"({sub_info['total_occurrences']} occurrences)")
+            for sub_id, sub_info in subtopics[:5]:
+                print(f"    - {sub_info['canonical_name']} ({sub_info['total_occurrences']} occurrences)")
         print()
 
 
@@ -539,29 +477,23 @@ async def main(similarity_threshold: float = 0.75, create_hierarchy: bool = True
     output_file = "./extracted_topics/canonical_topics.json"
     hierarchical_output = "./extracted_topics/hierarchical_topics.json"
     
-    # Step 1: Load and analyze
     sow_topics, topic_freq = load_and_analyze_topics(input_file)
     
-    # Step 2: Cluster similar topics
     clusters, embeddings, unique_topics = cluster_similar_topics(
         topic_freq, 
         similarity_threshold=similarity_threshold
     )
     
-    # Step 3: Generate canonical names
     canonical_topics = await generate_canonical_names(clusters)
     
-    # Step 4: Build taxonomy with IDs
     taxonomy, main_topics, subtopics = build_topic_taxonomy(
         canonical_topics, 
         embeddings, 
         unique_topics
     )
     
-    # Step 5: Print and save initial taxonomy
     print_taxonomy(taxonomy, main_topics, subtopics)
     
-    # Save initial taxonomy
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump({
@@ -576,30 +508,22 @@ async def main(similarity_threshold: float = 0.75, create_hierarchy: bool = True
             }
         }, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ Saved initial canonical taxonomy to: {output_file}")
+    print(f"Saved initial canonical taxonomy to: {output_file}")
     
-    # Step 6: Create hierarchical consolidation
     if create_hierarchy:
-        print("\n" + "=" * 80)
-        print("🔄 PHASE 2: HIERARCHICAL CONSOLIDATION")
-        print("=" * 80)
-        
         hierarchical_taxonomy, hierarchical_main_topics = await create_main_topic_hierarchy(
             taxonomy, 
             target_main_topics=target_main_topics
         )
         
-        # Print hierarchical view
         print_hierarchical_taxonomy(hierarchical_taxonomy, hierarchical_main_topics)
         
-        # Save hierarchical taxonomy
         save_hierarchical_taxonomy(
             hierarchical_taxonomy, 
             hierarchical_main_topics, 
             hierarchical_output
         )
         
-        # Create mapping file for hierarchical version
         variant_to_hierarchical = {}
         for topic_id, topic_info in hierarchical_taxonomy.items():
             if topic_info['type'] == 'subtopic':
@@ -615,9 +539,8 @@ async def main(similarity_threshold: float = 0.75, create_hierarchy: bool = True
         with open(hierarchical_mapping_file, 'w', encoding='utf-8') as f:
             json.dump(variant_to_hierarchical, f, indent=2, ensure_ascii=False)
         
-        print(f"✅ Saved hierarchical mapping to: {hierarchical_mapping_file}")
+        print(f"Saved hierarchical mapping to: {hierarchical_mapping_file}")
     
-    # Create original variant mapping
     variant_to_canonical = {}
     for topic_id, topic_info in taxonomy.items():
         for variant in topic_info.get('variants', []):
@@ -630,7 +553,7 @@ async def main(similarity_threshold: float = 0.75, create_hierarchy: bool = True
     with open(mapping_file, 'w', encoding='utf-8') as f:
         json.dump(variant_to_canonical, f, indent=2, ensure_ascii=False)
     
-    print(f"✅ Saved variant→canonical mapping to: {mapping_file}")
+    print(f"Saved variant-to-canonical mapping to: {mapping_file}")
 
 
 if __name__ == "__main__":

@@ -57,22 +57,15 @@ class SectionLabeler:
         Args:
             taxonomy_file: Path to hierarchical_topics_full.json
         """
-        print("Loading taxonomy and embedding model...")
-        
-        # Load taxonomy
         with open(taxonomy_file, 'r') as f:
             data = json.load(f)
             self.taxonomy = data['taxonomy']
             self.main_topics = data['main_topics']
         
-        # Initialize embedding model
         self.embedding_model = SentenceTransformer(EMBEDDING_MODEL)
-        
-        # Build topic lookup structures
         self._build_topic_index()
         
-        print(f"✓ Loaded {len(self.main_topics)} main topics")
-        print(f"✓ Loaded {len(self.subtopic_embeddings)} subtopics with embeddings")
+        print(f"Loaded {len(self.main_topics)} main topics and {len(self.subtopic_embeddings)} subtopics")
     
     def _build_topic_index(self):
         """Build index of subtopic embeddings and metadata."""
@@ -369,18 +362,13 @@ def save_minimal_format(labeled_docs: Dict, labeler: SectionLabeler, output_file
         labeler: SectionLabeler instance
         output_file: Output JSON file
     """
-    print("\n" + "=" * 80)
-    print("CONVERTING TO MINIMAL FORMAT")
-    print("=" * 80)
-    
     minimal = convert_to_minimal_format(labeled_docs, labeler)
     
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(minimal, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ Minimal format saved to: {output_file}")
+    print(f"Saved minimal format to: {output_file}")
     
-    # Print statistics
     total_sections = 0
     total_unlabeled = 0
     
@@ -392,29 +380,7 @@ def save_minimal_format(labeled_docs: Dict, labeler: SectionLabeler, output_file
                 for subtopic_data in main_topic_data.get("subtopics", {}).values():
                     total_sections += len(subtopic_data.get("sections", []))
     
-    print(f"   Total labeled sections: {total_sections}")
-    print(f"   Total unlabeled (Others): {total_unlabeled}")
-    
-    # Show sample structure
-    print("\n📋 SAMPLE MINIMAL FORMAT (first document):")
-    first_doc_id = list(minimal.keys())[0]
-    first_doc = minimal[first_doc_id]
-    
-    print(f"\nDocument: {first_doc_id}")
-    for main_id in sorted(first_doc.keys()):
-        if main_id == "Others":
-            unlabeled_count = len(first_doc[main_id].get("unlabeled", []))
-            print(f"  {main_id}:")
-            print(f"    unlabeled: {unlabeled_count} sections")
-        else:
-            main_name = first_doc[main_id].get("name", "Unknown")
-            print(f"  {main_id} ({main_name}):")
-            for subtopic_id, subtopic_data in sorted(first_doc[main_id].get("subtopics", {}).items()):
-                subtopic_name = subtopic_data.get("name", "Unknown")
-                sections = subtopic_data.get("sections", [])
-                print(f"    {subtopic_id} ({subtopic_name}): {len(sections)} sections")
-                if sections:
-                    print(f"      Example: {sections[0]['lines']} - {sections[0]['text'][:80]}...")
+    print(f"Total labeled sections: {total_sections}, unlabeled: {total_unlabeled}")
 
 
 async def process_all_documents(
@@ -432,29 +398,18 @@ async def process_all_documents(
         output_file: Output file for labeled documents
         limit: Optional limit on number of files to process
     """
-    print("=" * 80)
-    print("SECTION LABELING PIPELINE")
-    print("=" * 80)
-    
-    # Initialize labeler
     labeler = SectionLabeler(taxonomy_file)
     
-    # Find all SOW files
     pattern = os.path.join(input_dir, "sow_*.txt")
     all_files = sorted(glob.glob(pattern))
     
     if limit:
         all_files = all_files[:limit]
     
-    print(f"\nFound {len(all_files)} SOW files to process")
-    print(f"Similarity threshold: {SIMILARITY_THRESHOLD}")
-    print(f"Top-K matches per section: {TOP_K_TOPICS}")
-    print("=" * 80)
+    print(f"Processing {len(all_files)} SOW files (threshold: {SIMILARITY_THRESHOLD}, top-K: {TOP_K_TOPICS})")
     
-    # Process files
     results = {}
     
-    print("\nProcessing documents...")
     for filepath in tqdm(all_files, desc="Labeling sections"):
         doc_id = os.path.basename(filepath).replace('.txt', '')
         
@@ -469,55 +424,24 @@ async def process_all_documents(
             print(f"Error processing {filepath}: {e}")
             continue
     
-    # Save minimal hierarchical format
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     minimal_output = output_file.replace('.json', '_minimal.json')
     save_minimal_format(results, labeler, minimal_output)
-    
-    # Print statistics
-    print("\n" + "=" * 80)
-    print("📊 STATISTICS")
-    print("=" * 80)
     
     total_sections = sum(doc['num_sections'] for doc in results.values())
     total_labeled = sum(doc['num_labeled_sections'] for doc in results.values())
     avg_coverage = np.mean([doc['coverage_pct'] for doc in results.values()])
     
-    print(f"Documents processed: {len(results)}")
-    print(f"Total sections: {total_sections}")
-    print(f"Sections labeled: {total_labeled} ({total_labeled/total_sections*100:.1f}%)")
-    print(f"Average coverage per doc: {avg_coverage:.1f}%")
-    
-    # Topic coverage across all documents
     all_subtopics = set()
     all_main_topics = set()
     for doc in results.values():
         all_subtopics.update(doc['subtopics_present'])
         all_main_topics.update(doc['main_topics_present'])
     
-    print(f"\nUnique subtopics found: {len(all_subtopics)} / {len(labeler.subtopic_ids)}")
-    print(f"Unique main topics found: {len(all_main_topics)} / {len(labeler.main_topics)}")
-    
-    # Show sample labeled sections
-    print("\n" + "=" * 80)
-    print("📋 SAMPLE LABELED SECTIONS (first document)")
-    print("=" * 80)
-    
-    first_doc = list(results.values())[0]
-    print(f"\nDocument: {first_doc['doc_id']}")
-    print(f"Sections: {first_doc['num_sections']}, Labeled: {first_doc['num_labeled_sections']}")
-    
-    for section in first_doc['sections'][:5]:  # First 5 sections
-        print(f"\n  Section {section['section_idx']}:")
-        print(f"  Text preview: {section['text'][:100]}...")
-        
-        if section['labels']['primary_subtopic']:
-            labels = section['labels']
-            print(f"  → Subtopic: {labels['primary_subtopic']['name']} ({labels['primary_subtopic']['id']})")
-            print(f"  → Main Topic: {labels['primary_main_topic']['name']} ({labels['primary_main_topic']['id']})")
-            print(f"  → Confidence: {labels['primary_subtopic']['confidence']:.3f}")
-        else:
-            print(f"  → No label (below threshold)")
+    print(f"\nProcessed {len(results)} documents:")
+    print(f"  Sections: {total_sections} total, {total_labeled} labeled ({total_labeled/total_sections*100:.1f}%)")
+    print(f"  Average coverage: {avg_coverage:.1f}%")
+    print(f"  Unique subtopics: {len(all_subtopics)}/{len(labeler.subtopic_ids)}, main topics: {len(all_main_topics)}/{len(labeler.main_topics)}")
     
     return results, labeler
 
